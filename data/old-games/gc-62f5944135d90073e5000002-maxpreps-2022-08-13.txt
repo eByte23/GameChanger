@@ -1,0 +1,2 @@
+00b953ca-910a-4630-aadc-d4b7589cd80d
+Jersey|Runs|RunsBattedIn|Triples|ReachedOnError|Singles|StolenBase|AtBats|SacrificeBunt|StruckOut|Hits|HitByPitch|SacrificeFly|Doubles|HomeRuns|BaseOnBalls|FieldersChoice|HomeRunsAgainst|EarnedRuns|BattersFaced|NumberOfPitches|WildPitches|HitBatter|RunsAgainst|Appearances|BattersStruckOut|BaseOnBallsAgainst|HitsAgainst|StolenBaseAttempts|InningsPitched|PartialInningPitched

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="05/12/19" source="GameChanger" source_format="Sabertooth" version="10.0.0.1">
+  <venue date="05/11/19" gameid="5cd65fc662e8680fb7000003" homeid="WHLS" homename="Wheels Hill" leaguegame="Y" location="Waverley Basball Field" schedinn="9" start="14:40 PM" visid="SNTS" visname="St.Kilda 2019 MWBL C Grade Red" />
+  <team code="SNTS" id="SNTS" name="St.Kilda 2019 MWBL C Grade Red" record="0-1-0" vh="V">
+    <linescore errs="6" hits="8" line="0,0,0,1,1,0" lob="5" runs="2">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="0" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="1" />
+      <lineinn inn="5" score="1" />
+      <lineinn inn="6" score="0" />
+    </linescore>
+    <starters>
+      <starter name="Elijah Bate" pos="3B" slot="1" />
+      <starter name="Jonathon Momson" pos="LF" slot="2" />
+      <starter name="Kevin Wang" pos="CF" slot="3" />
+      <starter name="Carlo Spadazzi" pos="C" slot="4" />
+      <starter name="Ian Buckle" pos="RF" slot="5" />
+      <starter name="Ryoji Shinoda" pos="SS" slot="6" />
+      <starter name="Ash Ryan" pos="2B" slot="7" />
+      <starter name="Pete McCourt" pos="P" slot="8" />
+      <starter name="Carlos Mena" pos="1B" slot="9" />
+    </starters>
+    <totals>
+      <hitting ab="25" bb="0" cs="0" double="1" gdp="0" ground="0" h="8" hbp="0" hr="0" kl="4" pickoff="0" r="2" rbi="2" rchci="0" rcherr="0" sb="5" sf="0" sh="0" so="7" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="6" indp="0" intp="0" pb="0" po="15" sba="2" />
+      <pitching ab="29" bb="4" bf="34" bk="0" er="8" fly="8" ground="3" h="10" hbp="0" hr="1" ip="5.0" picked="0" pitches="110" r="11" so="1" wp="2" />
+      <hsitsummary lob="5" rbi-2out="0" rchci="0" rcherr="0" wrbiops="11" />
+      <psitsummary fly="8" ground="3" />
+    </totals>
+    <player atpos="3b" gp="1" name="Elijah Bate" pos="3b" shortname="Bate" spot="1">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="2" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="lf" gp="1" name="Jonathon Momson" pos="lf" shortname="Momson" spot="2">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="cf" gp="1" name="Kevin Wang" pos="cf" shortname="Wang" spot="3">
+      <hitting ab="3" bb="0" cs="0" double="1" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="c" gp="1" name="Carlo Spadazzi" pos="c" shortname="Spadazzi" spot="4">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="rf" gp="1" name="Ian Buckle" pos="rf" shortname="Buckle" spot="5">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="ss" gp="1" name="Ryoji Shinoda" pos="ss" shortname="Shinoda" spot="6">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+      <pitching ab="3" appear="2" bb="1" bf="4" bk="0" er="0" fly="1" ground="0" gs="0" h="0" hbp="0" hr="0" ip="0.2" picked="0" pitches="11" r="0" so="1" wp="0" />
+      <psitsummary fly="1" ground="0" />
+    </player>
+    <player atpos="2b" gp="1" name="Ash Ryan" pos="2b" shortname="Ryan" spot="7">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Pete McCourt" pos="p" shortname="McCourt" spot="8">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="2" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <pitching ab="26" appear="1" bb="3" bf="30" bk="0" er="8" fly="7" ground="3" gs="1" h="10" hbp="0" hr="1" ip="4.1" picked="0" pitches="99" r="11" so="0" wp="2" />
+      <psitsummary fly="7" ground="3" />
+    </player>
+    <player atpos="1b" gp="1" name="Carlos Mena" pos="1b" shortname="Mena" spot="9">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="3" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+  </team>
+  <team code="WHLS" id="WHLS" name="Wheels Hill" vh="H">
+    <linescore errs="0" hits="10" line="1,1,2,0,7,X" lob="8" runs="11">
+      <lineinn inn="1" score="1" />
+      <lineinn inn="2" score="1" />
+      <lineinn inn="3" score="2" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="7" />
+      <lineinn inn="6" score="X" />
+    </linescore>
+    <starters>
+      <starter name="Aggets" pos="CF" slot="1" />
+      <starter name="Gannon" pos="C" slot="2" />
+      <starter name="Psycho" pos="1B" slot="3" />
+      <starter name="Nick" pos="3B" slot="4" />
+      <starter name="Barge" pos="RF" slot="5" />
+      <starter name="Herbie" pos="SS" slot="6" />
+      <starter name="Chicken" pos="P" slot="7" />
+      <starter name="Goose" pos="LF" slot="8" />
+      <starter name="Cori" pos="2B" slot="9" />
+    </starters>
+    <totals>
+      <hitting ab="29" bb="4" cs="0" double="1" gdp="0" ground="0" h="10" hbp="0" hr="1" kl="1" pickoff="0" r="11" rbi="9" rchci="0" rcherr="5" sb="2" sf="1" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="18" sba="5" />
+      <pitching ab="25" bb="0" bf="25" bk="0" er="2" fly="5" ground="4" h="8" hbp="0" hr="0" ip="6.0" picked="0" pitches="82" r="2" so="7" wp="0" />
+      <hsitsummary lob="8" rbi-2out="1" rchci="0" rcherr="5" wrbiops="17" />
+      <psitsummary fly="5" ground="4" />
+    </totals>
+    <player atpos="cf" gp="1" name="Aggets" pos="cf" shortname="Aggets" spot="1">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="2" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="1" wrbiops="2" />
+    </player>
+    <player atpos="c" gp="1" name="Gannon" pos="c" shortname="Gannon" spot="2">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="7" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="1b" gp="1" name="Psycho" pos="1b" shortname="Psycho" spot="3">
+      <hitting ab="4" bb="0" cs="0" double="1" gdp="0" ground="0" h="3" hbp="0" hr="1" kl="0" pickoff="0" r="2" rbi="4" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="3b" gp="1" name="Nick" pos="3b" shortname="Nick" spot="4">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="1" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="4" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="1" wrbiops="3" />
+    </player>
+    <player atpos="rf" gp="1" name="Barge" pos="rf" shortname="Barge" spot="5">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="ss" gp="1" name="Herbie" pos="ss" shortname="Herbie" spot="6">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="2" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="2" wrbiops="0" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Chicken" pos="p" shortname="Chicken" spot="7">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="2" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="5" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="1" wrbiops="3" />
+      <pitching ab="25" appear="1" bb="0" bf="25" bk="0" er="2" fly="5" ground="4" gs="1" h="8" hbp="0" hr="0" ip="6.0" picked="0" pitches="82" r="2" so="7" win="1-0" wp="0" />
+      <psitsummary fly="5" ground="4" />
+    </player>
+    <player atpos="lf" gp="1" name="Goose" pos="lf" shortname="Goose" spot="8">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="0" sf="1" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="2b" gp="1" name="Cori" pos="2b" shortname="Cori" spot="9">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Bate" out="1" scored="0" tobase="0" />
+          <narrative text="Bate pops out to first baseman Psycho" />
+        </play>
+        <play>
+          <batter name="Momson" out="1" scored="0" tobase="1" />
+          <narrative text="Momson grounds out to second baseman Cori" />
+        </play>
+        <play>
+          <batter name="Wang" out="1" scored="0" tobase="0" />
+          <narrative text="Wang flies out to center fielder Aggets" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+      <batting id="WHLS" vh="H">
+        <play>
+          <batter name="Aggets" out="1" scored="0" tobase="0" />
+          <narrative text="Aggets flies out to center fielder Wang" />
+        </play>
+        <play>
+          <batter name="Gannon" out="1" scored="0" tobase="0" />
+          <narrative text="Gannon flies out to first baseman Mena" />
+        </play>
+        <play>
+          <batter name="Psycho" out="0" scored="0" tobase="2" />
+          <narrative text="Psycho doubles on a line drive to center fielder Wang" />
+        </play>
+        <play>
+          <batter name="Nick" out="0" scored="0" tobase="1" />
+          <runner name="Psycho" out="0" scored="0" tobase="3" />
+          <narrative text="Nick singles on a ground ball to shortstop Shinoda" />
+        </play>
+        <play>
+          <runner name="Nick" out="0" scored="0" tobase="2" />
+          <narrative text="Nick advances to 2nd on error by shortstop Shinoda" />
+        </play>
+        <play>
+          <runner name="Psycho" out="0" scored="1" tobase="4" />
+          <narrative text="Psycho scores on the same error" />
+        </play>
+        <play>
+          <batter name="Barge" out="1" scored="0" tobase="0" />
+          <narrative text="Barge flies out to third baseman Bate" />
+        </play>
+        <innsummary e="1" h="2" lob="1" r="1" />
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Spadazzi" out="0" scored="0" tobase="1" />
+          <narrative text="Spadazzi singles on a line drive to left fielder Goose" />
+        </play>
+        <play>
+          <runner name="Spadazzi" out="0" scored="0" tobase="2" />
+          <narrative text="Spadazzi steals 2nd" />
+        </play>
+        <play>
+          <batter name="Buckle" out="1" scored="0" tobase="0" />
+          <narrative text="Buckle strikes out looking, Chicken pitching" />
+        </play>
+        <play>
+          <batter name="Shinoda" out="1" scored="0" tobase="0" />
+          <narrative text="Shinoda strikes out looking, Chicken pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="0" />
+          <narrative text="Ryan strikes out swinging, Chicken pitching" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="0" />
+      </batting>
+      <batting id="WHLS" vh="H">
+        <play>
+          <batter name="Herbie" out="1" scored="0" tobase="0" />
+          <narrative text="Herbie flies out to second baseman Ryan" />
+        </play>
+        <play>
+          <batter name="Chicken" out="0" scored="0" tobase="1" />
+          <narrative text="Chicken walks, McCourt pitching" />
+        </play>
+        <play>
+          <batter name="Goose" out="1" scored="0" tobase="1" />
+          <runner name="Chicken" out="0" scored="0" tobase="2" />
+          <narrative text="Goose grounds out to third baseman Bate" />
+        </play>
+        <play>
+          <batter name="Cori" out="0" scored="0" tobase="1" />
+          <narrative text="Cori walks, McCourt pitching" />
+        </play>
+        <play>
+          <runner name="Chicken" out="0" scored="0" tobase="3" />
+          <narrative text="Chicken advances to 3rd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Aggets" out="0" scored="0" tobase="1" />
+          <runner name="Chicken" out="0" scored="1" tobase="4" />
+          <runner name="Cori" out="0" scored="0" tobase="2" />
+          <narrative text="Aggets singles on a line drive to left fielder Momson. Chicken scores" />
+        </play>
+        <play>
+          <batter name="Gannon" out="0" scored="0" tobase="1" />
+          <runner name="Cori" out="1" scored="0" tobase="3" />
+          <runner name="Aggets" out="0" scored="0" tobase="2" />
+          <narrative text="Gannon grounds into fielder's choice to third baseman Bate" />
+        </play>
+        <innsummary e="0" h="1" lob="2" r="1" />
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="1" />
+          <narrative text="McCourt grounds out to third baseman Nick" />
+        </play>
+        <play>
+          <batter name="Mena" out="1" scored="0" tobase="1" />
+          <narrative text="Mena grounds out to third baseman Nick" />
+        </play>
+        <play>
+          <batter name="Bate" out="0" scored="0" tobase="1" />
+          <narrative text="Bate singles on a line drive to left fielder Goose" />
+        </play>
+        <play>
+          <runner name="Bate" out="0" scored="0" tobase="2" />
+          <narrative text="Bate steals 2nd" />
+        </play>
+        <play>
+          <batter name="Momson" out="1" scored="0" tobase="1" />
+          <narrative text="Momson grounds out to first baseman Psycho" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="0" />
+      </batting>
+      <batting id="WHLS" vh="H">
+        <play>
+          <batter name="Psycho" out="0" scored="0" tobase="1" />
+          <narrative text="Psycho singles on a line drive to left fielder Momson" />
+        </play>
+        <play>
+          <runner name="Psycho" out="0" scored="0" tobase="2" />
+          <narrative text="Psycho steals 2nd" />
+        </play>
+        <play>
+          <batter name="Nick" out="0" scored="0" tobase="1" />
+          <runner name="Psycho" out="0" scored="0" tobase="3" />
+          <narrative text="Nick hits a ground ball and reaches on an error by third baseman Bate" />
+        </play>
+        <play>
+          <runner name="Nick" out="0" scored="0" tobase="2" />
+          <narrative text="Nick steals 2nd" />
+        </play>
+        <play>
+          <batter name="Barge" out="0" scored="0" tobase="1" />
+          <runner name="Psycho" out="1" scored="0" tobase="4" />
+          <runner name="Nick" out="0" scored="0" tobase="3" />
+          <narrative text="Barge grounds into fielder's choice to shortstop Shinoda" />
+        </play>
+        <play>
+          <runner name="Nick" out="0" scored="1" tobase="4" />
+          <narrative text="Nick scores on wild pitch" />
+        </play>
+        <play>
+          <batter name="Herbie" out="0" scored="0" tobase="1" />
+          <runner name="Barge" out="0" scored="0" tobase="2" />
+          <narrative text="Herbie hits a pop fly and reaches on an error by third baseman Bate" />
+        </play>
+        <play>
+          <batter name="Chicken" out="0" scored="0" tobase="1" />
+          <runner name="Barge" out="0" scored="0" tobase="3" />
+          <runner name="Herbie" out="0" scored="0" tobase="2" />
+          <narrative text="Chicken hits a ground ball and reaches on an error by first baseman Mena" />
+        </play>
+        <play>
+          <batter name="Goose" out="0" scored="0" tobase="1" />
+          <runner name="Barge" out="0" scored="1" tobase="4" />
+          <runner name="Herbie" out="0" scored="0" tobase="3" />
+          <runner name="Chicken" out="1" scored="0" tobase="2" />
+          <narrative text="Goose grounds into fielder's choice to shortstop Shinoda. Barge scores" />
+        </play>
+        <play>
+          <batter name="Cori" out="1" scored="0" tobase="1" />
+          <narrative text="Cori grounds out to pitcher McCourt" />
+        </play>
+        <innsummary e="3" h="1" lob="2" r="2" />
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Wang" out="0" scored="0" tobase="1" />
+          <narrative text="Wang singles on a line drive to left fielder Goose" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="1" scored="0" tobase="0" />
+          <narrative text="Spadazzi strikes out swinging, Chicken pitching" />
+        </play>
+        <play>
+          <runner name="Wang" out="0" scored="0" tobase="2" />
+          <narrative text="Wang steals 2nd" />
+        </play>
+        <play>
+          <batter name="Buckle" out="0" scored="0" tobase="1" />
+          <runner name="Wang" out="0" scored="0" tobase="3" />
+          <narrative text="Buckle singles on a line drive to right fielder Barge" />
+        </play>
+        <play>
+          <batter name="Shinoda" out="0" scored="0" tobase="1" />
+          <runner name="Wang" out="0" scored="1" tobase="4" />
+          <runner name="Buckle" out="0" scored="0" tobase="2" />
+          <narrative text="Shinoda singles on a line drive to left fielder Goose. Wang scores" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Buckle" out="1" scored="0" tobase="3" />
+          <runner name="Shinoda" out="0" scored="0" tobase="2" />
+          <narrative text="Ryan grounds into fielder's choice to shortstop Herbie" />
+        </play>
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="0" />
+          <narrative text="McCourt flies out to second baseman Cori" />
+        </play>
+        <innsummary e="0" h="3" lob="2" r="1" />
+      </batting>
+      <batting id="WHLS" vh="H">
+        <play>
+          <batter name="Aggets" out="0" scored="0" tobase="1" />
+          <narrative text="Aggets hits a ground ball and reaches on an error by first baseman Mena" />
+        </play>
+        <play>
+          <batter name="Gannon" out="1" scored="0" tobase="1" />
+          <runner name="Aggets" out="0" scored="0" tobase="2" />
+          <narrative text="Gannon grounds out to pitcher McCourt" />
+        </play>
+        <play>
+          <batter name="Psycho" out="1" scored="0" tobase="0" />
+          <narrative text="Psycho pops out to pitcher McCourt" />
+        </play>
+        <play>
+          <batter name="Nick" out="1" scored="0" tobase="0" />
+          <narrative text="Nick pops out to catcher Spadazzi" />
+        </play>
+        <innsummary e="1" h="0" lob="1" r="0" />
+      </batting>
+    </inning>
+    <inning number="5">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Mena" out="1" scored="0" tobase="0" />
+          <narrative text="Mena strikes out looking, Chicken pitching" />
+        </play>
+        <play>
+          <batter name="Bate" out="0" scored="0" tobase="1" />
+          <narrative text="Bate singles on a hard ground ball to third baseman Nick" />
+        </play>
+        <play>
+          <runner name="Bate" out="0" scored="0" tobase="2" />
+          <narrative text="Bate steals 2nd" />
+        </play>
+        <play>
+          <batter name="Momson" out="0" scored="0" tobase="1" />
+          <runner name="Bate" out="0" scored="1" tobase="4" />
+          <narrative text="Momson singles on a ground ball to left fielder Goose. Bate scores" />
+        </play>
+        <play>
+          <runner name="Momson" out="0" scored="0" tobase="2" />
+          <narrative text="Momson steals 2nd" />
+        </play>
+        <play>
+          <batter name="Wang" out="0" scored="0" tobase="2" />
+          <runner name="Momson" out="1" scored="0" tobase="4" />
+          <narrative text="Wang doubles on a line drive to center fielder Aggets" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="1" scored="0" tobase="0" />
+          <narrative text="Spadazzi lines out to third baseman Nick" />
+        </play>
+        <innsummary e="0" h="3" lob="1" r="1" />
+      </batting>
+      <batting id="WHLS" vh="H">
+        <play>
+          <batter name="Barge" out="0" scored="0" tobase="1" />
+          <narrative text="Barge singles on a line drive to center fielder Wang" />
+        </play>
+        <play>
+          <batter name="Herbie" out="0" scored="0" tobase="1" />
+          <runner name="Barge" out="0" scored="0" tobase="2" />
+          <narrative text="Herbie walks, McCourt pitching" />
+        </play>
+        <play>
+          <batter name="Chicken" out="0" scored="0" tobase="1" />
+          <runner name="Barge" out="0" scored="0" tobase="3" />
+          <runner name="Herbie" out="0" scored="0" tobase="2" />
+          <narrative text="Chicken singles on a line drive to left fielder Momson" />
+        </play>
+        <play>
+          <batter name="Goose" out="1" scored="0" tobase="1" />
+          <runner name="Barge" out="0" scored="1" tobase="4" />
+          <runner name="Herbie" out="0" scored="0" tobase="3" />
+          <runner name="Chicken" out="0" scored="0" tobase="2" />
+          <narrative text="Goose out on sacrifice fly to left fielder Momson. Barge scores" />
+        </play>
+        <play>
+          <batter name="Cori" out="0" scored="0" tobase="1" />
+          <runner name="Herbie" out="0" scored="1" tobase="4" />
+          <runner name="Chicken" out="0" scored="0" tobase="3" />
+          <narrative text="Cori singles on a line drive to center fielder Wang. Herbie scores" />
+        </play>
+        <play>
+          <batter name="Aggets" out="0" scored="0" tobase="1" />
+          <runner name="Chicken" out="0" scored="1" tobase="4" />
+          <runner name="Cori" out="0" scored="0" tobase="2" />
+          <narrative text="Aggets singles on a ground ball to first baseman Mena. Chicken scores" />
+        </play>
+        <play>
+          <batter name="Gannon" out="0" scored="0" tobase="1" />
+          <runner name="Cori" out="0" scored="0" tobase="3" />
+          <runner name="Aggets" out="0" scored="0" tobase="2" />
+          <narrative text="Gannon singles on a line drive to left fielder Momson" />
+        </play>
+        <play>
+          <batter name="Psycho" out="0" scored="1" tobase="4" />
+          <runner name="Cori" out="0" scored="1" tobase="4" />
+          <runner name="Aggets" out="0" scored="1" tobase="4" />
+          <runner name="Gannon" out="0" scored="1" tobase="4" />
+          <narrative text="Psycho homers on a fly ball to center field. Cori scores. Aggets scores. Gannon scores" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Shinoda in at pitcher" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Wang in at shortstop" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Momson in at center fielder" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: McCourt in at left fielder" />
+        </play>
+        <play>
+          <batter name="Nick" out="1" scored="0" tobase="0" />
+          <narrative text="Nick flies out to center fielder Momson" />
+        </play>
+        <play>
+          <batter name="Barge" out="0" scored="0" tobase="1" />
+          <narrative text="Barge walks, Shinoda pitching" />
+        </play>
+        <play>
+          <batter name="Herbie" out="0" scored="0" tobase="1" />
+          <runner name="Barge" out="0" scored="0" tobase="2" />
+          <narrative text="Herbie hits a ground ball and reaches on an error by first baseman Mena" />
+        </play>
+        <play>
+          <batter name="Chicken" out="1" scored="0" tobase="0" />
+          <narrative text="Chicken strikes out looking, Shinoda pitching" />
+        </play>
+        <innsummary e="1" h="6" lob="2" r="7" />
+      </batting>
+    </inning>
+    <inning number="6">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Buckle" out="1" scored="0" tobase="0" />
+          <narrative text="Buckle strikes out swinging, Chicken pitching" />
+        </play>
+        <play>
+          <batter name="Shinoda" out="1" scored="0" tobase="0" />
+          <narrative text="Shinoda lines out to third baseman Nick" />
+        </play>
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="0" />
+          <narrative text="Ryan strikes out looking, Chicken pitching" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="04/07/23" source="GameChanger" source_format="Sabertooth" version="11.5.1.0">
+  <venue date="02/11/23" gameid="63e00fce59a2eb171beed57f" homeid="STKL" homename="VSBL ST KILDA SAINTS DIVISION 4 SOUTH" leaguegame="Y" location="" schedinn="7" start="15:30 PM" visid="PKNH" visname="Pakenham BLACK " />
+  <team code="PKNH" conf="VSBL" id="PKNH" name="Pakenham BLACK " vh="V">
+    <linescore errs="1" hits="3" line="2,1,0,0,2" lob="8" runs="5">
+      <lineinn inn="1" score="2" />
+      <lineinn inn="2" score="1" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="2" />
+    </linescore>
+    <starters>
+      <starter name="PlayerJ" slot="1" />
+      <starter name="PlayerK" slot="2" />
+      <starter name="PlayerL" slot="3" />
+      <starter name="PlayerM" slot="4" />
+      <starter name="PlayerN" slot="5" />
+      <starter name="PlayerO" slot="6" />
+      <starter name="PlayerP" slot="7" />
+      <starter name="PlayerQ" slot="8" />
+      <starter name="PlayerR" slot="9" />
+      <starter name="PlayerS" slot="10" />
+    </starters>
+    <totals>
+      <hitting ab="21" bb="7" cs="0" double="0" gdp="0" ground="0" h="3" hbp="0" hr="0" kl="2" pickoff="0" r="5" rbi="4" rchci="0" rcherr="3" sb="3" sf="0" sh="0" so="8" triple="0" />
+      <fielding a="1" ci="0" csb="1" e="1" indp="0" intp="0" pb="3" po="15" sba="8" />
+      <pitching ab="25" bb="2" bf="29" bk="0" er="6" fly="4" ground="2" h="12" hbp="2" hr="0" ip="5.0" picked="1" pitches="108" r="8" so="6" wp="0" />
+      <hsitsummary lob="8" rbi-2out="0" rchci="0" rcherr="3" wrbiops="13" />
+      <psitsummary fly="4" ground="2" />
+    </totals>
+    <player gp="1" name="PlayerJ" shortname="PlayerJ" spot="1">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="1" wrbiops="0" />
+    </player>
+    <player gp="1" name="PlayerK" shortname="PlayerK" spot="2">
+      <hitting ab="1" bb="2" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player gp="1" name="PlayerL" shortname="PlayerL" spot="3">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="1" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="1" wrbiops="1" />
+    </player>
+    <player gp="1" name="PlayerM" shortname="PlayerM" spot="4">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player gp="1" name="PlayerN" shortname="PlayerN" spot="5">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="3" />
+    </player>
+    <player gp="1" name="PlayerO" shortname="PlayerO" spot="6">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player gp="1" name="PlayerP" shortname="PlayerP" spot="7">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player gp="1" name="PlayerQ" shortname="PlayerQ" spot="8">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="5" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player gp="1" name="PlayerR" shortname="PlayerR" spot="9">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player gp="1" name="PlayerS" shortname="PlayerS" spot="10">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="1" wrbiops="2" />
+    </player>
+  </team>
+  <team code="STKL" conf="VSBL" id="STKL" name="VSBL ST KILDA SAINTS DIVISION 4 SOUTH" record="8-7-0" vh="H">
+    <linescore errs="3" hits="12" line="4,0,2,0,2" lob="6" runs="8">
+      <lineinn inn="1" score="4" />
+      <lineinn inn="2" score="0" />
+      <lineinn inn="3" score="2" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="2" />
+    </linescore>
+    <starters>
+      <starter name="Millar  Kuhl" pos="C" slot="1" />
+      <starter name="Baxtar Kuhl" pos="SS" slot="2" />
+      <starter name="Jeff Kuhl" pos="P" slot="3" />
+      <starter name="Kyle Otto" pos="3B" slot="4" />
+      <starter name="Simon Leicht" pos="P" slot="5" />
+      <starter name="Joel Coburn" pos="CF" slot="6" />
+      <starter name="Dean Bowden" slot="7" />
+      <starter name="Steven  Cuthbert" pos="LF" slot="8" />
+      <starter name="Gilbert Ng" pos="3B" slot="9" />
+      <starter name="Harold Absalom" pos="2B" slot="10" />
+      <starter name="Jared Drever" pos="RF" slot="11" />
+      <starter name="Jovan Giardina" pos="1B" slot="12" />
+    </starters>
+    <totals>
+      <hitting ab="25" bb="2" cs="1" double="2" gdp="0" ground="0" h="12" hbp="2" hr="0" kl="1" pickoff="1" r="8" rbi="6" rchci="0" rcherr="0" sb="8" sf="0" sh="0" so="6" triple="1" />
+      <fielding a="1" ci="0" csb="0" e="3" indp="0" intp="0" pb="0" po="15" sba="3" />
+      <pitching ab="21" bb="7" bf="28" bk="0" er="3" fly="3" ground="4" h="3" hbp="0" hr="0" ip="5.0" picked="0" pitches="113" r="5" so="8" wp="0" />
+      <hsitsummary lob="6" rbi-2out="3" rchci="0" rcherr="0" wrbiops="14" />
+      <psitsummary fly="3" ground="4" />
+    </totals>
+    <player atpos="c" gp="1" name="Millar  Kuhl" pos="c" shortname="Kuhl" spot="1">
+      <hitting ab="3" bb="0" cs="0" double="1" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="1" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="8" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="ss" gp="1" name="Baxtar Kuhl" pos="ss" shortname="Kuhl" spot="2">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Jeff Kuhl" pos="p" shortname="Kuhl" spot="3">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="3" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="2" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="1" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+      <pitching ab="4" appear="1" bb="2" bf="6" bk="0" er="2" fly="1" ground="1" gs="1" h="1" hbp="0" hr="0" ip="1.0" picked="0" pitches="29" r="2" so="1" wp="0" />
+      <psitsummary fly="1" ground="1" />
+    </player>
+    <player atpos="3b" gp="1" name="Kyle Otto" pos="3b" shortname="Otto" spot="4">
+      <hitting ab="3" bb="0" cs="0" double="1" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="p" gp="1" name="Simon Leicht" pos="p" shortname="Leicht" spot="5">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="2" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+      <pitching ab="17" appear="2" bb="5" bf="22" bk="0" er="1" fly="2" ground="3" gs="0" h="2" hbp="0" hr="0" ip="4.0" picked="0" pitches="84" r="3" so="7" win="3-1" wp="0" />
+      <psitsummary fly="2" ground="3" />
+    </player>
+    <player atpos="cf" gp="1" name="Joel Coburn" pos="cf" shortname="Coburn" spot="6">
+      <hitting ab="0" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="0" pickoff="1" r="0" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player gp="1" name="Dean Bowden" shortname="Bowden" spot="7">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="lf" gp="1" name="Steven  Cuthbert" pos="lf" shortname="Cuthbert" spot="8">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="2" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="3b" gp="1" name="Gilbert Ng" pos="3b" shortname="Ng" spot="9">
+      <hitting ab="1" bb="0" cs="1" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="2b" gp="1" name="Harold Absalom" pos="2b" shortname="Absalom" spot="10">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="rf" gp="1" name="Jared Drever" pos="rf" shortname="Drever" spot="11">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="1b" gp="1" name="Jovan Giardina" pos="1b" shortname="Giardina" spot="12">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="PKNH" vh="V">
+        <play>
+          <batter name="PlayerJ" out="0" scored="0" tobase="1" />
+          <narrative text="PlayerJ walks, Kuhl pitching" />
+        </play>
+        <play>
+          <batter name="PlayerK" out="0" scored="0" tobase="1" />
+          <runner name="PlayerJ" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerK walks, Kuhl pitching" />
+        </play>
+        <play>
+          <batter name="PlayerL" out="0" scored="0" tobase="1" />
+          <runner name="PlayerJ" out="0" scored="0" tobase="3" />
+          <runner name="PlayerK" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerL singles on a ground ball to center fielder Coburn" />
+        </play>
+        <play>
+          <batter name="PlayerM" out="1" scored="0" tobase="0" />
+          <runner name="PlayerJ" out="0" scored="1" tobase="4" />
+          <runner name="PlayerK" out="0" scored="0" tobase="3" />
+          <narrative text="PlayerM flies out to center fielder Coburn. PlayerJ scores" />
+        </play>
+        <play>
+          <runner name="PlayerL" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerL steals 2nd" />
+        </play>
+        <play>
+          <batter name="PlayerN" out="1" scored="0" tobase="1" />
+          <runner name="PlayerK" out="0" scored="1" tobase="4" />
+          <runner name="PlayerL" out="0" scored="0" tobase="3" />
+          <narrative text="PlayerN grounds out, first baseman Giardina to pitcher Kuhl. PlayerK scores" />
+        </play>
+        <play>
+          <batter name="PlayerO" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerO strikes out looking, Kuhl pitching" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="2" />
+      </batting>
+      <batting id="STKL" vh="H">
+        <play>
+          <batter name="Kuhl" out="0" scored="0" tobase="3" />
+          <narrative text="Kuhl triples on a fly ball to center fielder" />
+        </play>
+        <play>
+          <batter name="Kuhl" out="1" scored="0" tobase="0" />
+          <narrative text="Kuhl lines out to second baseman" />
+        </play>
+        <play>
+          <batter name="Kuhl" out="0" scored="0" tobase="1" />
+          <runner name="Kuhl" out="0" scored="1" tobase="4" />
+          <narrative text="Kuhl singles on a ground ball to center fielder. Kuhl scores" />
+        </play>
+        <play>
+          <batter name="Otto" out="0" scored="0" tobase="1" />
+          <runner name="Kuhl" out="0" scored="0" tobase="2" />
+          <narrative text="Otto singles on a ground ball to second baseman" />
+        </play>
+        <play>
+          <runner name="Kuhl" out="0" scored="0" tobase="3" />
+          <narrative text="Kuhl advances to 3rd on error by second baseman" />
+        </play>
+        <play>
+          <runner name="Otto" out="0" scored="0" tobase="2" />
+          <narrative text="Otto advances to 2nd on the same error" />
+        </play>
+        <play>
+          <runner name="Kuhl" out="0" scored="1" tobase="4" />
+          <narrative text="Kuhl scores on passed ball" />
+        </play>
+        <play>
+          <runner name="Otto" out="0" scored="0" tobase="3" />
+          <narrative text="Otto advances to 3rd on the same pitch" />
+        </play>
+        <play>
+          <batter name="Leicht" out="0" scored="0" tobase="1" />
+          <narrative text="Leicht walks" />
+        </play>
+        <play>
+          <batter name="Coburn" out="0" scored="0" tobase="1" />
+          <runner name="Leicht" out="0" scored="0" tobase="2" />
+          <narrative text="Coburn is hit by pitch" />
+        </play>
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden strikes out swinging" />
+        </play>
+        <play>
+          <batter name="Cuthbert" out="0" scored="0" tobase="1" />
+          <runner name="Otto" out="0" scored="1" tobase="4" />
+          <runner name="Leicht" out="0" scored="1" tobase="4" />
+          <runner name="Coburn" out="0" scored="0" tobase="2" />
+          <narrative text="Cuthbert singles on a ground ball to center fielder. Otto scores. Leicht scores" />
+        </play>
+        <play>
+          <runner name="Coburn" out="0" scored="0" tobase="3" />
+          <narrative text="Coburn steals 3rd" />
+        </play>
+        <play>
+          <batter name="Ng" out="1" scored="0" tobase="0" />
+          <narrative text="Ng strikes out swinging" />
+        </play>
+        <innsummary e="1" h="4" lob="2" r="4" />
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="PKNH" vh="V">
+        <play>
+          <narrative text="Lineup changed: Leicht in at pitcher" />
+        </play>
+        <play>
+          <batter name="PlayerP" out="0" scored="0" tobase="1" />
+          <narrative text="PlayerP walks, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="PlayerQ" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerQ strikes out swinging, Leicht pitching" />
+        </play>
+        <play>
+          <runner name="PlayerP" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerP steals 2nd" />
+        </play>
+        <play>
+          <batter name="PlayerR" out="1" scored="0" tobase="1" />
+          <runner name="PlayerP" out="0" scored="0" tobase="3" />
+          <narrative text="PlayerR grounds out to shortstop Kuhl" />
+        </play>
+        <play>
+          <batter name="PlayerS" out="0" scored="0" tobase="1" />
+          <runner name="PlayerP" out="0" scored="1" tobase="4" />
+          <narrative text="PlayerS hits a fly ball and reaches on an error by right fielder Drever. PlayerP scores" />
+        </play>
+        <play>
+          <batter name="PlayerJ" out="1" scored="0" tobase="1" />
+          <narrative text="PlayerJ grounds out to second baseman Absalom" />
+        </play>
+        <innsummary e="1" h="0" lob="1" r="1" />
+      </batting>
+      <batting id="STKL" vh="H">
+        <play>
+          <batter name="Absalom" out="1" scored="0" tobase="0" />
+          <narrative text="Absalom strikes out swinging" />
+        </play>
+        <play>
+          <batter name="Drever" out="0" scored="0" tobase="1" />
+          <narrative text="Drever singles on a line drive to center fielder" />
+        </play>
+        <play>
+          <runner name="Drever" out="0" scored="0" tobase="2" />
+          <narrative text="Drever steals 2nd" />
+        </play>
+        <play>
+          <batter name="Giardina" out="1" scored="0" tobase="1" />
+          <runner name="Drever" out="0" scored="0" tobase="3" />
+          <narrative text="Giardina singles on a ground ball, third baseman to first baseman" />
+        </play>
+        <play>
+          <batter name="Kuhl" out="1" scored="0" tobase="0" />
+          <narrative text="Kuhl flies out to right fielder" />
+        </play>
+        <innsummary e="0" h="2" lob="1" r="0" />
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="PKNH" vh="V">
+        <play>
+          <batter name="PlayerK" out="1" scored="0" tobase="1" />
+          <narrative text="PlayerK grounds out to second baseman Absalom" />
+        </play>
+        <play>
+          <batter name="PlayerL" out="0" scored="0" tobase="1" />
+          <narrative text="PlayerL hits a ground ball and reaches on an error by shortstop Kuhl" />
+        </play>
+        <play>
+          <batter name="PlayerM" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerM strikes out swinging, Leicht pitching" />
+        </play>
+        <play>
+          <runner name="PlayerL" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerL steals 2nd" />
+        </play>
+        <play>
+          <batter name="PlayerN" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerN flies out to shortstop Kuhl" />
+        </play>
+        <innsummary e="1" h="0" lob="1" r="0" />
+      </batting>
+      <batting id="STKL" vh="H">
+        <play>
+          <batter name="Kuhl" out="1" scored="0" tobase="0" />
+          <narrative text="Kuhl flies out to third baseman" />
+        </play>
+        <play>
+          <batter name="Kuhl" out="0" scored="0" tobase="1" />
+          <narrative text="Kuhl singles on a ground ball to center fielder" />
+        </play>
+        <play>
+          <runner name="Kuhl" out="0" scored="0" tobase="2" />
+          <narrative text="Kuhl steals 2nd" />
+        </play>
+        <play>
+          <batter name="Otto" out="0" scored="0" tobase="1" />
+          <runner name="Kuhl" out="0" scored="0" tobase="3" />
+          <narrative text="Otto reaches on dropped 3rd strike (passed ball)" />
+        </play>
+        <play>
+          <batter name="Leicht" out="0" scored="0" tobase="1" />
+          <runner name="Kuhl" out="0" scored="1" tobase="4" />
+          <runner name="Otto" out="0" scored="0" tobase="2" />
+          <narrative text="Leicht singles on a line drive to center fielder. Kuhl scores" />
+        </play>
+        <play>
+          <runner name="Otto" out="0" scored="0" tobase="3" />
+          <narrative text="Otto steals 3rd" />
+        </play>
+        <play>
+          <runner name="Leicht" out="0" scored="0" tobase="2" />
+          <narrative text="Leicht steals 2nd" />
+        </play>
+        <play>
+          <batter name="Coburn" out="0" scored="0" tobase="1" />
+          <narrative text="Coburn walks" />
+        </play>
+        <play>
+          <runner name="Otto" out="0" scored="1" tobase="4" />
+          <narrative text="Otto scores on passed ball" />
+        </play>
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden out on infield fly to first baseman" />
+        </play>
+        <play>
+          <narrative text="Coburn picked off at 1st, first baseman" />
+        </play>
+        <play>
+          <batter name="Cuthbert" out="0" scored="0" tobase="0" />
+          <narrative text="Half-inning ended by out on the base paths" />
+        </play>
+        <innsummary e="0" h="2" lob="1" r="2" />
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="PKNH" vh="V">
+        <play>
+          <batter name="PlayerO" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerO strikes out swinging, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="PlayerP" out="0" scored="0" tobase="1" />
+          <narrative text="PlayerP singles on a ground ball to shortstop Kuhl" />
+        </play>
+        <play>
+          <batter name="PlayerQ" out="0" scored="0" tobase="1" />
+          <runner name="PlayerP" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerQ walks, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="PlayerR" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerR strikes out looking, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="PlayerS" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerS strikes out swinging, Leicht pitching" />
+        </play>
+        <innsummary e="0" h="1" lob="2" r="0" />
+      </batting>
+      <batting id="STKL" vh="H">
+        <play>
+          <batter name="Cuthbert" out="1" scored="0" tobase="1" />
+          <narrative text="Cuthbert grounds out to pitcher" />
+        </play>
+        <play>
+          <batter name="Ng" out="0" scored="0" tobase="1" />
+          <narrative text="Ng is hit by pitch" />
+        </play>
+        <play>
+          <runner name="Ng" out="1" scored="0" tobase="2" />
+          <narrative text="Ng caught stealing 2nd, catcher" />
+        </play>
+        <play>
+          <batter name="Absalom" out="1" scored="0" tobase="0" />
+          <narrative text="Absalom strikes out swinging" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+    </inning>
+    <inning number="5">
+      <batting id="PKNH" vh="V">
+        <play>
+          <narrative text="Lineup changed: Bowden in at third baseman" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Ng in at third baseman" />
+        </play>
+        <play>
+          <batter name="PlayerJ" out="0" scored="0" tobase="1" />
+          <narrative text="PlayerJ hits a ground ball and reaches on an error by third baseman Ng" />
+        </play>
+        <play>
+          <batter name="PlayerK" out="0" scored="0" tobase="1" />
+          <runner name="PlayerJ" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerK walks, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="PlayerL" out="0" scored="0" tobase="1" />
+          <runner name="PlayerJ" out="0" scored="0" tobase="3" />
+          <runner name="PlayerK" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerL walks, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="PlayerM" out="1" scored="0" tobase="0" />
+          <runner name="PlayerJ" out="0" scored="1" tobase="4" />
+          <narrative text="PlayerM flies out to center fielder Coburn. PlayerJ scores" />
+        </play>
+        <play>
+          <batter name="PlayerN" out="0" scored="0" tobase="1" />
+          <runner name="PlayerK" out="0" scored="0" tobase="3" />
+          <runner name="PlayerL" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerN singles on a fly ball to right fielder Drever" />
+        </play>
+        <play>
+          <batter name="PlayerO" out="0" scored="0" tobase="1" />
+          <runner name="PlayerK" out="0" scored="1" tobase="4" />
+          <runner name="PlayerL" out="0" scored="0" tobase="3" />
+          <runner name="PlayerN" out="0" scored="0" tobase="2" />
+          <narrative text="PlayerO walks, Leicht pitching. PlayerK scores" />
+        </play>
+        <play>
+          <batter name="PlayerP" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerP strikes out swinging, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="PlayerQ" out="1" scored="0" tobase="0" />
+          <narrative text="PlayerQ strikes out swinging, Leicht pitching" />
+        </play>
+        <innsummary e="1" h="1" lob="3" r="2" />
+      </batting>
+      <batting id="STKL" vh="H">
+        <play>
+          <batter name="Drever" out="0" scored="0" tobase="1" />
+          <narrative text="Drever singles on a ground ball to shortstop" />
+        </play>
+        <play>
+          <batter name="Giardina" out="0" scored="0" tobase="1" />
+          <runner name="Drever" out="1" scored="0" tobase="2" />
+          <narrative text="Giardina grounds into fielder's choice to shortstop" />
+        </play>
+        <play>
+          <runner name="Giardina" out="0" scored="0" tobase="2" />
+          <narrative text="Giardina steals 2nd" />
+        </play>
+        <play>
+          <runner name="Giardina" out="0" scored="0" tobase="3" />
+          <narrative text="Giardina steals 3rd" />
+        </play>
+        <play>
+          <batter name="Kuhl" out="0" scored="0" tobase="2" />
+          <runner name="Giardina" out="0" scored="1" tobase="4" />
+          <narrative text="Kuhl doubles on a line drive to center fielder. Giardina scores" />
+        </play>
+        <play>
+          <runner name="Kuhl" out="0" scored="0" tobase="3" />
+          <narrative text="Kuhl steals 3rd" />
+        </play>
+        <play>
+          <batter name="Kuhl" out="1" scored="0" tobase="0" />
+          <narrative text="Kuhl strikes out looking" />
+        </play>
+        <play>
+          <batter name="Kuhl" out="0" scored="0" tobase="1" />
+          <runner name="Kuhl" out="0" scored="1" tobase="4" />
+          <narrative text="Kuhl singles on a ground ball to third baseman. Kuhl scores" />
+        </play>
+        <play>
+          <batter name="Otto" out="0" scored="0" tobase="2" />
+          <runner name="Kuhl" out="0" scored="0" tobase="3" />
+          <narrative text="Otto doubles on a fly ball to right fielder" />
+        </play>
+        <play>
+          <batter name="Leicht" out="1" scored="0" tobase="1" />
+          <narrative text="Leicht grounds out to shortstop" />
+        </play>
+        <innsummary e="0" h="4" lob="2" r="2" />
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>

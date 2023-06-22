@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="04/06/23" source="GameChanger" source_format="Chelsea" version="8.17.0.1">
+  <venue date="08/13/22" gameid="62f5944135d90073e5000002" homeid="STKL" homename="St Kilda  B Reserves" leaguegame="Y" location="" schedinn="9" start="12:15 PM" visid="CRYD" visname="Croydon B Reserves" />
+  <team code="CRYD" id="CRYD" name="Croydon B Reserves" vh="V">
+    <linescore errs="0" hits="26" line="3,2,0,1,6,6" lob="7" runs="18">
+      <lineinn inn="1" score="3" />
+      <lineinn inn="2" score="2" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="1" />
+      <lineinn inn="5" score="6" />
+      <lineinn inn="6" score="6" />
+    </linescore>
+    <batords>
+      <batord name="Luke Perry" pos="DH" spot="1" />
+      <batord name="M Perry" pos="CF" spot="2" />
+      <batord name="W Parker" pos="SS" spot="3" />
+      <batord name="J Berka" pos="2B" spot="4" />
+      <batord name="J Peters" pos="3B" spot="5" />
+      <batord name="T Black" pos="C" spot="6" />
+      <batord name="C Keating" pos="RF" spot="7" />
+      <batord name="M Cron" pos="LF" spot="8" />
+      <batord name="J Loughman" pos="1B" spot="9" />
+      <batord name="T Hickey" pos="P" spot="10" />
+    </batords>
+    <totals>
+      <hitting ab="42" bb="1" cs="3" double="8" gdp="0" ground="0" h="26" hbp="0" hr="2" kl="0" pickoff="1" r="18" rbi="16" rchci="0" rcherr="2" sb="7" sf="1" sh="0" so="2" triple="0" />
+      <fielding a="9" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="18" sba="0" />
+      <pitching ab="22" bb="0" bf="22" bk="0" er="0" fly="3" ground="10" h="4" hbp="0" hr="0" ip="6.0" picked="0" pitches="80" r="0" so="5" wp="0" />
+      <hsitsummary lob="7" rbi-2out="9" rchci="0" rcherr="2" wrbiops="18" />
+      <psitsummary fly="3" ground="10" />
+    </totals>
+    <player atpos="dh" gp="1" gs="1" name="Luke Perry" pos="dh" shortname="Perry" spot="1" sub="1">
+      <hitting ab="4" bb="1" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="4" rbi="1" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+    </player>
+    <player atpos="cf" gp="1" gs="1" name="M Perry" pos="cf" shortname="Perry" spot="2" sub="1">
+      <hitting ab="4" bb="0" cs="0" double="2" gdp="0" ground="0" h="4" hbp="0" hr="2" kl="0" pickoff="1" r="2" rbi="5" rchci="0" rcherr="0" sb="1" sf="1" sh="0" so="0" triple="0" />
+      <hsitsummary lob="0" rbi-2out="2" rchci="0" rcherr="0" wrbiops="1" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+    </player>
+    <player atpos="ss" gp="1" gs="1" name="W Parker" pos="ss" shortname="Parker" spot="3" sub="1">
+      <hitting ab="5" bb="0" cs="2" double="2" gdp="0" ground="0" h="4" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="1" rbi-2out="2" rchci="0" rcherr="0" wrbiops="3" />
+      <fielding a="2" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+    </player>
+    <player atpos="2b" gp="1" gs="1" name="J Berka" pos="2b" shortname="Berka" spot="4" sub="1">
+      <hitting ab="5" bb="0" cs="0" double="0" gdp="0" ground="0" h="4" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="1" rbi-2out="1" rchci="0" rcherr="0" wrbiops="3" />
+      <fielding a="2" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+    </player>
+    <player atpos="3b" gp="1" gs="1" name="J Peters" pos="3b" shortname="Peters" spot="5" sub="1">
+      <hitting ab="5" bb="0" cs="0" double="3" gdp="0" ground="0" h="4" hbp="0" hr="0" kl="0" pickoff="0" r="3" rbi="2" rchci="0" rcherr="0" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="0" rbi-2out="2" rchci="0" rcherr="0" wrbiops="1" />
+      <fielding a="2" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+    </player>
+    <player atpos="c" gp="1" gs="1" name="T Black" pos="c" shortname="Black" spot="6" sub="1">
+      <hitting ab="5" bb="0" cs="0" double="1" gdp="0" ground="0" h="3" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="2" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="1" triple="0" />
+      <hsitsummary lob="2" rbi-2out="1" rchci="0" rcherr="0" wrbiops="3" />
+      <fielding a="2" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="4" sba="0" />
+    </player>
+    <player atpos="rf" gp="1" gs="1" name="C Keating" pos="rf" shortname="Keating" spot="7" sub="1">
+      <hitting ab="5" bb="0" cs="0" double="0" gdp="0" ground="0" h="3" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="4" rbi-2out="1" rchci="0" rcherr="0" wrbiops="3" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+    </player>
+    <player atpos="lf" gp="1" gs="1" name="M Cron" pos="lf" shortname="Cron" spot="8" sub="1">
+      <hitting ab="5" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="2" sb="1" sf="0" sh="0" so="1" triple="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="2" wrbiops="1" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+    </player>
+    <player atpos="1b" gp="1" gs="1" name="J Loughman" pos="1b" shortname="Loughman" spot="9" sub="1">
+      <hitting ab="4" bb="0" cs="1" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="10" sba="0" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="T Hickey" pos="p" shortname="Hickey" spot="10" sub="1">
+      <hitting ab="0" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="1" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <pitching ab="22" appear="1" bb="0" bf="22" bk="0" er="0" fly="3" ground="10" gs="1" h="4" hbp="0" hr="0" ip="6.0" picked="0" pitches="80" r="0" so="5" wp="0" />
+      <psitsummary fly="3" ground="10" />
+    </player>
+  </team>
+  <team code="STKL" id="STKL" name="St Kilda  B Reserves" record="4-9-0" vh="H">
+    <linescore errs="2" hits="4" line="0,0,0,0,0,0" lob="4" runs="0">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="0" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="0" />
+      <lineinn inn="6" score="0" />
+    </linescore>
+    <batords>
+      <batord name="David Velazquez" pos="SS" spot="1" />
+      <batord name="Steve Bowden" pos="C" spot="2" />
+      <batord name="Justin Graham" pos="P" spot="3" />
+      <batord name="Will Haines" pos="3B" spot="4" />
+      <batord name="Harold Absalom" pos="RF" spot="5" />
+      <batord name="Dean Bowden" pos="2B" spot="6" />
+      <batord name="Peter McCourt" pos="CF" spot="7" />
+      <batord name="Liam Thompson" pos="LF" spot="8" />
+      <batord name="Josh Smart" pos="1B" spot="9" />
+    </batords>
+    <totals>
+      <hitting ab="22" bb="0" cs="0" double="0" gdp="0" ground="0" h="4" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="5" triple="0" />
+      <fielding a="6" ci="0" csb="3" e="2" indp="0" intp="0" pb="2" po="18" sba="7" />
+      <pitching ab="42" bb="1" bf="44" bk="0" er="12" fly="6" ground="4" h="26" hbp="0" hr="2" ip="6.0" picked="1" pitches="110" r="18" so="2" wp="1" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+      <psitsummary fly="6" ground="4" />
+    </totals>
+    <player atpos="ss" gp="1" gs="1" name="David Velazquez" pos="ss" shortname="Velazquez" spot="1" sub="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="3" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+    </player>
+    <player atpos="c" gp="1" gs="0" name="Steve Bowden" pos="c" shortname="Bowden" spot="2" sub="1">
+      <hitting ab="1" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="2" po="1" sba="0" />
+    </player>
+    <player atpos="1b" gp="1" gs="1" name="Avi Lewis" pos="1b" shortname="Lewis" spot="2" sub="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+    </player>
+    <player atpos="dh" gp="1" gs="1" name="Justin Graham" pos="dh" shortname="Graham" spot="3" sub="1">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <pitching ab="8" appear="2" bb="1" bf="10" bk="0" er="6" fly="1" ground="1" gs="0" h="6" hbp="0" hr="0" ip="1.0" picked="0" pitches="32" r="6" so="1" wp="0" />
+      <psitsummary fly="1" ground="1" />
+    </player>
+    <player atpos="3b" gp="1" gs="1" name="Will Haines" pos="3b" shortname="Haines" spot="4" sub="1">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="1" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+    </player>
+    <player atpos="rf" gp="1" gs="1" name="Harold Absalom" pos="rf" shortname="Absalom" spot="5" sub="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+    </player>
+    <player atpos="2b" gp="1" gs="1" name="Dean Bowden" pos="2b" shortname="Bowden" spot="6" sub="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <fielding a="2" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="4" sba="0" />
+    </player>
+    <player atpos="cf" gp="1" gs="1" name="Peter McCourt" pos="cf" shortname="McCourt" spot="7" sub="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+    </player>
+    <player atpos="lf" gp="1" gs="1" name="Liam Thompson" pos="lf" shortname="Thompson" spot="8" sub="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+    </player>
+    <player atpos="c" gp="1" gs="1" name="Josh Smart" pos="c" shortname="Smart" spot="9" sub="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Adam Cauley" pos="p" shortname="Cauley" sub="1">
+      <hitting ab="1" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <fielding a="0" ci="0" csb="3" e="0" indp="0" intp="0" pb="0" po="3" sba="7" />
+      <pitching ab="34" appear="1" bb="0" bf="34" bk="0" er="6" fly="5" ground="3" gs="1" h="20" hbp="0" hr="2" ip="5.0" picked="1" pitches="78" r="12" so="1" wp="1" />
+      <psitsummary fly="5" ground="3" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="CRYD" vh="V">
+        <play batter="Perry" outs="0" pitcher="Cauley" seq="41">
+          <batter ab="1" action="4-3" adv="0" gndout="1" name="Perry" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Cauley" />
+          <pitches b="1" s="1" text="FBP" />
+          <fielder a="1" name="Bowden" pos="2B" />
+          <fielder name="Lewis" po="1" pos="1B" />
+          <narrative text="Perry grounded out to 2B, (ground ball) [D Bowden, A Lewis]" />
+        </play>
+        <play batter="Perry" outs="1" pitcher="Cauley" seq="42">
+          <batter ab="1" action="HR-9" adv="4" h="1" hr="1" name="Perry" out="0" scored="1" tobase="4" />
+          <pitcher ab="1" bf="1" h="1" hr="1" name="Cauley" />
+          <pitches b="1" s="0" text="BP" />
+          <narrative text="Perry homered to RF, (fly ball) []" />
+        </play>
+        <play batter="Parker" outs="1" pitcher="Cauley" seq="43">
+          <batter ab="1" action="1B-9" adv="1" h="1" name="Parker" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Parker singled to RF, (ground ball) [H Absalom]" />
+        </play>
+        <play batter="Berka" first="Parker" outs="1" pitcher="Cauley" seq="44">
+          <batter ab="1" action="1B-9" adv="1" h="1" name="Berka" out="0" tobase="1" />
+          <runner adv="1" base="1" name="Parker" out="0" tobase="2" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Berka singled to RF, (ground ball) [H Absalom] W Parker advanced to 2nd" />
+        </play>
+        <play first="Berka" outs="1" pitcher="Cauley" second="Parker" seq="45">
+          <runner adv="1" base="2" name="Parker" out="0" tobase="3" />
+          <pitcher name="Cauley" />
+          <narrative text="Parker advanced to 3rd on throw" />
+        </play>
+        <play first="Berka" outs="1" pitcher="Cauley" seq="46" third="Parker">
+          <runner adv="1" base="1" name="Berka" out="0" tobase="2" />
+          <pitcher name="Cauley" />
+          <narrative text="Berka advanced to 2nd on throw" />
+        </play>
+        <play outs="1" pitcher="Cauley" second="Berka" seq="47" third="Parker">
+          <runner base="3" cs="1" name="Parker" out="1" tobase="3" />
+          <pitcher ip="1" name="Cauley" />
+          <fielder name="Cauley" po="1" pos="P" />
+          <narrative text="Parker caught stealing home [A Cauley]" />
+        </play>
+        <play outs="2" pitcher="Cauley" second="Berka" seq="48">
+          <runner adv="2" base="2" name="Berka" out="0" sb="1" scored="1" tobase="4" />
+          <pitcher name="Cauley" sba="1" />
+          <fielder name="Smart" pos="C" sba="1" />
+          <narrative text="Berka scored on steal of home" />
+        </play>
+        <play batter="Peters" outs="2" pitcher="Cauley" seq="49">
+          <batter ab="1" action="1B-9" adv="1" h="1" name="Peters" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Peters singled to RF, (ground ball) [H Absalom]" />
+        </play>
+        <play first="Peters" outs="2" pitcher="Cauley" seq="50">
+          <runner adv="1" base="1" name="Peters" out="0" sb="1" tobase="2" />
+          <pitcher name="Cauley" sba="1" />
+          <fielder name="Smart" pos="C" sba="1" />
+          <narrative text="Peters stole 2nd" />
+        </play>
+        <play outs="2" pitcher="Cauley" second="Peters" seq="51">
+          <runner adv="2" base="2" name="Peters" out="0" sb="1" scored="1" tobase="4" />
+          <pitcher name="Cauley" sba="1" />
+          <fielder name="Smart" pos="C" sba="1" />
+          <narrative text="Peters scored on steal of home" />
+        </play>
+        <play batter="Black" outs="2" pitcher="Cauley" seq="52">
+          <batter ab="1" action="1B-8" adv="1" h="1" name="Black" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="1" s="0" text="BP" />
+          <narrative text="Black singled to CF, (ground ball) [P McCourt]" />
+        </play>
+        <play first="Black" outs="2" pitcher="Cauley" seq="53">
+          <runner adv="1" base="1" name="Black" out="0" sb="1" tobase="2" />
+          <pitcher name="Cauley" sba="1" />
+          <fielder name="Smart" pos="C" sba="1" />
+          <narrative text="Black stole 2nd" />
+        </play>
+        <play batter="Keating" outs="2" pitcher="Cauley" second="Black" seq="54">
+          <batter ab="1" action="F4" adv="0" flyout="1" name="Keating" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Cauley" />
+          <pitches b="1" s="1" text="BFP" />
+          <fielder name="Bowden" po="1" pos="2B" />
+          <narrative text="Keating flied out to 2B, (popup) [D Bowden]" />
+        </play>
+      </batting>
+      <batting id="STKL" vh="H">
+        <play batter="Velazquez" outs="0" pitcher="Hickey" seq="55">
+          <batter ab="1" action="K" adv="0" kl="1" name="Velazquez" out="1" so="1" tobase="0" />
+          <pitcher ab="1" bf="1" ip="1" k="1" kl="1" name="Hickey" />
+          <pitches b="0" s="3" text="KFK" />
+          <fielder name="Black" po="1" pos="C" />
+          <narrative text="Velazquez struck out looking [Hickey]" />
+        </play>
+        <play batter="Lewis" outs="1" pitcher="Hickey" seq="56">
+          <batter ab="1" action="K" adv="0" name="Lewis" out="1" so="1" tobase="0" />
+          <pitcher ab="1" bf="1" ip="1" k="1" name="Hickey" />
+          <pitches b="3" s="3" text="BBKSBFFS" />
+          <fielder name="Black" po="1" pos="C" />
+          <narrative text="Lewis struck out swinging [Hickey]" />
+        </play>
+        <play batter="Graham" outs="2" pitcher="Hickey" seq="57">
+          <batter ab="1" action="6-3" adv="0" gndout="1" name="Graham" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="0" s="0" text="P" />
+          <fielder a="1" name="Parker" pos="SS" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Graham grounded out to SS, (ground ball) [W Parker, J Loughman]" />
+        </play>
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="CRYD" vh="V">
+        <play batter="Cron" outs="0" pitcher="Cauley" seq="58">
+          <batter ab="1" action="E" adv="1" name="Cron" out="0" rcherr="1" tobase="1" />
+          <pitcher ab="1" bf="1" name="Cauley" />
+          <pitches b="1" s="2" text="BKKP" />
+          <fielder e="1" name="Velazquez" pos="SS" />
+          <narrative text="Cron reached on error by SS [D Velazquez] to SS, (ground ball) [D Velazquez]" />
+        </play>
+        <play first="Cron" outs="0" pitcher="Cauley" seq="59">
+          <runner adv="1" base="1" name="Cron" out="0" sb="1" tobase="2" />
+          <pitcher name="Cauley" sba="1" />
+          <fielder name="Smart" pos="C" sba="1" />
+          <narrative text="Cron stole 2nd" />
+        </play>
+        <play batter="Loughman" outs="0" pitcher="Cauley" second="Cron" seq="60">
+          <batter ab="1" action="1B-8" adv="1" h="1" name="Loughman" out="0" tobase="1" />
+          <runner adv="1" base="2" name="Cron" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="3" s="1" text="BBFBP" />
+          <narrative text="Loughman singled to CF, (ground ball) [P McCourt] M Cron advanced to 3rd" />
+        </play>
+        <play batter="Loughman" first="Loughman" outs="0" pitcher="Cauley" seq="61" third="Cron">
+          <runner adv="1" base="3" name="Cron" out="0" scored="1" tobase="4" />
+          <pitcher name="Cauley" />
+          <narrative text="Cron scored on last play" />
+        </play>
+        <play first="Loughman" outs="0" pitcher="Cauley" seq="62">
+          <runner base="1" cs="1" name="Loughman" out="1" tobase="1" />
+          <pitcher ip="1" name="Cauley" />
+          <fielder name="Cauley" po="1" pos="P" />
+          <narrative text="Loughman caught stealing 2nd [A Cauley]" />
+        </play>
+        <play batter="Perry" outs="1" pitcher="Cauley" seq="63">
+          <batter ab="1" action="1B-3" adv="1" h="1" name="Perry" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="0" s="1" text="KP" />
+          <narrative text="Perry singled to 1B, (ground ball) [A Lewis]" />
+        </play>
+        <play batter="Perry" first="Perry" outs="1" pitcher="Cauley" seq="64">
+          <batter ab="1" action="2B-9" adv="2" double="1" h="1" name="Perry" out="0" tobase="2" />
+          <runner adv="2" base="1" name="Perry" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Perry doubled to RF, (ground ball) [H Absalom] L Perry advanced to 3rd" />
+        </play>
+        <play outs="1" pitcher="Cauley" second="Perry" seq="65" third="Perry">
+          <runner base="2" name="Perry" out="1" picked="1" tobase="2" />
+          <pitcher ip="1" name="Cauley" />
+          <fielder name="Cauley" po="1" pos="P" />
+          <narrative text="Perry picked off at 2nd [A Cauley]" />
+        </play>
+        <play batter="Parker" outs="2" pitcher="Cauley" seq="66" third="Perry">
+          <batter ab="1" action="2B-9" adv="2" double="1" h="1" name="Parker" out="0" tobase="2" />
+          <runner adv="1" base="3" name="Perry" out="0" scored="1" tobase="4" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Parker doubled to RF, (ground ball) [H Absalom] L Perry scored" />
+        </play>
+        <play batter="Berka" outs="2" pitcher="Cauley" second="Parker" seq="67">
+          <batter ab="1" action="1B-7" adv="1" h="1" name="Berka" out="0" tobase="1" />
+          <runner adv="1" base="2" name="Parker" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Berka singled to LF, (ground ball) [L Thompson] W Parker advanced to 3rd" />
+        </play>
+        <play first="Berka" outs="2" pitcher="Cauley" seq="68" third="Parker">
+          <runner base="3" cs="1" name="Parker" out="1" tobase="3" />
+          <pitcher ip="1" name="Cauley" />
+          <fielder name="Haines" po="1" pos="3B" />
+          <narrative text="Parker caught stealing home [W Haines]" />
+        </play>
+      </batting>
+      <batting id="STKL" vh="H">
+        <play batter="Haines" outs="0" pitcher="Hickey" seq="69">
+          <batter ab="1" action="F8" adv="0" flyout="1" name="Haines" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Hickey" />
+          <pitches b="1" s="1" text="BKP" />
+          <fielder name="Perry" po="1" pos="CF" />
+          <narrative text="Haines flied out to CF, (fly ball) [M Perry]" />
+        </play>
+        <play batter="Absalom" outs="1" pitcher="Hickey" seq="70">
+          <batter ab="1" action="2-3" adv="0" gndout="1" name="Absalom" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="1" s="1" text="FBP" />
+          <fielder a="1" name="Black" pos="C" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Absalom grounded out to C, (ground ball) [T Black, J Loughman]" />
+        </play>
+        <play batter="Bowden" outs="2" pitcher="Hickey" seq="71">
+          <batter ab="1" action="1B-8" adv="1" h="1" name="Bowden" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Hickey" />
+          <pitches b="2" s="2" text="BBFFP" />
+          <narrative text="Bowden singled to CF, (fly ball) [M Perry]" />
+        </play>
+        <play batter="McCourt" first="Bowden" outs="2" pitcher="Hickey" seq="72">
+          <batter ab="1" action="4-3" adv="0" gndout="1" name="McCourt" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="2" s="1" text="BKBP" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <fielder a="1" name="Berka" pos="2B" />
+          <narrative text="McCourt grounded out to 2B, (ground ball) [J Berka, J Loughman]" />
+        </play>
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="CRYD" vh="V">
+        <play outs="0" seq="73">
+          <sub for="Smart" spot="9" vh="H" who="Lewis" />
+          <narrative text="Lineup: A Lewis to Catcher, J Smart J Smart to First Base" />
+        </play>
+        <play batter="Peters" outs="0" pitcher="Cauley" seq="74">
+          <batter ab="1" action="4-3" adv="0" gndout="1" name="Peters" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <fielder a="1" name="Bowden" pos="2B" />
+          <fielder name="Smart" po="1" pos="1B" />
+          <narrative text="Peters grounded out to 2B, (ground ball) [D Bowden, J Smart]" />
+        </play>
+        <play batter="Black" outs="1" pitcher="Cauley" seq="75">
+          <batter ab="1" action="F4" adv="0" flyout="1" name="Black" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Cauley" />
+          <pitches b="1" s="1" text="BKP" />
+          <fielder name="Bowden" po="1" pos="2B" />
+          <narrative text="Black flied out to 2B, (fly ball) [D Bowden]" />
+        </play>
+        <play batter="Keating" outs="2" pitcher="Cauley" seq="76">
+          <batter ab="1" action="1B-4" adv="1" h="1" name="Keating" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Keating singled to 2B, (ground ball) [D Bowden]" />
+        </play>
+        <play batter="Cron" first="Keating" outs="2" pitcher="Cauley" seq="77">
+          <batter ab="1" action="F8" adv="0" flyout="1" name="Cron" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <fielder name="McCourt" po="1" pos="CF" />
+          <narrative text="Cron flied out to CF, (fly ball) [P McCourt]" />
+        </play>
+      </batting>
+      <batting id="STKL" vh="H">
+        <play batter="Thompson" outs="0" pitcher="Hickey" seq="78">
+          <batter ab="1" action="5-3" adv="0" gndout="1" name="Thompson" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="0" s="1" text="KP" />
+          <fielder a="1" name="Peters" pos="3B" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Thompson grounded out to 3B, (ground ball) [J Peters, J Loughman]" />
+        </play>
+        <play batter="Smart" outs="1" pitcher="Hickey" seq="79">
+          <batter ab="1" action="D3SO" adv="0" name="Smart" out="1" so="1" tobase="0" />
+          <pitcher ab="1" bf="1" ip="1" k="1" name="Hickey" />
+          <pitches b="2" s="3" text="SBBFFS" />
+          <fielder a="1" name="Black" pos="C" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Smart out at first on dropped 3rd strike [T Black, J Loughman]" />
+        </play>
+        <play batter="Velazquez" outs="2" pitcher="Hickey" seq="80">
+          <batter ab="1" action="5-3" adv="0" gndout="1" name="Velazquez" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="1" s="1" text="BSP" />
+          <fielder a="1" name="Peters" pos="3B" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Velazquez grounded out to 3B, (ground ball) [J Peters, J Loughman]" />
+        </play>
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="CRYD" vh="V">
+        <play batter="Loughman" outs="0" pitcher="Cauley" seq="81">
+          <batter ab="1" action="F9" adv="0" flyout="1" name="Loughman" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Cauley" />
+          <pitches b="3" s="2" text="BKBKBP" />
+          <fielder name="Absalom" po="1" pos="RF" />
+          <narrative text="Loughman flied out to RF, (fly ball) [H Absalom]" />
+        </play>
+        <play batter="Perry" outs="1" pitcher="Cauley" seq="82">
+          <batter ab="1" action="1B-7" adv="1" h="1" name="Perry" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Perry singled to LF, (ground ball) [L Thompson]" />
+        </play>
+        <play first="Perry" outs="1" pitcher="Cauley" seq="83">
+          <runner adv="1" base="1" name="Perry" out="0" sb="1" tobase="2" />
+          <pitcher name="Cauley" sba="1" />
+          <fielder name="Lewis" pos="C" sba="1" />
+          <narrative text="Perry stole 2nd" />
+        </play>
+        <play batter="Perry" outs="1" pitcher="Cauley" second="Perry" seq="84">
+          <batter ab="1" action="2B-8" adv="2" double="1" h="1" name="Perry" out="0" tobase="2" />
+          <runner adv="2" base="2" name="Perry" out="0" scored="1" tobase="4" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Perry doubled to CF, (line drive) [P McCourt] L Perry scored" />
+        </play>
+        <play outs="1" pitcher="Cauley" second="Perry" seq="85">
+          <runner adv="1" base="2" name="Perry" out="0" sb="1" tobase="3" />
+          <pitcher name="Cauley" sba="1" />
+          <fielder name="Lewis" pos="C" sba="1" />
+          <narrative text="Perry stole 3rd" />
+        </play>
+        <play batter="Parker" outs="1" pitcher="Cauley" seq="86" third="Perry">
+          <batter ab="1" action="6-3" adv="0" gndout="1" name="Parker" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <fielder a="1" name="Velazquez" pos="SS" />
+          <fielder name="Smart" po="1" pos="1B" />
+          <narrative text="Parker grounded out to SS, (ground ball) [D Velazquez, J Smart]" />
+        </play>
+        <play batter="Berka" outs="2" pitcher="Cauley" seq="87" third="Perry">
+          <batter ab="1" action="F7" adv="0" flyout="1" name="Berka" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <fielder name="Thompson" po="1" pos="LF" />
+          <narrative text="Berka flied out to LF, (fly ball) [L Thompson]" />
+        </play>
+      </batting>
+      <batting id="STKL" vh="H">
+        <play batter="Lewis" outs="0" pitcher="Hickey" seq="88">
+          <batter ab="1" action="K" adv="0" name="Lewis" out="1" so="1" tobase="0" />
+          <pitcher ab="1" bf="1" ip="1" k="1" name="Hickey" />
+          <pitches b="2" s="3" text="FKFBBS" />
+          <fielder name="Black" po="1" pos="C" />
+          <narrative text="Lewis struck out swinging [Hickey]" />
+        </play>
+        <play batter="Graham" outs="1" pitcher="Hickey" seq="89">
+          <batter ab="1" action="1B-9" adv="1" h="1" name="Graham" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Hickey" />
+          <pitches b="3" s="1" text="BKBBP" />
+          <narrative text="Graham singled to RF, (fly ball) [C Keating]" />
+        </play>
+        <play batter="Haines" first="Graham" outs="1" pitcher="Hickey" seq="90">
+          <batter ab="1" action="1B-7" adv="1" h="1" name="Haines" out="0" tobase="1" />
+          <runner adv="1" base="1" name="Graham" out="0" tobase="2" />
+          <pitcher ab="1" bf="1" h="1" name="Hickey" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Haines singled to LF, (fly ball) [M Cron] J Graham advanced to 2nd" />
+        </play>
+        <play batter="Absalom" first="Haines" outs="1" pitcher="Hickey" second="Graham" seq="91">
+          <batter ab="1" action="K" adv="0" name="Absalom" out="1" so="1" tobase="0" />
+          <pitcher ab="1" bf="1" ip="1" k="1" name="Hickey" />
+          <pitches b="2" s="3" text="BFSFFBS" />
+          <fielder name="Black" po="1" pos="C" />
+          <narrative text="Absalom struck out swinging [Hickey]" />
+        </play>
+        <play batter="Bowden" first="Haines" outs="2" pitcher="Hickey" second="Graham" seq="92">
+          <batter ab="1" action="1-3" adv="0" gndout="1" name="Bowden" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="2" s="1" text="FBBP" />
+          <fielder a="1" name="Hickey" pos="P" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Bowden grounded out to P, (ground ball) [T Hickey, J Loughman]" />
+        </play>
+      </batting>
+    </inning>
+    <inning number="5">
+      <batting id="CRYD" vh="V">
+        <play batter="Peters" outs="0" pitcher="Cauley" seq="93">
+          <batter ab="1" action="2B-9" adv="2" double="1" h="1" name="Peters" out="0" tobase="2" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Cauley" />
+          <pitches b="3" s="2" text="BBBKKP" />
+          <narrative text="Peters doubled to RF, (fly ball) [H Absalom]" />
+        </play>
+        <play batter="Black" outs="0" pitcher="Cauley" second="Peters" seq="94">
+          <batter ab="1" action="2B-7" adv="2" double="1" h="1" name="Black" out="0" tobase="2" />
+          <runner adv="2" base="2" name="Peters" out="0" scored="1" tobase="4" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Black doubled to LF, (ground ball) [L Thompson] J Peters scored" />
+        </play>
+        <play batter="Keating" outs="0" pitcher="Cauley" second="Black" seq="95">
+          <batter ab="1" action="1B-8" adv="1" h="1" name="Keating" out="0" tobase="1" />
+          <runner adv="1" base="2" name="Black" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="1" s="2" text="KKBFP" />
+          <narrative text="Keating singled to CF, (ground ball) [P McCourt] T Black advanced to 3rd" />
+        </play>
+        <play batter="Keating" first="Keating" outs="0" pitcher="Cauley" seq="96" third="Black">
+          <runner adv="1" base="3" name="Black" out="0" scored="1" tobase="4" />
+          <pitcher name="Cauley" />
+          <narrative text="Black scored on last play" />
+        </play>
+        <play batter="Cron" first="Keating" outs="0" pitcher="Cauley" seq="97">
+          <batter ab="1" action="E" adv="1" name="Cron" out="0" rcherr="1" tobase="1" />
+          <runner adv="1" base="1" name="Keating" out="0" tobase="2" />
+          <pitcher ab="1" bf="1" name="Cauley" />
+          <pitches b="1" s="0" text="BP" />
+          <fielder e="1" name="Bowden" pos="2B" />
+          <narrative text="Cron reached on error by 2B [D Bowden] to 2B, (ground ball) [D Bowden] C Keating advanced to 2nd" />
+        </play>
+        <play batter="Loughman" first="Cron" outs="0" pitcher="Cauley" second="Keating" seq="98">
+          <batter ab="1" action="FC" adv="1" name="Loughman" out="0" rchfc="1" tobase="1" />
+          <runner adv="1" base="2" name="Keating" out="0" tobase="3" />
+          <runner base="1" name="Cron" out="1" tobase="1" />
+          <pitcher ab="1" bf="1" ip="1" name="Cauley" />
+          <pitches b="0" s="2" text="KFFP" />
+          <fielder a="1" name="Velazquez" pos="SS" />
+          <fielder name="Bowden" po="1" pos="2B" />
+          <narrative text="Loughman reached on fielder's choice to SS, (ground ball) [D Velazquez, D Bowden] C Keating advanced to 3rd, M Cron out at 2nd" />
+        </play>
+        <play batter="Perry" first="Loughman" outs="1" pitcher="Cauley" seq="99" third="Keating">
+          <batter ab="1" action="FC" adv="1" name="Perry" out="0" rchfc="1" tobase="1" />
+          <runner adv="1" base="3" name="Keating" out="0" scored="1" tobase="4" />
+          <runner base="1" name="Loughman" out="1" tobase="1" />
+          <pitcher ab="1" bf="1" ip="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <fielder name="Bowden" po="1" pos="2B" />
+          <fielder a="1" name="Haines" pos="3B" />
+          <narrative text="Perry reached on fielder's choice to 3B, (ground ball) [W Haines, D Bowden] C Keating scored, J Loughman out at 2nd" />
+        </play>
+        <play batter="Perry" first="Perry" outs="2" pitcher="Cauley" seq="100">
+          <batter ab="1" action="HR-9" adv="4" h="1" hr="1" name="Perry" out="0" scored="1" tobase="4" />
+          <runner adv="3" base="1" name="Perry" out="0" scored="1" tobase="4" />
+          <pitcher ab="1" bf="1" h="1" hr="1" name="Cauley" />
+          <pitches b="2" s="2" text="SKBBP" />
+          <narrative text="Perry homered to RF, (fly ball) [] L Perry scored" />
+        </play>
+        <play batter="Parker" outs="2" pitcher="Cauley" seq="101">
+          <batter ab="1" action="2B-9" adv="2" double="1" h="1" name="Parker" out="0" tobase="2" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Cauley" />
+          <pitches b="0" s="1" text="KP" />
+          <narrative text="Parker doubled to RF, (fly ball) [H Absalom]" />
+        </play>
+        <play batter="Berka" outs="2" pitcher="Cauley" second="Parker" seq="102">
+          <batter ab="1" action="1B-7" adv="1" h="1" name="Berka" out="0" tobase="1" />
+          <runner adv="1" base="2" name="Parker" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" h="1" name="Cauley" />
+          <pitches b="1" s="1" text="KBP" />
+          <narrative text="Berka singled to LF, (ground ball) [L Thompson] W Parker advanced to 3rd" />
+        </play>
+        <play batter="Berka" first="Berka" outs="2" pitcher="Cauley" seq="103" third="Parker">
+          <runner adv="1" base="3" name="Parker" out="0" scored="1" tobase="4" />
+          <pitcher name="Cauley" />
+          <narrative text="Parker scored on last play" />
+        </play>
+        <play batter="Peters" first="Berka" outs="2" pitcher="Cauley" seq="104">
+          <batter ab="1" action="2B-9" adv="2" double="1" h="1" name="Peters" out="0" tobase="2" />
+          <runner adv="2" base="1" name="Berka" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Cauley" />
+          <pitches b="0" s="1" text="FP" />
+          <narrative text="Peters doubled to RF, (ground ball) [H Absalom] J Berka advanced to 3rd" />
+        </play>
+        <play batter="Black" outs="2" pitcher="Cauley" second="Peters" seq="105" third="Berka">
+          <batter ab="1" action="D3S" adv="1" name="Black" out="0" so="1" tobase="1" />
+          <pitcher ab="1" bf="1" k="1" name="Cauley" />
+          <pitches b="0" s="3" text="FSS" />
+          <narrative text="Black reached first on dropped 3rd strike []" />
+        </play>
+        <play batter="Keating" first="Black" outs="2" pitcher="Cauley" second="Peters" seq="106" third="Berka">
+          <batter ab="1" action="FC" adv="1" name="Keating" out="0" rchfc="1" tobase="1" />
+          <runner base="2" name="Peters" out="1" tobase="2" />
+          <pitcher ab="1" bf="1" ip="1" name="Cauley" />
+          <pitches b="0" s="0" text="P" />
+          <fielder name="Haines" po="1" pos="3B" />
+          <narrative text="Keating reached on fielder's choice to 3B, (ground ball) [W Haines] J Peters out at 3rd" />
+        </play>
+      </batting>
+      <batting id="STKL" vh="H">
+        <play outs="0" seq="107">
+          <sub vh="H" who="Bowden" />
+          <narrative text="Activated S Bowden" />
+        </play>
+        <play outs="0" seq="108">
+          <sub for="Lewis" vh="H" who="Bowden" />
+          <narrative text="Lineup: S Bowden to Catcher, A Lewis A Lewis to Extra Hitter" />
+        </play>
+        <play outs="0" seq="109">
+          <sub for="Lewis" pos="eh" spot="2" vh="H" />
+          <narrative text="Lineup: Sat A Lewis" />
+        </play>
+        <play batter="McCourt" outs="0" pitcher="Hickey" seq="110">
+          <batter ab="1" action="4-3" adv="0" gndout="1" name="McCourt" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="0" s="1" text="KP" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <fielder a="1" name="Berka" pos="2B" />
+          <narrative text="McCourt grounded out to 2B, (ground ball) [J Berka, J Loughman]" />
+        </play>
+        <play outs="1" seq="111">
+          <sub vh="H" who="Bowden" />
+          <narrative text="Lineup: Move S Bowden to #2-hole" />
+        </play>
+        <play outs="1" seq="112">
+          <sub vh="H" />
+          <narrative text="Lineup: Squashed" />
+        </play>
+        <play batter="Thompson" outs="1" pitcher="Hickey" seq="113">
+          <batter ab="1" action="1B-8" adv="1" h="1" name="Thompson" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Hickey" />
+          <pitches b="2" s="2" text="FKFBBP" />
+          <narrative text="Thompson singled to CF, (ground ball) [M Perry]" />
+        </play>
+        <play batter="Smart" first="Thompson" outs="1" pitcher="Hickey" seq="114">
+          <batter ab="1" action="L5" adv="0" flyout="1" name="Smart" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Hickey" />
+          <pitches b="0" s="0" text="P" />
+          <fielder name="Peters" po="1" pos="3B" />
+          <narrative text="Smart lined out to 3B, (line drive) [J Peters]" />
+        </play>
+        <play batter="Cauley" first="Thompson" outs="2" pitcher="Hickey" seq="115">
+          <batter ab="1" action="6-3" adv="0" gndout="1" name="Cauley" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="0" s="0" text="P" />
+          <fielder a="1" name="Parker" pos="SS" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Cauley grounded out to SS, (ground ball) [W Parker, J Loughman]" />
+        </play>
+      </batting>
+    </inning>
+    <inning number="6">
+      <batting id="CRYD" vh="V">
+        <play outs="0" seq="116">
+          <sub for="Cauley" pos="p" spot="10" vh="H" />
+          <narrative text="Lineup: Sat A Cauley" />
+        </play>
+        <play outs="0" seq="117">
+          <sub vh="H" />
+          <narrative text="Lineup: Squashed" />
+        </play>
+        <play outs="0" seq="118">
+          <sub vh="H" who="Graham" />
+          <narrative text="Lineup: J Graham to Pitcher" />
+        </play>
+        <play batter="Cron" outs="0" pitcher="Graham" seq="119">
+          <batter ab="1" action="6-3" adv="0" gndout="1" name="Cron" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Graham" />
+          <pitches b="2" s="0" text="BBP" />
+          <fielder a="1" name="Velazquez" pos="SS" />
+          <fielder name="Smart" po="1" pos="1B" />
+          <narrative text="Cron grounded out to SS, (ground ball) [D Velazquez, J Smart]" />
+        </play>
+        <play batter="Loughman" outs="1" pitcher="Graham" seq="120">
+          <batter ab="1" action="1B-8" adv="1" h="1" name="Loughman" out="0" tobase="1" />
+          <pitcher ab="1" bf="1" h="1" name="Graham" />
+          <pitches b="0" s="0" text="P" />
+          <narrative text="Loughman singled to CF, (fly ball) [P McCourt]" />
+        </play>
+        <play batter="Perry" first="Loughman" outs="1" pitcher="Graham" seq="121">
+          <batter action="BB" adv="1" bb="1" name="Perry" out="0" tobase="1" />
+          <runner adv="1" base="1" name="Loughman" out="0" tobase="2" />
+          <pitcher bb="1" bf="1" name="Graham" />
+          <pitches b="4" s="0" text="BBBB" />
+          <narrative text="Perry walked [Graham] J Loughman advanced to 2nd" />
+        </play>
+        <play first="Perry" outs="1" pitcher="Graham" second="Loughman" seq="122">
+          <runner adv="1" base="2" name="Loughman" out="0" tobase="3" />
+          <pitcher name="Graham" />
+          <fielder name="Bowden" pb="1" pos="C" />
+          <narrative text="Loughman advanced to 3rd on passed ball" />
+        </play>
+        <play first="Perry" outs="1" pitcher="Graham" seq="123" third="Loughman">
+          <runner adv="1" base="1" name="Perry" out="0" tobase="2" />
+          <pitcher name="Graham" />
+          <narrative text="Perry advanced to 2nd on last play" />
+        </play>
+        <play batter="Perry" outs="1" pitcher="Graham" second="Perry" seq="124" third="Loughman">
+          <batter action="SHF" adv="0" flyout="1" name="Perry" out="1" sf="1" sh="1" tobase="0" />
+          <runner adv="1" base="3" name="Loughman" out="0" scored="1" tobase="4" />
+          <runner adv="1" base="2" name="Perry" out="0" tobase="3" />
+          <pitcher bf="1" flyout="1" ip="1" name="Graham" sf="1" sh="1" />
+          <pitches b="2" s="0" text="BBP" />
+          <fielder name="McCourt" po="1" pos="CF" />
+          <narrative text="Perry hit sacrifice fly [P McCourt] J Loughman scored, L Perry advanced to 3rd" />
+        </play>
+        <play batter="Parker" outs="2" pitcher="Graham" seq="125" third="Perry">
+          <batter ab="1" action="1B-5" adv="1" h="1" name="Parker" out="0" tobase="1" />
+          <runner adv="1" base="3" name="Perry" out="0" scored="1" tobase="4" />
+          <pitcher ab="1" bf="1" h="1" name="Graham" />
+          <pitches b="1" s="0" text="BP" />
+          <narrative text="Parker singled to 3B, (ground ball) [W Haines] L Perry scored" />
+        </play>
+        <play batter="Berka" first="Parker" outs="2" pitcher="Graham" seq="126">
+          <batter ab="1" action="1B-7" adv="1" h="1" name="Berka" out="0" tobase="1" />
+          <runner adv="1" base="1" name="Parker" out="0" tobase="2" />
+          <pitcher ab="1" bf="1" h="1" name="Graham" />
+          <pitches b="1" s="2" text="BFKP" />
+          <narrative text="Berka singled to LF, (ground ball) [L Thompson] W Parker advanced to 2nd" />
+        </play>
+        <play batter="Peters" first="Berka" outs="2" pitcher="Graham" second="Parker" seq="127">
+          <batter ab="1" action="2B-9" adv="2" double="1" h="1" name="Peters" out="0" tobase="2" />
+          <runner adv="2" base="2" name="Parker" out="0" scored="1" tobase="4" />
+          <runner adv="2" base="1" name="Berka" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" double="1" h="1" name="Graham" />
+          <pitches b="0" s="1" text="KP" />
+          <narrative text="Peters doubled to RF, (line drive) [H Absalom] W Parker scored, J Berka advanced to 3rd" />
+        </play>
+        <play batter="Peters" outs="2" pitcher="Graham" second="Peters" seq="128" third="Berka">
+          <runner adv="1" base="3" name="Berka" out="0" scored="1" tobase="4" />
+          <pitcher name="Graham" />
+          <narrative text="Berka scored on last play" />
+        </play>
+        <play batter="Black" outs="2" pitcher="Graham" second="Peters" seq="129">
+          <batter ab="1" action="1B-8" adv="1" h="1" name="Black" out="0" tobase="1" />
+          <runner adv="1" base="2" name="Peters" out="0" tobase="3" />
+          <pitcher ab="1" bf="1" h="1" name="Graham" />
+          <pitches b="1" s="2" text="KFBP" />
+          <narrative text="Black singled to CF, (line drive) [P McCourt] J Peters advanced to 3rd" />
+        </play>
+        <play batter="Black" first="Black" outs="2" pitcher="Graham" seq="130" third="Peters">
+          <runner adv="1" base="3" name="Peters" out="0" scored="1" tobase="4" />
+          <pitcher name="Graham" />
+          <narrative text="Peters scored on last play" />
+        </play>
+        <play batter="Keating" first="Black" outs="2" pitcher="Graham" seq="131">
+          <batter ab="1" action="1B-7" adv="1" h="1" name="Keating" out="0" tobase="1" />
+          <runner adv="1" base="1" name="Black" out="0" tobase="2" />
+          <pitcher ab="1" bf="1" h="1" name="Graham" />
+          <pitches b="2" s="1" text="BFBP" />
+          <narrative text="Keating singled to LF, (line drive) [L Thompson] T Black advanced to 2nd" />
+        </play>
+        <play first="Keating" outs="2" pitcher="Graham" second="Black" seq="132">
+          <runner adv="2" base="2" name="Black" out="0" scored="1" tobase="4" />
+          <pitcher name="Graham" />
+          <narrative text="Black advanced to home on throw" />
+        </play>
+        <play first="Keating" outs="2" pitcher="Graham" seq="133">
+          <runner adv="1" base="1" name="Keating" out="0" tobase="2" />
+          <pitcher name="Graham" />
+          <fielder name="Bowden" pb="1" pos="C" />
+          <narrative text="Keating advanced to 2nd on passed ball" />
+        </play>
+        <play batter="Cron" outs="2" pitcher="Graham" second="Keating" seq="134">
+          <batter ab="1" action="K" adv="0" name="Cron" out="1" so="1" tobase="0" />
+          <pitcher ab="1" bf="1" ip="1" k="1" name="Graham" />
+          <pitches b="2" s="3" text="BBKKS" />
+          <fielder name="Bowden" po="1" pos="C" />
+          <narrative text="Cron struck out swinging [Graham]" />
+        </play>
+      </batting>
+      <batting id="STKL" vh="H">
+        <play batter="Bowden" outs="0" pitcher="Hickey" seq="135">
+          <batter ab="1" action="F3" adv="0" flyout="1" name="Bowden" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" flyout="1" ip="1" name="Hickey" />
+          <pitches b="2" s="1" text="BSBP" />
+          <fielder name="Loughman" po="1" pos="1B" />
+          <narrative text="Bowden flied out to 1B, (popup) [J Loughman]" />
+        </play>
+        <play batter="Graham" outs="1" pitcher="Hickey" seq="136">
+          <batter ab="1" action="6" adv="0" gndout="1" name="Graham" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="1" s="0" text="BP" />
+          <fielder name="Parker" po="1" pos="SS" />
+          <narrative text="Graham grounded out to SS, (ground ball) [W Parker]" />
+        </play>
+        <play batter="Haines" outs="2" pitcher="Hickey" seq="137">
+          <batter ab="1" action="6" adv="0" gndout="1" name="Haines" out="1" tobase="0" />
+          <pitcher ab="1" bf="1" gndout="1" ip="1" name="Hickey" />
+          <pitches b="1" s="1" text="KBP" />
+          <fielder name="Parker" po="1" pos="SS" />
+          <narrative text="Haines grounded out to SS, (ground ball) [W Parker]" />
+        </play>
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>

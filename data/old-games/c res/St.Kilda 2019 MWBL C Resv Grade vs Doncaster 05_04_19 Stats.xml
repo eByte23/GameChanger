@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="05/05/19" source="GameChanger" source_format="Sabertooth" version="10.0.0.1">
+  <venue date="05/04/19" gameid="5cccbb850cd201f5ec000008" homeid="SNTS" homename="St.Kilda 2019 MWBL C Resv Grade" leaguegame="Y" location="" schedinn="7" start="12:30 PM" visid="DNCS" visname="Doncaster" />
+  <team code="DNCS" id="DNCS" name="Doncaster" vh="V">
+    <linescore errs="3" hits="5" line="0,3,3,1" lob="8" runs="7">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="3" />
+      <lineinn inn="3" score="3" />
+      <lineinn inn="4" score="1" />
+    </linescore>
+    <starters>
+      <starter name="T Ervin" pos="3B" slot="1" />
+      <starter name="J Helou" pos="P" slot="2" />
+      <starter name="Ignatiadid" pos="C" slot="3" />
+      <starter name="S D’Avoine" pos="1B" slot="4" />
+      <starter name="C Sheehan" pos="SS" slot="5" />
+      <starter name="N Wray" slot="6" />
+      <starter name="N Dean" pos="CF" slot="7" />
+      <starter name="D Marinucci" pos="LF" slot="8" />
+      <starter name="A Burmham" pos="2B" slot="9" />
+      <starter name="S Harrison" pos="RF" slot="10" />
+    </starters>
+    <totals>
+      <hitting ab="20" bb="6" cs="1" double="0" gdp="0" ground="0" h="5" hbp="1" hr="0" kl="1" pickoff="0" r="7" rbi="7" rchci="0" rcherr="3" sb="1" sf="0" sh="0" so="6" triple="0" />
+      <fielding a="3" ci="0" csb="0" e="3" indp="0" intp="0" pb="0" po="9" sba="11" />
+      <pitching ab="22" bb="12" bf="37" bk="0" er="13" fly="5" ground="3" h="11" hbp="3" hr="0" ip="3.0" picked="0" pitches="144" r="21" so="0" wp="5" />
+      <hsitsummary lob="8" rbi-2out="3" rchci="0" rcherr="3" wrbiops="12" />
+      <psitsummary fly="5" ground="3" />
+    </totals>
+    <player atpos="3b" gp="1" name="T Ervin" pos="3b" shortname="Ervin" spot="1">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <pitching ab="5" appear="3" bb="3" bf="8" bk="0" er="3" fly="1" ground="1" gs="0" h="3" hbp="0" hr="0" ip="0.2" picked="0" pitches="33" r="3" so="0" wp="0" />
+      <psitsummary fly="1" ground="1" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="J Helou" pos="p" shortname="Helou" spot="2">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="11" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <pitching ab="16" appear="1" bb="5" bf="24" bk="0" er="6" fly="3" ground="2" gs="1" h="8" hbp="3" hr="0" ip="2.0" picked="0" pitches="88" r="14" so="0" wp="4" />
+      <psitsummary fly="3" ground="2" />
+    </player>
+    <player atpos="c" gp="1" name="Ignatiadid" pos="c" shortname="Ignatiadid" spot="3">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="1" wrbiops="0" />
+    </player>
+    <player atpos="1b" gp="1" name="S D’Avoine" pos="1b" shortname="D’Avoine" spot="4">
+      <hitting ab="2" bb="1" cs="1" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="1" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="5" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="1" wrbiops="1" />
+    </player>
+    <player atpos="ss" gp="1" name="C Sheehan" pos="ss" shortname="Sheehan" spot="5">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="2" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player gp="1" name="N Wray" shortname="Wray" spot="6">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="5" rbi-2out="0" rchci="0" rcherr="1" wrbiops="3" />
+    </player>
+    <player atpos="cf" gp="1" name="N Dean" pos="cf" shortname="Dean" spot="7">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="lf" gp="1" name="D Marinucci" pos="lf" shortname="Marinucci" spot="8">
+      <hitting ab="1" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="2b" gp="1" name="A Burmham" pos="2b" shortname="Burmham" spot="9">
+      <hitting ab="1" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="1" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="rf" gp="1" name="S Harrison" pos="rf" shortname="Harrison" spot="10">
+      <hitting ab="0" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="2" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="0" wrbiops="0" />
+      <pitching ab="1" appear="2" bb="4" bf="5" bk="0" er="4" fly="1" ground="0" gs="0" h="0" hbp="0" hr="0" ip="0.1" picked="0" pitches="23" r="4" so="0" wp="1" />
+      <psitsummary fly="1" ground="0" />
+    </player>
+  </team>
+  <team code="SNTS" id="SNTS" name="St.Kilda 2019 MWBL C Resv Grade" record="1-2-0" vh="H">
+    <linescore errs="4" hits="11" line="5,9,7,X" lob="7" runs="21">
+      <lineinn inn="1" score="5" />
+      <lineinn inn="2" score="9" />
+      <lineinn inn="3" score="7" />
+      <lineinn inn="4" score="X" />
+    </linescore>
+    <starters>
+      <starter name="Omar Gomez" slot="1" />
+      <starter name="Kevin Wang" pos="SS" slot="2" />
+      <starter name="Jonathon Momsen" pos="CF" slot="3" />
+      <starter name="Ryogi Shinoda" pos="SS" slot="4" />
+      <starter name="Ian Buckle" pos="RF" slot="5" />
+      <starter name="Ash Ryan" pos="3B" slot="6" />
+      <starter name="Peter McCourt" pos="LF" slot="7" />
+      <starter name="Carlos Mena" pos="1B" slot="8" />
+      <starter name="Josh Leicht" pos="2B" slot="9" uni="29" />
+      <starter name="Steve Bowden" pos="C" slot="10" />
+    </starters>
+    <totals>
+      <hitting ab="22" bb="12" cs="0" double="3" gdp="0" ground="0" h="11" hbp="3" hr="0" kl="0" pickoff="0" r="21" rbi="18" rchci="0" rcherr="3" sb="11" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="7" ci="0" csb="1" e="4" indp="0" intp="0" pb="0" po="12" sba="1" />
+      <pitching ab="20" bb="6" bf="27" bk="0" er="3" fly="0" ground="5" h="5" hbp="1" hr="0" ip="4.0" picked="0" pitches="103" r="7" so="6" wp="3" />
+      <hsitsummary lob="7" rbi-2out="11" rchci="0" rcherr="3" wrbiops="21" />
+      <psitsummary fly="0" ground="5" />
+    </totals>
+    <player gp="1" name="Omar Gomez" shortname="Gomez" spot="1">
+      <hitting ab="1" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="3" hr="0" kl="0" pickoff="0" r="4" rbi="2" rchci="0" rcherr="0" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="2" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="ss" gp="1" name="Kevin Wang" pos="ss" shortname="Wang" spot="2">
+      <hitting ab="3" bb="1" cs="0" double="2" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="6" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="4" rchci="0" rcherr="0" wrbiops="3" />
+    </player>
+    <player atpos="cf" gp="1" name="Jonathon Momsen" pos="cf" shortname="Momsen" spot="3">
+      <hitting ab="2" bb="2" cs="0" double="1" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="3" rbi="3" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="2" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="ss" gp="1" name="Ryogi Shinoda" pos="ss" shortname="Shinoda" spot="4">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="1" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="1" wrbiops="3" />
+      <pitching ab="6" appear="2" bb="0" bf="6" bk="0" er="0" fly="0" ground="1" gs="0" h="0" hbp="0" hr="0" ip="1.0" picked="0" pitches="21" r="1" so="3" wp="2" />
+      <psitsummary fly="0" ground="1" />
+    </player>
+    <player atpos="rf" gp="1" name="Ian Buckle" pos="rf" shortname="Buckle" spot="5">
+      <hitting ab="2" bb="2" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="2" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="3b" gp="1" name="Ash Ryan" pos="3b" shortname="Ryan" spot="6">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="1" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="1" rchci="0" rcherr="1" wrbiops="3" />
+    </player>
+    <player atpos="lf" gp="1" name="Peter McCourt" pos="lf" shortname="McCourt" spot="7">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="3" />
+    </player>
+    <player atpos="1b" gp="1" name="Carlos Mena" pos="1b" shortname="Mena" spot="8">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="1" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="5" sba="0" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="1" wrbiops="2" />
+    </player>
+    <player atpos="2b" gp="1" name="Josh Leicht" pos="2b" shortname="Leicht" spot="9" uni="29">
+      <hitting ab="1" bb="2" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="c" gp="1" name="Steve Bowden" pos="c" shortname="Bowden" spot="10">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="6" sba="0" />
+      <hsitsummary lob="5" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Elijah Bate" pos="p" shortname="Bate" spot="11">
+      <hitting ab="0" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="3" ci="0" csb="1" e="0" indp="0" intp="0" pb="0" po="1" sba="1" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <pitching ab="14" appear="1" bb="6" bf="21" bk="0" er="3" fly="0" ground="4" gs="1" h="5" hbp="1" hr="0" ip="3.0" picked="0" pitches="82" r="6" so="3" win="1-0" wp="1" />
+      <psitsummary fly="0" ground="4" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="DNCS" vh="V">
+        <play>
+          <batter name="Ervin" out="1" scored="0" tobase="0" />
+          <narrative text="Ervin strikes out swinging, Bate pitching" />
+        </play>
+        <play>
+          <batter name="Helou" out="1" scored="0" tobase="1" />
+          <narrative text="Helou grounds out, pitcher Bate to first baseman Mena to pitcher Bate to first baseman Mena to pitcher Bate to first baseman Mena" />
+        </play>
+        <play>
+          <batter name="Ignatiadid" out="1" scored="0" tobase="1" />
+          <narrative text="Ignatiadid grounds out, shortstop Shinoda to first baseman Mena" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Gomez" out="0" scored="0" tobase="1" />
+          <narrative text="Gomez is hit by pitch, Helou pitching" />
+        </play>
+        <play>
+          <runner name="Gomez" out="0" scored="0" tobase="2" />
+          <narrative text="Gomez steals 2nd" />
+        </play>
+        <play>
+          <runner name="Gomez" out="0" scored="0" tobase="3" />
+          <narrative text="Gomez advances to 3rd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Wang" out="1" scored="0" tobase="1" />
+          <runner name="Gomez" out="0" scored="1" tobase="4" />
+          <narrative text="Wang grounds out, shortstop Sheehan to first baseman D’Avoine. Gomez scores" />
+        </play>
+        <play>
+          <batter name="Momsen" out="0" scored="0" tobase="1" />
+          <narrative text="Momsen walks, Helou pitching" />
+        </play>
+        <play>
+          <runner name="Momsen" out="0" scored="0" tobase="2" />
+          <narrative text="Momsen steals 2nd" />
+        </play>
+        <play>
+          <batter name="Shinoda" out="0" scored="0" tobase="1" />
+          <runner name="Momsen" out="0" scored="0" tobase="3" />
+          <narrative text="Shinoda hits a ground ball and reaches on an error by third baseman Ervin" />
+        </play>
+        <play>
+          <runner name="Shinoda" out="0" scored="0" tobase="2" />
+          <narrative text="Shinoda steals 2nd" />
+        </play>
+        <play>
+          <runner name="Momsen" out="0" scored="1" tobase="4" />
+          <narrative text="Momsen scores on wild pitch" />
+        </play>
+        <play>
+          <runner name="Shinoda" out="0" scored="0" tobase="3" />
+          <narrative text="Shinoda advances to 3rd on the same pitch" />
+        </play>
+        <play>
+          <batter name="Buckle" out="0" scored="0" tobase="1" />
+          <runner name="Shinoda" out="0" scored="1" tobase="4" />
+          <narrative text="Buckle singles on a fly ball to center fielder Dean. Shinoda scores" />
+        </play>
+        <play>
+          <runner name="Buckle" out="0" scored="0" tobase="2" />
+          <narrative text="Buckle steals 2nd" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Buckle" out="0" scored="0" tobase="3" />
+          <narrative text="Ryan hits a fly ball and reaches on an error by right fielder Harrison" />
+        </play>
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="1" />
+          <runner name="Buckle" out="0" scored="1" tobase="4" />
+          <runner name="Ryan" out="0" scored="0" tobase="2" />
+          <narrative text="McCourt grounds out, shortstop Sheehan to first baseman D’Avoine. Buckle scores" />
+        </play>
+        <play>
+          <runner name="Ryan" out="0" scored="0" tobase="3" />
+          <narrative text="Ryan steals 3rd" />
+        </play>
+        <play>
+          <batter name="Mena" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="1" tobase="4" />
+          <narrative text="Mena singles on a hard ground ball to left fielder Marinucci. Ryan scores" />
+        </play>
+        <play>
+          <runner name="Mena" out="0" scored="0" tobase="2" />
+          <narrative text="Mena steals 2nd" />
+        </play>
+        <play>
+          <runner name="Mena" out="0" scored="0" tobase="3" />
+          <narrative text="Mena steals 3rd" />
+        </play>
+        <play>
+          <batter name="Leicht" out="0" scored="0" tobase="1" />
+          <narrative text="Leicht walks, Helou pitching" />
+        </play>
+        <play>
+          <runner name="Leicht" out="0" scored="0" tobase="2" />
+          <narrative text="Leicht steals 2nd" />
+        </play>
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden flies out to left fielder Marinucci" />
+        </play>
+        <innsummary e="2" h="2" lob="2" r="5" />
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="DNCS" vh="V">
+        <play>
+          <batter name="D’Avoine" out="0" scored="0" tobase="1" />
+          <narrative text="D’Avoine walks, Bate pitching" />
+        </play>
+        <play>
+          <batter name="Sheehan" out="1" scored="0" tobase="1" />
+          <runner name="D’Avoine" out="0" scored="0" tobase="2" />
+          <narrative text="Sheehan grounds out, pitcher Bate to first baseman Mena" />
+        </play>
+        <play>
+          <batter name="Wray" out="0" scored="0" tobase="1" />
+          <runner name="D’Avoine" out="0" scored="0" tobase="3" />
+          <narrative text="Wray hits a ground ball and reaches on an error by first baseman Mena" />
+        </play>
+        <play>
+          <runner name="Wray" out="0" scored="0" tobase="2" />
+          <narrative text="Wray advances to 2nd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Dean" out="0" scored="0" tobase="1" />
+          <runner name="D’Avoine" out="0" scored="1" tobase="4" />
+          <runner name="Wray" out="0" scored="0" tobase="3" />
+          <narrative text="Dean singles on a hard ground ball to center fielder Momsen. D’Avoine scores" />
+        </play>
+        <play>
+          <runner name="Dean" out="0" scored="0" tobase="2" />
+          <narrative text="Dean steals 2nd" />
+        </play>
+        <play>
+          <batter name="Marinucci" out="0" scored="0" tobase="1" />
+          <narrative text="Marinucci walks, Bate pitching" />
+        </play>
+        <play>
+          <batter name="Burmham" out="1" scored="0" tobase="0" />
+          <narrative text="Burmham strikes out swinging, Bate pitching" />
+        </play>
+        <play>
+          <batter name="Harrison" out="0" scored="0" tobase="1" />
+          <runner name="Wray" out="0" scored="1" tobase="4" />
+          <runner name="Dean" out="0" scored="0" tobase="3" />
+          <runner name="Marinucci" out="0" scored="0" tobase="2" />
+          <narrative text="Harrison walks, Bate pitching. Wray scores" />
+        </play>
+        <play>
+          <batter name="Ervin" out="0" scored="0" tobase="1" />
+          <runner name="Dean" out="0" scored="1" tobase="4" />
+          <runner name="Marinucci" out="0" scored="0" tobase="3" />
+          <runner name="Harrison" out="0" scored="0" tobase="2" />
+          <narrative text="Ervin walks, Bate pitching. Dean scores" />
+        </play>
+        <play>
+          <batter name="Helou" out="1" scored="0" tobase="1" />
+          <narrative text="Helou grounds out, pitcher Bate to first baseman Mena" />
+        </play>
+        <innsummary e="1" h="1" lob="3" r="3" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Gomez" out="0" scored="0" tobase="1" />
+          <narrative text="Gomez is hit by pitch, Helou pitching" />
+        </play>
+        <play>
+          <runner name="Gomez" out="0" scored="0" tobase="2" />
+          <narrative text="Gomez steals 2nd" />
+        </play>
+        <play>
+          <batter name="Wang" out="0" scored="0" tobase="2" />
+          <runner name="Gomez" out="0" scored="1" tobase="4" />
+          <narrative text="Wang doubles on a fly ball to right fielder Harrison. Gomez scores" />
+        </play>
+        <play>
+          <batter name="Momsen" out="0" scored="0" tobase="2" />
+          <runner name="Wang" out="0" scored="1" tobase="4" />
+          <narrative text="Momsen doubles on a fly ball to right fielder Harrison. Wang scores" />
+        </play>
+        <play>
+          <batter name="Shinoda" out="0" scored="0" tobase="1" />
+          <runner name="Momsen" out="0" scored="0" tobase="3" />
+          <narrative text="Shinoda singles on a ground ball to shortstop Sheehan" />
+        </play>
+        <play>
+          <runner name="Shinoda" out="0" scored="0" tobase="2" />
+          <narrative text="Shinoda steals 2nd" />
+        </play>
+        <play>
+          <batter name="Buckle" out="0" scored="0" tobase="1" />
+          <narrative text="Buckle walks, Helou pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="0" />
+          <narrative text="Ryan flies out to left fielder Marinucci" />
+        </play>
+        <play>
+          <runner name="Momsen" out="0" scored="1" tobase="4" />
+          <narrative text="Momsen scores on wild pitch" />
+        </play>
+        <play>
+          <batter name="McCourt" out="0" scored="0" tobase="2" />
+          <runner name="Shinoda" out="0" scored="1" tobase="4" />
+          <runner name="Buckle" out="1" scored="0" tobase="3" />
+          <narrative text="McCourt singles on a line drive, center fielder Dean to third baseman Ervin to catcher Ignatiadid. Shinoda scores" />
+        </play>
+        <play>
+          <batter name="Mena" out="0" scored="0" tobase="1" />
+          <runner name="McCourt" out="0" scored="1" tobase="4" />
+          <narrative text="Mena hits a fly ball and reaches on an error by right fielder Harrison. McCourt scores" />
+        </play>
+        <play>
+          <runner name="Mena" out="0" scored="0" tobase="2" />
+          <narrative text="Mena advances to 2nd on the same error" />
+        </play>
+        <play>
+          <batter name="Leicht" out="0" scored="0" tobase="1" />
+          <runner name="Mena" out="0" scored="0" tobase="3" />
+          <narrative text="Leicht singles on a hard ground ball to left fielder Marinucci" />
+        </play>
+        <play>
+          <runner name="Leicht" out="0" scored="0" tobase="2" />
+          <narrative text="Leicht steals 2nd" />
+        </play>
+        <play>
+          <batter name="Bowden" out="0" scored="0" tobase="1" />
+          <narrative text="Bowden walks, Helou pitching" />
+        </play>
+        <play>
+          <batter name="Gomez" out="0" scored="0" tobase="1" />
+          <runner name="Mena" out="0" scored="1" tobase="4" />
+          <runner name="Leicht" out="0" scored="0" tobase="3" />
+          <runner name="Bowden" out="0" scored="0" tobase="2" />
+          <narrative text="Gomez is hit by pitch, Helou pitching. Mena scores" />
+        </play>
+        <play>
+          <batter name="Wang" out="0" scored="0" tobase="3" />
+          <runner name="Leicht" out="0" scored="1" tobase="4" />
+          <runner name="Bowden" out="0" scored="1" tobase="4" />
+          <runner name="Gomez" out="0" scored="1" tobase="4" />
+          <narrative text="Wang doubles on a fly ball to center fielder Dean. Leicht scores. Bowden scores. Gomez scores" />
+        </play>
+        <play>
+          <batter name="Momsen" out="0" scored="0" tobase="1" />
+          <narrative text="Momsen walks, Helou pitching" />
+        </play>
+        <play>
+          <runner name="Momsen" out="0" scored="0" tobase="2" />
+          <narrative text="Momsen advances to 2nd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Shinoda" out="1" scored="0" tobase="0" />
+          <narrative text="Shinoda flies out to left fielder Marinucci" />
+        </play>
+        <innsummary e="1" h="6" lob="2" r="9" />
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="DNCS" vh="V">
+        <play>
+          <batter name="Ignatiadid" out="0" scored="0" tobase="1" />
+          <narrative text="Ignatiadid singles on a line drive to center fielder Momsen" />
+        </play>
+        <play>
+          <batter name="D’Avoine" out="0" scored="0" tobase="1" />
+          <runner name="Ignatiadid" out="0" scored="0" tobase="2" />
+          <narrative text="D’Avoine singles on a line drive to left fielder McCourt" />
+        </play>
+        <play>
+          <batter name="Sheehan" out="0" scored="0" tobase="1" />
+          <runner name="Ignatiadid" out="0" scored="0" tobase="3" />
+          <runner name="D’Avoine" out="0" scored="0" tobase="2" />
+          <narrative text="Sheehan singles on a fly ball to left fielder McCourt" />
+        </play>
+        <play>
+          <batter name="Wray" out="0" scored="0" tobase="1" />
+          <runner name="Ignatiadid" out="1" scored="0" tobase="4" />
+          <runner name="D’Avoine" out="0" scored="0" tobase="3" />
+          <runner name="Sheehan" out="0" scored="0" tobase="2" />
+          <narrative text="Wray grounds into fielder's choice to catcher Bowden" />
+        </play>
+        <play>
+          <runner name="D’Avoine" out="1" scored="0" tobase="4" />
+          <narrative text="D’Avoine caught stealing home, catcher Bowden to pitcher Bate" />
+        </play>
+        <play>
+          <runner name="Sheehan" out="0" scored="0" tobase="3" />
+          <narrative text="Sheehan advances to 3rd on error by catcher Bowden" />
+        </play>
+        <play>
+          <runner name="Wray" out="0" scored="0" tobase="2" />
+          <narrative text="Wray advances to 2nd on the same error" />
+        </play>
+        <play>
+          <batter name="Dean" out="0" scored="0" tobase="1" />
+          <narrative text="Dean walks, Bate pitching" />
+        </play>
+        <play>
+          <batter name="Marinucci" out="0" scored="0" tobase="1" />
+          <runner name="Sheehan" out="0" scored="1" tobase="4" />
+          <runner name="Wray" out="0" scored="0" tobase="3" />
+          <runner name="Dean" out="0" scored="0" tobase="2" />
+          <narrative text="Marinucci singles on a hard ground ball to left fielder McCourt. Sheehan scores" />
+        </play>
+        <play>
+          <batter name="Burmham" out="0" scored="0" tobase="1" />
+          <runner name="Wray" out="0" scored="1" tobase="4" />
+          <runner name="Dean" out="0" scored="0" tobase="3" />
+          <runner name="Marinucci" out="0" scored="0" tobase="2" />
+          <narrative text="Burmham walks, Bate pitching. Wray scores" />
+        </play>
+        <play>
+          <batter name="Harrison" out="0" scored="0" tobase="1" />
+          <runner name="Dean" out="0" scored="1" tobase="4" />
+          <runner name="Marinucci" out="0" scored="0" tobase="3" />
+          <runner name="Burmham" out="0" scored="0" tobase="2" />
+          <narrative text="Harrison is hit by pitch, Bate pitching. Dean scores" />
+        </play>
+        <play>
+          <batter name="Ervin" out="1" scored="0" tobase="0" />
+          <narrative text="Ervin strikes out swinging, Bate pitching" />
+        </play>
+        <innsummary e="1" h="4" lob="3" r="3" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <narrative text="Lineup changed: Harrison in at pitcher" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Helou in at right fielder" />
+        </play>
+        <play>
+          <batter name="Buckle" out="1" scored="0" tobase="0" />
+          <narrative text="Buckle pops out in foul territory to first baseman D’Avoine" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <narrative text="Ryan walks, Harrison pitching" />
+        </play>
+        <play>
+          <runner name="Ryan" out="0" scored="0" tobase="2" />
+          <narrative text="Ryan advances to 2nd on wild pitch" />
+        </play>
+        <play>
+          <batter name="McCourt" out="0" scored="0" tobase="1" />
+          <narrative text="McCourt walks, Harrison pitching" />
+        </play>
+        <play>
+          <batter name="Mena" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="0" tobase="3" />
+          <runner name="McCourt" out="0" scored="0" tobase="2" />
+          <narrative text="Mena walks, Harrison pitching" />
+        </play>
+        <play>
+          <batter name="Leicht" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="1" tobase="4" />
+          <runner name="McCourt" out="0" scored="0" tobase="3" />
+          <runner name="Mena" out="0" scored="0" tobase="2" />
+          <narrative text="Leicht walks, Harrison pitching. Ryan scores" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Ervin in at pitcher" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Harrison in at third baseman" />
+        </play>
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden pops out in foul territory to first baseman D’Avoine" />
+        </play>
+        <play>
+          <batter name="Gomez" out="0" scored="0" tobase="1" />
+          <runner name="McCourt" out="0" scored="1" tobase="4" />
+          <runner name="Mena" out="0" scored="0" tobase="3" />
+          <runner name="Leicht" out="0" scored="0" tobase="2" />
+          <narrative text="Gomez singles on a ground ball to first baseman D’Avoine. McCourt scores" />
+        </play>
+        <play>
+          <batter name="Wang" out="0" scored="0" tobase="1" />
+          <runner name="Mena" out="0" scored="1" tobase="4" />
+          <runner name="Leicht" out="0" scored="0" tobase="3" />
+          <runner name="Gomez" out="0" scored="0" tobase="2" />
+          <narrative text="Wang walks, Ervin pitching. Mena scores" />
+        </play>
+        <play>
+          <batter name="Momsen" out="0" scored="0" tobase="1" />
+          <runner name="Leicht" out="0" scored="1" tobase="4" />
+          <runner name="Gomez" out="0" scored="1" tobase="4" />
+          <runner name="Wang" out="0" scored="0" tobase="2" />
+          <narrative text="Momsen singles on a fly ball to center fielder Dean. Leicht scores. Gomez scores" />
+        </play>
+        <play>
+          <batter name="Shinoda" out="0" scored="0" tobase="1" />
+          <runner name="Wang" out="0" scored="0" tobase="3" />
+          <runner name="Momsen" out="0" scored="0" tobase="2" />
+          <narrative text="Shinoda walks, Ervin pitching" />
+        </play>
+        <play>
+          <batter name="Buckle" out="0" scored="0" tobase="1" />
+          <runner name="Wang" out="0" scored="1" tobase="4" />
+          <runner name="Momsen" out="0" scored="0" tobase="3" />
+          <runner name="Shinoda" out="0" scored="0" tobase="2" />
+          <narrative text="Buckle walks, Ervin pitching. Wang scores" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Momsen" out="0" scored="1" tobase="4" />
+          <runner name="Shinoda" out="0" scored="0" tobase="3" />
+          <runner name="Buckle" out="0" scored="0" tobase="2" />
+          <narrative text="Ryan singles on a ground ball to shortstop Sheehan. Momsen scores" />
+        </play>
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="1" />
+          <narrative text="McCourt grounds out, pitcher Ervin to first baseman D’Avoine" />
+        </play>
+        <innsummary e="0" h="3" lob="3" r="7" />
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="DNCS" vh="V">
+        <play>
+          <narrative text="Lineup changed: Wang in at shortstop" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Shinoda in at pitcher" />
+        </play>
+        <play>
+          <batter name="Helou" out="0" scored="0" tobase="1" />
+          <narrative text="Helou reaches on dropped 3rd strike (wild pitch)" />
+        </play>
+        <play>
+          <batter name="Ignatiadid" out="0" scored="0" tobase="1" />
+          <runner name="Helou" out="0" scored="0" tobase="2" />
+          <narrative text="Ignatiadid hits a ground ball and reaches on an error by pitcher Shinoda" />
+        </play>
+        <play>
+          <runner name="Helou" out="0" scored="0" tobase="3" />
+          <narrative text="Helou advances to 3rd on wild pitch" />
+        </play>
+        <play>
+          <batter name="D’Avoine" out="0" scored="0" tobase="1" />
+          <runner name="Helou" out="0" scored="1" tobase="4" />
+          <runner name="Ignatiadid" out="0" scored="0" tobase="2" />
+          <narrative text="D’Avoine hits a ground ball and reaches on an error by second baseman Leicht. Helou scores" />
+        </play>
+        <play>
+          <batter name="Sheehan" out="1" scored="0" tobase="0" />
+          <narrative text="Sheehan strikes out swinging, Shinoda pitching" />
+        </play>
+        <play>
+          <batter name="Wray" out="1" scored="0" tobase="1" />
+          <runner name="Ignatiadid" out="0" scored="0" tobase="3" />
+          <runner name="D’Avoine" out="0" scored="0" tobase="2" />
+          <narrative text="Wray grounds out, second baseman Leicht to first baseman Mena" />
+        </play>
+        <play>
+          <batter name="Dean" out="1" scored="0" tobase="0" />
+          <narrative text="Dean strikes out looking, Shinoda pitching" />
+        </play>
+        <innsummary e="2" h="0" lob="2" r="1" />
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>

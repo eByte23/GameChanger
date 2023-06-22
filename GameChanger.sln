@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A38B1A11-A1C8-40EC-A985-2E6A37AC81C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameChanger.Parser", "src\GameChanger.Parser\GameChanger.Parser.csproj", "{8536AB36-52CE-4E8E-AB3D-D36791DBD9CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E8826DE9-C543-41C5-90C0-C2035C091198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameChanger.Parser.Tests", "tests\GameChanger.Parser.Tests\GameChanger.Parser.Tests.csproj", "{46D9CE63-5B80-45C8-B6D4-3E0DD1B63333}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{B624437B-D9EF-4848-ACD6-F0BC29B1F76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameChanger.StatsCsvConsoleApp", "samples\GameChanger.StatsCsvConsoleApp\GameChanger.StatsCsvConsoleApp.csproj", "{9849CC18-A0FB-4515-98AB-040BEB8150F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8536AB36-52CE-4E8E-AB3D-D36791DBD9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8536AB36-52CE-4E8E-AB3D-D36791DBD9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8536AB36-52CE-4E8E-AB3D-D36791DBD9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8536AB36-52CE-4E8E-AB3D-D36791DBD9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D9CE63-5B80-45C8-B6D4-3E0DD1B63333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D9CE63-5B80-45C8-B6D4-3E0DD1B63333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D9CE63-5B80-45C8-B6D4-3E0DD1B63333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D9CE63-5B80-45C8-B6D4-3E0DD1B63333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9849CC18-A0FB-4515-98AB-040BEB8150F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9849CC18-A0FB-4515-98AB-040BEB8150F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9849CC18-A0FB-4515-98AB-040BEB8150F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9849CC18-A0FB-4515-98AB-040BEB8150F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8536AB36-52CE-4E8E-AB3D-D36791DBD9CD} = {A38B1A11-A1C8-40EC-A985-2E6A37AC81C7}
+		{46D9CE63-5B80-45C8-B6D4-3E0DD1B63333} = {E8826DE9-C543-41C5-90C0-C2035C091198}
+		{9849CC18-A0FB-4515-98AB-040BEB8150F2} = {B624437B-D9EF-4848-ACD6-F0BC29B1F76E}
+	EndGlobalSection
+EndGlobal

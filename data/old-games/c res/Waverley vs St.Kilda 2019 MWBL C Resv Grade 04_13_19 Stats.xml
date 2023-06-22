@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="05/07/19" source="GameChanger" source_format="Sabertooth" version="9.17.1.1">
+  <venue date="04/13/19" gameid="5cafbb850cbf000dcb000015" homeid="WVRL" homename="Waverley" leaguegame="Y" location="" schedinn="9" start="00:15 AM" visid="SNTS" visname="St.Kilda 2019 MWBL C Resv Grade" />
+  <team code="SNTS" id="SNTS" name="St.Kilda 2019 MWBL C Resv Grade" record="1-2-0" vh="V">
+    <linescore errs="1" hits="6" line="0,1,0,0,0,0" lob="4" runs="1">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="1" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="0" />
+      <lineinn inn="6" score="0" />
+    </linescore>
+    <starters>
+      <starter name="Kane Willems" pos="SS" slot="1" uni="24" />
+      <starter name="Barath Mandava" pos="2B" slot="2" />
+      <starter name="David Batten" pos="1B" slot="3" uni="94" />
+      <starter name="James Melenhorst" pos="RF" slot="4" uni="77" />
+      <starter name="Josh Smart" pos="C" slot="5" uni="77" />
+      <starter name="Jim Findley" pos="3B" slot="6" uni="71" />
+      <starter name="Michael Kahn" pos="LF" slot="7" uni="21" />
+      <starter name="Sam Ryan" pos="CF" slot="8" uni="72" />
+      <starter name="Josh Leicht" pos="P" slot="9" uni="29" />
+      <starter name="Daniel Li" pos="LF" slot="10" uni="82" />
+    </starters>
+    <totals>
+      <hitting ab="22" bb="1" cs="1" double="0" gdp="0" ground="0" h="6" hbp="0" hr="0" kl="4" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="5" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="15" sba="0" />
+      <pitching ab="22" bb="2" bf="28" bk="0" er="7" fly="2" ground="8" h="6" hbp="4" hr="0" ip="5.0" picked="0" pitches="106" r="7" so="5" wp="3" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="5" />
+      <psitsummary fly="2" ground="8" />
+    </totals>
+    <player atpos="ss" gp="1" name="Kane Willems" pos="ss" shortname="Willems" spot="1" uni="24">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="2b" gp="1" name="Barath Mandava" pos="2b" shortname="Mandava" spot="2">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="1b" gp="1" name="David Batten" pos="1b" shortname="Batten" spot="3" uni="94">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <pitching ab="8" appear="2" bb="0" bf="9" bk="0" er="0" fly="0" ground="4" gs="0" h="2" hbp="1" hr="0" ip="2.0" loss="0-1" picked="0" pitches="26" r="0" so="2" wp="0" />
+      <psitsummary fly="0" ground="4" />
+    </player>
+    <player atpos="rf" gp="1" name="James Melenhorst" pos="rf" shortname="Melenhorst" spot="4" uni="77">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="c" gp="1" name="Josh Smart" pos="c" shortname="Smart" spot="5" uni="77">
+      <hitting ab="1" bb="1" cs="1" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="4" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="3b" gp="1" name="Jim Findley" pos="3b" shortname="Findley" spot="6" uni="71">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="lf" gp="1" name="Michael Kahn" pos="lf" shortname="Kahn" spot="7" uni="21">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="2" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="cf" gp="1" name="Sam Ryan" pos="cf" shortname="Ryan" spot="8" uni="72">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Josh Leicht" pos="p" shortname="Leicht" spot="9" uni="29">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="4" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <pitching ab="14" appear="1" bb="2" bf="19" bk="0" er="7" fly="2" ground="4" gs="1" h="4" hbp="3" hr="0" ip="3.0" picked="0" pitches="80" r="7" so="3" wp="3" />
+      <psitsummary fly="2" ground="4" />
+    </player>
+    <player atpos="lf" gp="1" name="Daniel Li" pos="lf" shortname="Li" spot="10" uni="82">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+  </team>
+  <team code="WVRL" id="WVRL" name="Waverley" vh="H">
+    <linescore errs="0" hits="6" line="0,4,3,0,0,X" lob="6" runs="7">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="4" />
+      <lineinn inn="3" score="3" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="0" />
+      <lineinn inn="6" score="X" />
+    </linescore>
+    <starters>
+      <starter name="V Evans" pos="3B" slot="1" />
+      <starter name="F Webb" pos="SS" slot="2" />
+      <starter name="J Makeham" pos="2B" slot="3" />
+      <starter name="D McGrath" pos="C" slot="4" />
+      <starter name="P Davison" pos="P" slot="5" />
+      <starter name="T Fitzgerald" pos="1B" slot="6" />
+      <starter name="S Coles" pos="LF" slot="7" />
+      <starter name="G Jones" pos="CF" slot="8" />
+      <starter name="D Siddans" pos="RF" slot="9" />
+      <starter name="R Smart" pos="1B" slot="10" />
+    </starters>
+    <totals>
+      <hitting ab="22" bb="2" cs="0" double="0" gdp="0" ground="0" h="6" hbp="4" hr="0" kl="3" pickoff="0" r="7" rbi="6" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="5" triple="0" />
+      <fielding a="1" ci="0" csb="1" e="0" indp="0" intp="0" pb="0" po="18" sba="0" />
+      <pitching ab="22" bb="1" bf="23" bk="0" er="1" fly="3" ground="7" h="6" hbp="0" hr="0" ip="6.0" picked="0" pitches="91" r="1" so="5" wp="3" />
+      <hsitsummary lob="6" rbi-2out="0" rchci="0" rcherr="0" wrbiops="12" />
+      <psitsummary fly="3" ground="7" />
+    </totals>
+    <player atpos="3b" gp="1" name="V Evans" pos="3b" shortname="Evans" spot="1">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="ss" gp="1" name="F Webb" pos="ss" shortname="Webb" spot="2">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <pitching ab="10" appear="2" bb="0" bf="10" bk="0" er="0" fly="1" ground="5" gs="0" h="1" hbp="0" hr="0" ip="3.0" picked="0" pitches="42" r="0" so="3" win="1-0" wp="0" />
+      <psitsummary fly="1" ground="5" />
+    </player>
+    <player atpos="2b" gp="1" name="J Makeham" pos="2b" shortname="Makeham" spot="3">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="5" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="c" gp="1" name="D McGrath" pos="c" shortname="McGrath" spot="4">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="6" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="P Davison" pos="p" shortname="Davison" spot="5">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="1" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="1" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <pitching ab="12" appear="1" bb="1" bf="13" bk="0" er="1" fly="2" ground="2" gs="1" h="5" hbp="0" hr="0" ip="3.0" picked="0" pitches="49" r="1" so="2" wp="3" />
+      <psitsummary fly="2" ground="2" />
+    </player>
+    <player atpos="1b" gp="1" name="T Fitzgerald" pos="1b" shortname="Fitzgerald" spot="6">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="1" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="lf" gp="1" name="S Coles" pos="lf" shortname="Coles" spot="7">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="3" />
+    </player>
+    <player atpos="cf" gp="1" name="G Jones" pos="cf" shortname="Jones" spot="8">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="3" />
+    </player>
+    <player atpos="rf" gp="1" name="D Siddans" pos="rf" shortname="Siddans" spot="9">
+      <hitting ab="1" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="1b" gp="1" name="R Smart" pos="1b" shortname="Smart" spot="10">
+      <hitting ab="1" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Willems" out="1" scored="0" tobase="0" />
+          <narrative text="Willems lines out to third baseman Evans" />
+        </play>
+        <play>
+          <batter name="Mandava" out="1" scored="0" tobase="0" />
+          <narrative text="Mandava strikes out looking, Davison pitching" />
+        </play>
+        <play>
+          <batter name="Batten" out="1" scored="0" tobase="1" />
+          <narrative text="Batten grounds out to second baseman Makeham" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <batter name="Evans" out="1" scored="0" tobase="1" />
+          <narrative text="Evans grounds out to pitcher Leicht" />
+        </play>
+        <play>
+          <batter name="Webb" out="1" scored="0" tobase="0" />
+          <narrative text="Webb lines out to third baseman Findley" />
+        </play>
+        <play>
+          <batter name="Makeham" out="1" scored="0" tobase="1" />
+          <narrative text="Makeham grounds out to pitcher Leicht" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="SNTS" vh="V">
+        <play>
+          <narrative text="Lineup changed: Smart in at first baseman" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Fitzgerald in at center fielder" />
+        </play>
+        <play>
+          <batter name="Melenhorst" out="0" scored="0" tobase="1" />
+          <narrative text="Melenhorst singles on a hard ground ball to left fielder Coles" />
+        </play>
+        <play>
+          <runner name="Melenhorst" out="0" scored="0" tobase="2" />
+          <narrative text="Melenhorst advances to 2nd on wild pitch" />
+        </play>
+        <play>
+          <runner name="Melenhorst" out="0" scored="0" tobase="3" />
+          <narrative text="Melenhorst advances to 3rd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Smart" out="0" scored="0" tobase="1" />
+          <narrative text="Smart walks, Davison pitching" />
+        </play>
+        <play>
+          <runner name="Smart" out="1" scored="0" tobase="2" />
+          <narrative text="Smart caught stealing 2nd, catcher McGrath" />
+        </play>
+        <play>
+          <batter name="Findley" out="0" scored="0" tobase="2" />
+          <runner name="Melenhorst" out="0" scored="1" tobase="4" />
+          <narrative text="Findley singles on a line drive to left fielder Coles. Melenhorst scores" />
+        </play>
+        <play>
+          <runner name="Findley" out="0" scored="0" tobase="3" />
+          <narrative text="Findley advances to 3rd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Kahn" out="1" scored="0" tobase="0" />
+          <narrative text="Kahn strikes out looking, Davison pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="1" />
+          <narrative text="Ryan grounds out to pitcher Davison" />
+        </play>
+        <innsummary e="0" h="2" lob="1" r="1" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <narrative text="Lineup changed: Jones activated, batting 10th" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Moved Jones to 8-hole" />
+        </play>
+        <play>
+          <batter name="McGrath" out="0" scored="0" tobase="1" />
+          <narrative text="McGrath is hit by pitch, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="Davison" out="0" scored="0" tobase="1" />
+          <runner name="McGrath" out="0" scored="0" tobase="2" />
+          <narrative text="Davison singles on a hard ground ball to center fielder Ryan" />
+        </play>
+        <play>
+          <runner name="McGrath" out="0" scored="0" tobase="3" />
+          <narrative text="McGrath advances to 3rd on error by center fielder Ryan" />
+        </play>
+        <play>
+          <batter name="Fitzgerald" out="0" scored="0" tobase="1" />
+          <runner name="McGrath" out="0" scored="1" tobase="4" />
+          <runner name="Davison" out="0" scored="0" tobase="3" />
+          <narrative text="Fitzgerald singles on a hard ground ball to left fielder Kahn. McGrath scores" />
+        </play>
+        <play>
+          <runner name="Fitzgerald" out="0" scored="0" tobase="2" />
+          <narrative text="Fitzgerald advances to 2nd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Coles" out="1" scored="0" tobase="1" />
+          <runner name="Davison" out="0" scored="0" tobase="3" />
+          <runner name="Fitzgerald" out="0" scored="0" tobase="2" />
+          <narrative text="Coles grounds out to third baseman Findley" />
+        </play>
+        <play>
+          <batter name="Jones" out="0" scored="0" tobase="1" />
+          <runner name="Davison" out="0" scored="0" tobase="3" />
+          <runner name="Fitzgerald" out="0" scored="0" tobase="2" />
+          <narrative text="Jones reaches on dropped 3rd strike (wild pitch)" />
+        </play>
+        <play>
+          <batter name="Siddans" out="0" scored="0" tobase="1" />
+          <runner name="Davison" out="0" scored="1" tobase="4" />
+          <runner name="Fitzgerald" out="0" scored="0" tobase="3" />
+          <runner name="Jones" out="0" scored="0" tobase="2" />
+          <narrative text="Siddans walks, Leicht pitching. Davison scores" />
+        </play>
+        <play>
+          <batter name="Smart" out="0" scored="0" tobase="1" />
+          <runner name="Fitzgerald" out="0" scored="1" tobase="4" />
+          <runner name="Jones" out="0" scored="0" tobase="3" />
+          <runner name="Siddans" out="0" scored="0" tobase="2" />
+          <narrative text="Smart walks, Leicht pitching. Fitzgerald scores" />
+        </play>
+        <play>
+          <runner name="Jones" out="0" scored="1" tobase="4" />
+          <narrative text="Jones scores on wild pitch" />
+        </play>
+        <play>
+          <runner name="Siddans" out="0" scored="0" tobase="3" />
+          <narrative text="Siddans advances to 3rd on the same pitch" />
+        </play>
+        <play>
+          <runner name="Smart" out="0" scored="0" tobase="2" />
+          <narrative text="Smart advances to 2nd on the same pitch" />
+        </play>
+        <play>
+          <batter name="Evans" out="1" scored="0" tobase="0" />
+          <narrative text="Evans strikes out looking, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="Webb" out="1" scored="0" tobase="0" />
+          <narrative text="Webb flies out to left fielder Kahn" />
+        </play>
+        <innsummary e="1" h="2" lob="2" r="4" />
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Leicht" out="1" scored="0" tobase="0" />
+          <narrative text="Leicht flies out to right fielder Siddans" />
+        </play>
+        <play>
+          <batter name="Li" out="0" scored="0" tobase="1" />
+          <narrative text="Li singles on a line drive to center fielder Fitzgerald" />
+        </play>
+        <play>
+          <batter name="Willems" out="0" scored="0" tobase="1" />
+          <runner name="Li" out="0" scored="0" tobase="2" />
+          <narrative text="Willems singles on a line drive to center fielder Fitzgerald" />
+        </play>
+        <play>
+          <batter name="Mandava" out="0" scored="0" tobase="1" />
+          <runner name="Li" out="0" scored="0" tobase="2" />
+          <runner name="Willems" out="1" scored="0" tobase="2" />
+          <narrative text="Mandava singles on a hard ground ball, first baseman Smart to second baseman Makeham" />
+        </play>
+        <play>
+          <batter name="Batten" out="0" scored="0" tobase="1" />
+          <runner name="Li" out="1" scored="0" tobase="3" />
+          <runner name="Mandava" out="0" scored="0" tobase="2" />
+          <narrative text="Batten grounds into fielder's choice to third baseman Evans" />
+        </play>
+        <innsummary e="0" h="3" lob="2" r="0" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <batter name="Makeham" out="0" scored="0" tobase="1" />
+          <narrative text="Makeham is hit by pitch, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="McGrath" out="0" scored="0" tobase="1" />
+          <runner name="Makeham" out="1" scored="0" tobase="2" />
+          <narrative text="McGrath grounds into fielder's choice, third baseman Findley to second baseman Mandava" />
+        </play>
+        <play>
+          <batter name="Davison" out="0" scored="0" tobase="1" />
+          <runner name="McGrath" out="0" scored="0" tobase="2" />
+          <narrative text="Davison singles on a hard ground ball to right fielder Melenhorst" />
+        </play>
+        <play>
+          <batter name="Fitzgerald" out="0" scored="0" tobase="1" />
+          <runner name="McGrath" out="0" scored="0" tobase="3" />
+          <runner name="Davison" out="0" scored="0" tobase="2" />
+          <narrative text="Fitzgerald is hit by pitch, Leicht pitching" />
+        </play>
+        <play>
+          <batter name="Coles" out="0" scored="0" tobase="2" />
+          <runner name="McGrath" out="0" scored="1" tobase="4" />
+          <runner name="Davison" out="0" scored="1" tobase="4" />
+          <runner name="Fitzgerald" out="0" scored="0" tobase="3" />
+          <narrative text="Coles singles on a line drive to right fielder Melenhorst. McGrath scores. Davison scores" />
+        </play>
+        <play>
+          <batter name="Jones" out="1" scored="0" tobase="1" />
+          <runner name="Fitzgerald" out="0" scored="1" tobase="4" />
+          <runner name="Coles" out="0" scored="0" tobase="2" />
+          <narrative text="Jones grounds out to shortstop Willems. Fitzgerald scores" />
+        </play>
+        <play>
+          <batter name="Siddans" out="1" scored="0" tobase="0" />
+          <narrative text="Siddans strikes out looking, Leicht pitching" />
+        </play>
+        <innsummary e="0" h="2" lob="1" r="3" />
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="SNTS" vh="V">
+        <play>
+          <narrative text="Lineup changed: Davison in at third baseman" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Webb in at pitcher" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Evans in at shortstop" />
+        </play>
+        <play>
+          <batter name="Melenhorst" out="1" scored="0" tobase="0" />
+          <narrative text="Melenhorst lines out to right fielder Siddans" />
+        </play>
+        <play>
+          <batter name="Smart" out="1" scored="0" tobase="1" />
+          <narrative text="Smart grounds out to pitcher Webb" />
+        </play>
+        <play>
+          <batter name="Findley" out="0" scored="0" tobase="1" />
+          <narrative text="Findley singles on a ground ball to right fielder Siddans" />
+        </play>
+        <play>
+          <batter name="Kahn" out="1" scored="0" tobase="0" />
+          <narrative text="Kahn strikes out looking, Webb pitching" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="0" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <narrative text="Lineup changed: Batten in at pitcher" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Leicht in at shortstop" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Willems in at first baseman" />
+        </play>
+        <play>
+          <batter name="Smart" out="1" scored="0" tobase="1" />
+          <narrative text="Smart grounds out to shortstop Leicht" />
+        </play>
+        <play>
+          <batter name="Evans" out="0" scored="0" tobase="1" />
+          <narrative text="Evans singles on a line drive to left fielder Kahn" />
+        </play>
+        <play>
+          <batter name="Webb" out="0" scored="0" tobase="1" />
+          <runner name="Evans" out="0" scored="0" tobase="2" />
+          <narrative text="Webb singles on a hard ground ball to left fielder Kahn" />
+        </play>
+        <play>
+          <batter name="Makeham" out="1" scored="0" tobase="0" />
+          <narrative text="Makeham strikes out looking, Batten pitching" />
+        </play>
+        <play>
+          <batter name="McGrath" out="1" scored="0" tobase="0" />
+          <narrative text="McGrath strikes out swinging, Batten pitching" />
+        </play>
+        <innsummary e="0" h="2" lob="2" r="0" />
+      </batting>
+    </inning>
+    <inning number="5">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="1" />
+          <narrative text="Ryan grounds out to second baseman Makeham" />
+        </play>
+        <play>
+          <batter name="Leicht" out="1" scored="0" tobase="0" />
+          <narrative text="Leicht strikes out looking, Webb pitching" />
+        </play>
+        <play>
+          <batter name="Li" out="1" scored="0" tobase="1" />
+          <narrative text="Li grounds out to second baseman Makeham" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <narrative text="Lineup changed: Li in at left fielder" />
+        </play>
+        <play>
+          <batter name="Davison" out="0" scored="0" tobase="1" />
+          <narrative text="Davison is hit by pitch, Batten pitching" />
+        </play>
+        <play>
+          <batter name="Fitzgerald" out="1" scored="0" tobase="1" />
+          <runner name="Davison" out="0" scored="0" tobase="2" />
+          <narrative text="Fitzgerald grounds out to shortstop Leicht" />
+        </play>
+        <play>
+          <batter name="Coles" out="1" scored="0" tobase="1" />
+          <runner name="Davison" out="0" scored="0" tobase="3" />
+          <narrative text="Coles grounds out to first baseman Willems" />
+        </play>
+        <play>
+          <batter name="Jones" out="1" scored="0" tobase="1" />
+          <narrative text="Jones grounds out to first baseman Willems" />
+        </play>
+        <innsummary e="0" h="0" lob="1" r="0" />
+      </batting>
+    </inning>
+    <inning number="6">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Willems" out="1" scored="0" tobase="0" />
+          <narrative text="Willems strikes out swinging, Webb pitching" />
+        </play>
+        <play>
+          <batter name="Mandava" out="1" scored="0" tobase="1" />
+          <narrative text="Mandava grounds out to second baseman Makeham" />
+        </play>
+        <play>
+          <batter name="Batten" out="1" scored="0" tobase="1" />
+          <narrative text="Batten grounds out to third baseman Davison" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>

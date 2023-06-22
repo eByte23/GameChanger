@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="04/30/19" source="GameChanger" source_format="Sabertooth" version="9.17.1.1">
+  <venue date="04/27/19" gameid="5cc3bb850cbf008df4000002" homeid="CRYD" homename="Croydon" leaguegame="Y" location="" schedinn="9" start="14:40 PM" visid="SNTS" visname="St.Kilda 2019 MWBL C Grade" />
+  <team code="SNTS" id="SNTS" name="St.Kilda 2019 MWBL C Grade" record="1-1-0" vh="V">
+    <linescore errs="4" hits="10" line="3,1,1,0,5" lob="7" runs="10">
+      <lineinn inn="1" score="3" />
+      <lineinn inn="2" score="1" />
+      <lineinn inn="3" score="1" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="5" />
+    </linescore>
+    <starters>
+      <starter name="Carlo Spadazzi" pos="3B" slot="1" />
+      <starter name="Enrique Esquivel" pos="CF" slot="2" />
+      <starter name="Tony Torcasio" pos="SS" slot="3" />
+      <starter name="Ash Ryan" pos="RF" slot="4" />
+      <starter name="Jonathon Momson" pos="LF" slot="5" />
+      <starter name="Justin Graham" pos="SS" slot="6" />
+      <starter name="Dave Alcala" pos="C" slot="8" />
+      <starter name="Steve Bowden" pos="1B" slot="9" />
+      <starter name="Geoff Leonard" slot="10" />
+      <starter name="Peter McCourt" pos="P" slot="11" />
+    </starters>
+    <totals>
+      <hitting ab="26" bb="5" cs="0" double="1" gdp="0" ground="0" h="10" hbp="1" hr="0" kl="2" pickoff="0" r="10" rbi="5" rchci="0" rcherr="2" sb="5" sf="0" sh="0" so="3" triple="0" />
+      <fielding a="0" ci="0" csb="1" e="4" indp="1" intp="0" pb="0" po="12" sba="3" />
+      <pitching ab="25" bb="3" bf="28" bk="0" er="7" fly="2" ground="5" h="12" hbp="0" hr="0" ip="4.0" picked="0" pitches="77" r="11" so="1" wp="1" />
+      <hsitsummary lob="7" rbi-2out="2" rchci="0" rcherr="2" wrbiops="15" />
+      <psitsummary fly="2" ground="5" />
+    </totals>
+    <player atpos="3b" gp="1" name="Carlo Spadazzi" pos="3b" shortname="Spadazzi" spot="1">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="2" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="2b" gp="1" name="David Velazquez" pos="2b" shortname="Velazquez" spot="1" sub="1">
+      <hitting ab="1" bb="2" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="cf" gp="1" name="Enrique Esquivel" pos="cf" shortname="Esquivel" spot="2">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="1" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="ss" gp="1" name="Tony Torcasio" pos="ss" shortname="Torcasio" spot="3">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="2" rchci="0" rcherr="1" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="1" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="1" wrbiops="2" />
+    </player>
+    <player atpos="rf" gp="1" name="Ash Ryan" pos="rf" shortname="Ryan" spot="4">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="lf" gp="1" name="Jonathon Momson" pos="lf" shortname="Momson" spot="5">
+      <hitting ab="3" bb="0" cs="0" double="1" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="1" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="ss" gp="1" name="Justin Graham" pos="ss" shortname="Graham" spot="6">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="3" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+      <pitching ab="12" appear="2" bb="0" bf="12" bk="0" er="1" fly="1" ground="2" gs="0" h="6" hbp="0" hr="0" ip="1.2" picked="0" pitches="28" r="3" so="1" wp="0" />
+      <psitsummary fly="1" ground="2" />
+    </player>
+    <player atpos="c" gp="1" name="Dave Alcala" pos="c" shortname="Alcala" spot="8">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="1" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="1" wrbiops="2" />
+    </player>
+    <player atpos="1b" gp="1" name="Steve Bowden" pos="1b" shortname="Bowden" spot="9">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player gp="1" name="Geoff Leonard" shortname="Leonard" spot="10">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Peter McCourt" pos="p" shortname="McCourt" spot="11">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="1" e="0" indp="0" intp="0" pb="0" po="2" sba="3" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <pitching ab="13" appear="1" bb="3" bf="16" bk="0" er="6" fly="1" ground="3" gs="1" h="6" hbp="0" hr="0" ip="2.1" picked="0" pitches="49" r="8" so="0" wp="1" />
+      <psitsummary fly="1" ground="3" />
+    </player>
+    <player gp="1" name="Matt Manning" shortname="Manning" spot="12">
+      <hitting ab="0" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player gp="1" name="Alex Pellerano" shortname="Pellerano" spot="13">
+      <hitting ab="0" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player gp="1" name="Omar Gomez" shortname="Gomez" spot="14">
+      <hitting ab="0" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+  </team>
+  <team code="CRYD" id="CRYD" name="Croydon" vh="H">
+    <linescore errs="5" hits="12" line="3,0,5,1,2" lob="3" runs="11">
+      <lineinn inn="1" score="3" />
+      <lineinn inn="2" score="0" />
+      <lineinn inn="3" score="5" />
+      <lineinn inn="4" score="1" />
+      <lineinn inn="5" score="2" />
+    </linescore>
+    <starters>
+      <starter name="D Tibbles" pos="CF" slot="1" />
+      <starter name="J Peters" pos="SS" slot="2" />
+      <starter name="S Malher" pos="C" slot="3" />
+      <starter name="M Perry" pos="2B" slot="4" />
+      <starter name="L Graff" pos="RF" slot="5" />
+      <starter name="L Bowe" pos="LF" slot="6" />
+      <starter name="D Scholzy" pos="3B" slot="7" />
+      <starter name="J Barka" pos="1B" slot="8" />
+      <starter name="J Jowett" pos="P" slot="9" />
+    </starters>
+    <totals>
+      <hitting ab="25" bb="3" cs="1" double="2" gdp="1" ground="0" h="12" hbp="0" hr="0" kl="0" pickoff="0" r="11" rbi="9" rchci="0" rcherr="3" sb="3" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="4" ci="0" csb="0" e="5" indp="1" intp="0" pb="0" po="14" sba="5" />
+      <pitching ab="26" bb="5" bf="32" bk="1" er="7" fly="3" ground="6" h="10" hbp="1" hr="0" ip="5.0" picked="0" pitches="106" r="10" so="3" wp="1" />
+      <hsitsummary lob="3" rbi-2out="3" rchci="0" rcherr="3" wrbiops="16" />
+      <psitsummary fly="3" ground="6" />
+    </totals>
+    <player atpos="cf" gp="1" name="D Tibbles" pos="cf" shortname="Tibbles" spot="1">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="ss" gp="1" name="J Peters" pos="ss" shortname="Peters" spot="2">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="3" rbi="0" rchci="0" rcherr="1" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="2" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="1" wrbiops="0" />
+    </player>
+    <player atpos="c" gp="1" name="S Malher" pos="c" shortname="Malher" spot="3">
+      <hitting ab="2" bb="1" cs="0" double="1" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="2b" gp="1" name="M Perry" pos="2b" shortname="Perry" spot="4">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="1" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="3" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="1" wrbiops="2" />
+    </player>
+    <player atpos="rf" gp="1" name="L Graff" pos="rf" shortname="Graff" spot="5">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="1" rchci="0" rcherr="0" wrbiops="3" />
+    </player>
+    <player atpos="lf" gp="1" name="L Bowe" pos="lf" shortname="Bowe" spot="6">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="3b" gp="1" name="D Scholzy" pos="3b" shortname="Scholzy" spot="7">
+      <hitting ab="3" bb="0" cs="0" double="1" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="1" wrbiops="2" />
+    </player>
+    <player atpos="1b" gp="1" name="J Barka" pos="1b" shortname="Barka" spot="8">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="1" intp="0" pb="0" po="4" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="p" gp="1" name="J Jowett" pos="p" shortname="Jowett" spot="9">
+      <hitting ab="3" bb="0" cs="1" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="2" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="1" indp="1" intp="0" pb="0" po="2" sba="1" />
+      <hsitsummary lob="1" rbi-2out="2" rchci="0" rcherr="0" wrbiops="2" />
+      <pitching ab="22" appear="1" bb="4" bf="26" bk="1" er="5" fly="3" ground="6" gs="0" h="8" hbp="0" hr="0" ip="4.2" picked="0" pitches="84" r="7" so="2" wp="1" />
+      <psitsummary fly="3" ground="6" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Velazquez" out="0" scored="0" tobase="1" />
+          <narrative text="Velazquez walks" />
+        </play>
+        <play>
+          <runner name="Velazquez" out="0" scored="0" tobase="2" />
+          <narrative text="Velazquez steals 2nd" />
+        </play>
+        <play>
+          <batter name="Esquivel" out="0" scored="0" tobase="1" />
+          <narrative text="Esquivel is hit by pitch" />
+        </play>
+        <play>
+          <runner name="Velazquez" out="0" scored="0" tobase="3" />
+          <narrative text="Velazquez steals 3rd" />
+        </play>
+        <play>
+          <runner name="Esquivel" out="0" scored="0" tobase="2" />
+          <narrative text="Esquivel steals 2nd" />
+        </play>
+        <play>
+          <batter name="Torcasio" out="0" scored="0" tobase="1" />
+          <runner name="Velazquez" out="0" scored="1" tobase="4" />
+          <runner name="Esquivel" out="0" scored="0" tobase="3" />
+          <narrative text="Torcasio hits a hard ground ball and reaches on an error by second baseman. Velazquez scores" />
+        </play>
+        <play>
+          <runner name="Torcasio" out="0" scored="0" tobase="2" />
+          <narrative text="Torcasio steals 2nd" />
+        </play>
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="0" />
+          <narrative text="Ryan strikes out looking" />
+        </play>
+        <play>
+          <batter name="Momson" out="0" scored="0" tobase="1" />
+          <runner name="Esquivel" out="0" scored="1" tobase="4" />
+          <runner name="Torcasio" out="0" scored="0" tobase="3" />
+          <narrative text="Momson singles on a ground ball to pitcher. Esquivel scores" />
+        </play>
+        <play>
+          <runner name="Torcasio" out="0" scored="1" tobase="4" />
+          <narrative text="Torcasio scores on error by pitcher" />
+        </play>
+        <play>
+          <runner name="Momson" out="0" scored="0" tobase="2" />
+          <narrative text="Momson advances to 2nd on the same error" />
+        </play>
+        <play>
+          <batter name="Graham" out="0" scored="0" tobase="1" />
+          <runner name="Momson" out="0" scored="0" tobase="3" />
+          <narrative text="Graham singles on a hard ground ball to right fielder Graff" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="1" scored="0" tobase="0" />
+          <runner name="Graham" out="1" scored="0" tobase="1" />
+          <narrative text="Spadazzi lines into a double play, pitcher Jowett to first baseman Barka" />
+        </play>
+        <innsummary e="2" h="2" lob="1" r="3" />
+      </batting>
+      <batting id="CRYD" vh="H">
+        <play>
+          <batter name="Tibbles" out="0" scored="0" tobase="1" />
+          <narrative text="Tibbles singles on a fly ball to first baseman Bowden" />
+        </play>
+        <play>
+          <batter name="Peters" out="0" scored="0" tobase="1" />
+          <runner name="Tibbles" out="0" scored="0" tobase="2" />
+          <narrative text="Peters singles on a line drive to center fielder Esquivel" />
+        </play>
+        <play>
+          <batter name="Malher" out="0" scored="0" tobase="1" />
+          <runner name="Tibbles" out="0" scored="0" tobase="3" />
+          <runner name="Peters" out="0" scored="0" tobase="2" />
+          <narrative text="Malher walks, McCourt pitching" />
+        </play>
+        <play>
+          <batter name="Perry" out="0" scored="0" tobase="1" />
+          <runner name="Tibbles" out="0" scored="1" tobase="4" />
+          <runner name="Peters" out="0" scored="1" tobase="4" />
+          <runner name="Malher" out="0" scored="0" tobase="3" />
+          <narrative text="Perry hits a fly ball and reaches on an error by right fielder Ryan. Tibbles scores. Peters scores" />
+        </play>
+        <play>
+          <runner name="Perry" out="0" scored="0" tobase="2" />
+          <narrative text="Perry advances to 2nd on the same error" />
+        </play>
+        <play>
+          <batter name="Graff" out="1" scored="0" tobase="1" />
+          <runner name="Malher" out="0" scored="0" tobase="3" />
+          <runner name="Perry" out="0" scored="0" tobase="2" />
+          <narrative text="Graff grounds out to pitcher McCourt" />
+        </play>
+        <play>
+          <batter name="Bowe" out="1" scored="0" tobase="1" />
+          <runner name="Malher" out="0" scored="1" tobase="4" />
+          <runner name="Perry" out="0" scored="0" tobase="2" />
+          <narrative text="Bowe grounds out to shortstop Graham. Malher scores" />
+        </play>
+        <play>
+          <batter name="Scholzy" out="1" scored="0" tobase="0" />
+          <narrative text="Scholzy flies out to first baseman Bowden" />
+        </play>
+        <innsummary e="1" h="2" lob="1" r="3" />
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Alcala" out="0" scored="0" tobase="1" />
+          <narrative text="Alcala singles on a fly ball to left fielder Bowe" />
+        </play>
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden strikes out looking, Jowett pitching" />
+        </play>
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <runner name="Alcala" out="0" scored="0" tobase="2" />
+          <narrative text="Leonard walks, Jowett pitching" />
+        </play>
+        <play>
+          <runner name="Alcala" out="0" scored="0" tobase="3" />
+          <narrative text="Alcala steals 3rd" />
+        </play>
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="0" />
+          <narrative text="McCourt flies out to second baseman Perry" />
+        </play>
+        <play>
+          <runner name="Alcala" out="0" scored="1" tobase="4" />
+          <narrative text="Alcala scores on wild pitch" />
+        </play>
+        <play>
+          <runner name="Leonard" out="0" scored="0" tobase="2" />
+          <narrative text="Leonard advances to 2nd on the same pitch" />
+        </play>
+        <play>
+          <batter name="Velazquez" out="0" scored="0" tobase="1" />
+          <narrative text="Velazquez walks, Jowett pitching" />
+        </play>
+        <play>
+          <batter name="Esquivel" out="1" scored="0" tobase="1" />
+          <narrative text="Esquivel grounds out to pitcher Jowett" />
+        </play>
+        <innsummary e="0" h="1" lob="2" r="1" />
+      </batting>
+      <batting id="CRYD" vh="H">
+        <play>
+          <batter name="Barka" out="0" scored="0" tobase="1" />
+          <narrative text="Barka singles on a fly ball to second baseman Velazquez" />
+        </play>
+        <play>
+          <batter name="Jowett" out="0" scored="0" tobase="1" />
+          <runner name="Barka" out="1" scored="0" tobase="2" />
+          <narrative text="Jowett grounds into fielder's choice to second baseman Velazquez" />
+        </play>
+        <play>
+          <runner name="Jowett" out="0" scored="0" tobase="2" />
+          <narrative text="Jowett steals 2nd" />
+        </play>
+        <play>
+          <batter name="Tibbles" out="1" scored="0" tobase="1" />
+          <runner name="Jowett" out="0" scored="0" tobase="2" />
+          <narrative text="Tibbles grounds out to second baseman Velazquez" />
+        </play>
+        <play>
+          <runner name="Jowett" out="0" scored="0" tobase="3" />
+          <narrative text="Jowett steals 3rd" />
+        </play>
+        <play>
+          <runner name="Jowett" out="1" scored="0" tobase="4" />
+          <narrative text="Jowett caught stealing home, third baseman Spadazzi" />
+        </play>
+        <play>
+          <batter name="Peters" out="0" scored="0" tobase="0" />
+          <runner name="Jowett" out="1" scored="0" tobase="4" />
+          <narrative text="Half-inning ended by out on the base paths" />
+        </play>
+        <innsummary e="0" h="1" lob="0" r="0" />
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Torcasio" out="0" scored="0" tobase="1" />
+          <narrative text="Torcasio walks, Jowett pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Torcasio" out="1" scored="0" tobase="2" />
+          <narrative text="Ryan grounds into fielder's choice, second baseman Perry to shortstop Peters" />
+        </play>
+        <play>
+          <batter name="Momson" out="1" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="0" tobase="2" />
+          <narrative text="Momson grounds out, second baseman Perry to first baseman Barka" />
+        </play>
+        <play>
+          <batter name="Graham" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="0" tobase="3" />
+          <narrative text="Graham singles on a line drive to left fielder Bowe" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="1" tobase="4" />
+          <runner name="Graham" out="0" scored="0" tobase="2" />
+          <narrative text="Spadazzi singles on a line drive to center fielder Tibbles. Ryan scores" />
+        </play>
+        <play>
+          <batter name="Alcala" out="1" scored="0" tobase="1" />
+          <narrative text="Alcala grounds out to third baseman Scholzy" />
+        </play>
+        <innsummary e="0" h="2" lob="2" r="1" />
+      </batting>
+      <batting id="CRYD" vh="H">
+        <play>
+          <batter name="Peters" out="0" scored="0" tobase="1" />
+          <narrative text="Peters walks, McCourt pitching" />
+        </play>
+        <play>
+          <runner name="Peters" out="0" scored="0" tobase="2" />
+          <narrative text="Peters steals 2nd" />
+        </play>
+        <play>
+          <batter name="Malher" out="0" scored="0" tobase="2" />
+          <runner name="Peters" out="0" scored="1" tobase="4" />
+          <narrative text="Malher doubles on a line drive to right fielder Ryan. Peters scores" />
+        </play>
+        <play>
+          <batter name="Perry" out="0" scored="0" tobase="1" />
+          <narrative text="Perry walks, McCourt pitching" />
+        </play>
+        <play>
+          <runner name="Malher" out="0" scored="0" tobase="3" />
+          <narrative text="Malher advances to 3rd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Graff" out="0" scored="0" tobase="1" />
+          <runner name="Malher" out="0" scored="1" tobase="4" />
+          <runner name="Perry" out="0" scored="0" tobase="3" />
+          <narrative text="Graff singles on a line drive to center fielder Esquivel. Malher scores" />
+        </play>
+        <play>
+          <batter name="Bowe" out="0" scored="0" tobase="1" />
+          <runner name="Perry" out="0" scored="0" tobase="3" />
+          <runner name="Graff" out="1" scored="0" tobase="2" />
+          <narrative text="Bowe grounds into fielder's choice to pitcher McCourt" />
+        </play>
+        <play>
+          <batter name="Scholzy" out="0" scored="0" tobase="2" />
+          <runner name="Perry" out="0" scored="1" tobase="4" />
+          <runner name="Bowe" out="0" scored="0" tobase="3" />
+          <narrative text="Scholzy doubles on a line drive to left fielder Momson. Perry scores" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: McCourt in at extra hitter" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Torcasio in at shortstop" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Graham in at pitcher" />
+        </play>
+        <play>
+          <batter name="Barka" out="1" scored="0" tobase="1" />
+          <runner name="Bowe" out="0" scored="0" tobase="3" />
+          <runner name="Scholzy" out="0" scored="0" tobase="2" />
+          <narrative text="Barka grounds out to third baseman Spadazzi" />
+        </play>
+        <play>
+          <batter name="Jowett" out="0" scored="0" tobase="1" />
+          <runner name="Bowe" out="0" scored="1" tobase="4" />
+          <runner name="Scholzy" out="0" scored="1" tobase="4" />
+          <narrative text="Jowett singles on a fly ball to right fielder Ryan. Bowe scores. Scholzy scores" />
+        </play>
+        <play>
+          <batter name="Tibbles" out="1" scored="0" tobase="0" />
+          <narrative text="Tibbles flies out to center fielder Esquivel" />
+        </play>
+        <innsummary e="0" h="4" lob="1" r="5" />
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden strikes out swinging, Jowett pitching" />
+        </play>
+        <play>
+          <batter name="Leonard" out="1" scored="0" tobase="1" />
+          <narrative text="Leonard grounds out to third baseman Scholzy" />
+        </play>
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="1" />
+          <narrative text="McCourt grounds out to second baseman Perry" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+      <batting id="CRYD" vh="H">
+        <play>
+          <batter name="Peters" out="0" scored="0" tobase="1" />
+          <narrative text="Peters hits a ground ball and reaches on an error by shortstop Torcasio" />
+        </play>
+        <play>
+          <runner name="Peters" out="0" scored="0" tobase="2" />
+          <narrative text="Peters advances to 2nd on error by left fielder Momson" />
+        </play>
+        <play>
+          <batter name="Malher" out="0" scored="0" tobase="1" />
+          <runner name="Peters" out="0" scored="0" tobase="2" />
+          <narrative text="Malher singles on a ground ball to shortstop Torcasio" />
+        </play>
+        <play>
+          <batter name="Perry" out="1" scored="0" tobase="1" />
+          <runner name="Peters" out="0" scored="0" tobase="3" />
+          <runner name="Malher" out="1" scored="0" tobase="2" />
+          <narrative text="Perry grounds into a double play to shortstop Torcasio" />
+        </play>
+        <play>
+          <batter name="Graff" out="0" scored="0" tobase="1" />
+          <runner name="Peters" out="0" scored="1" tobase="4" />
+          <narrative text="Graff singles on a hard ground ball to left fielder Momson. Peters scores" />
+        </play>
+        <play>
+          <batter name="Bowe" out="1" scored="0" tobase="0" />
+          <narrative text="Bowe strikes out swinging, Graham pitching" />
+        </play>
+        <innsummary e="2" h="2" lob="1" r="1" />
+      </batting>
+    </inning>
+    <inning number="5">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Velazquez" out="1" scored="0" tobase="0" />
+          <narrative text="Velazquez flies out to first baseman Barka" />
+        </play>
+        <play>
+          <batter name="Esquivel" out="0" scored="0" tobase="1" />
+          <narrative text="Esquivel singles on a line drive to center fielder Tibbles" />
+        </play>
+        <play>
+          <runner name="Esquivel" out="0" scored="0" tobase="2" />
+          <narrative text="Balk by pitcher Jowett" />
+        </play>
+        <play>
+          <batter name="Torcasio" out="0" scored="0" tobase="2" />
+          <runner name="Esquivel" out="0" scored="1" tobase="4" />
+          <narrative text="Torcasio singles on a fly ball to right fielder Graff. Esquivel scores" />
+        </play>
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="1" />
+          <runner name="Torcasio" out="0" scored="0" tobase="3" />
+          <narrative text="Ryan grounds out, second baseman Perry to first baseman Barka" />
+        </play>
+        <play>
+          <batter name="Momson" out="0" scored="0" tobase="3" />
+          <runner name="Torcasio" out="0" scored="1" tobase="4" />
+          <narrative text="Momson doubles on a fly ball to right fielder Graff. Torcasio scores" />
+        </play>
+        <play>
+          <runner name="Momson" out="0" scored="1" tobase="4" />
+          <narrative text="Momson scores on error by shortstop Peters" />
+        </play>
+        <play>
+          <batter name="Graham" out="0" scored="0" tobase="1" />
+          <narrative text="Graham singles on a hard ground ball to right fielder Graff" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="0" scored="0" tobase="1" />
+          <runner name="Graham" out="0" scored="0" tobase="2" />
+          <narrative text="Spadazzi singles on a line drive to left fielder Bowe" />
+        </play>
+        <play>
+          <batter name="Alcala" out="0" scored="0" tobase="1" />
+          <runner name="Graham" out="0" scored="1" tobase="4" />
+          <runner name="Spadazzi" out="0" scored="0" tobase="3" />
+          <narrative text="Alcala hits a ground ball and reaches on an error by shortstop Peters. Graham scores" />
+        </play>
+        <play>
+          <runner name="Spadazzi" out="0" scored="1" tobase="4" />
+          <narrative text="Spadazzi scores on error by pitcher Jowett" />
+        </play>
+        <play>
+          <runner name="Alcala" out="0" scored="0" tobase="3" />
+          <narrative text="Alcala advances to 3rd on the same error" />
+        </play>
+        <play>
+          <batter name="Bowden" out="0" scored="0" tobase="1" />
+          <narrative text="Bowden walks, Jowett pitching" />
+        </play>
+        <play>
+          <batter name="Leonard" out="1" scored="0" tobase="0" />
+          <narrative text="Leonard out (other)" />
+        </play>
+        <innsummary e="3" h="5" lob="2" r="5" />
+      </batting>
+      <batting id="CRYD" vh="H">
+        <play>
+          <batter name="Scholzy" out="0" scored="0" tobase="1" />
+          <narrative text="Scholzy hits a ground ball and reaches on an error by third baseman Spadazzi" />
+        </play>
+        <play>
+          <batter name="Barka" out="0" scored="0" tobase="1" />
+          <runner name="Scholzy" out="0" scored="0" tobase="2" />
+          <narrative text="Barka singles on a ground ball to center fielder Esquivel" />
+        </play>
+        <play>
+          <batter name="Jowett" out="0" scored="0" tobase="1" />
+          <runner name="Scholzy" out="0" scored="0" tobase="3" />
+          <runner name="Barka" out="0" scored="0" tobase="2" />
+          <narrative text="Jowett singles on a ground ball to center fielder Esquivel" />
+        </play>
+        <play>
+          <batter name="Tibbles" out="0" scored="0" tobase="2" />
+          <runner name="Scholzy" out="0" scored="1" tobase="4" />
+          <runner name="Barka" out="0" scored="1" tobase="4" />
+          <runner name="Jowett" out="0" scored="0" tobase="3" />
+          <narrative text="Tibbles singles on a line drive to right fielder Ryan. Scholzy scores. Barka scores" />
+        </play>
+        <innsummary e="1" h="3" lob="0" r="2" />
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>

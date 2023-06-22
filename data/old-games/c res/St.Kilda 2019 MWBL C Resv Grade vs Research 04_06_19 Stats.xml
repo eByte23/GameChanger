@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="05/07/19" source="GameChanger" source_format="Sabertooth" version="9.13.0.1">
+  <venue date="04/06/19" gameid="5cafbb850cbf000d8e000013" homeid="SNTS" homename="St.Kilda 2019 MWBL C Resv Grade" leaguegame="Y" location="" schedinn="7" start="12:15 PM" visid="RSRC" visname="Research" />
+  <team code="RSRC" id="RSRC" name="Research" vh="V">
+    <linescore errs="5" hits="10" line="0,0,2,0,2,0,3" lob="7" runs="7">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="0" />
+      <lineinn inn="3" score="2" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="2" />
+      <lineinn inn="6" score="0" />
+      <lineinn inn="7" score="3" />
+    </linescore>
+    <starters>
+      <starter name="Daryl Barnett" pos="1B" slot="1" />
+      <starter name="Cross" pos="P" slot="2" uni="Ian" />
+      <starter name="Shane Robinson" pos="RF" slot="3" />
+      <starter name="Phil Weingott" pos="3B" slot="4" />
+      <starter name="Ben Stewart" pos="C" slot="5" />
+      <starter name="Fletcher Pendlebury" pos="SS" slot="6" />
+      <starter name="Stephen Barro" pos="CF" slot="7" />
+      <starter name="Leah Cate Tre..." pos="2B" slot="8" />
+      <starter name="Blank" slot="9" />
+    </starters>
+    <totals>
+      <hitting ab="34" bb="0" cs="0" double="1" gdp="0" ground="0" h="10" hbp="0" hr="1" kl="0" pickoff="0" r="7" rbi="7" rchci="0" rcherr="4" sb="0" sf="1" sh="0" so="4" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="5" indp="0" intp="0" pb="1" po="21" sba="1" />
+      <pitching ab="29" bb="2" bf="33" bk="0" er="1" fly="7" ground="6" h="6" hbp="2" hr="0" ip="7.0" picked="0" pitches="118" r="3" so="2" wp="0" />
+      <hsitsummary lob="7" rbi-2out="3" rchci="0" rcherr="4" wrbiops="13" />
+      <psitsummary fly="7" ground="6" />
+    </totals>
+    <player atpos="1b" gp="1" name="Daryl Barnett" pos="1b" shortname="Barnett" spot="1">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="2" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="2" wrbiops="0" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Cross" pos="p" shortname="Ian" spot="2" uni="Ian">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="3" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="1" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="1" wrbiops="1" />
+      <pitching ab="29" appear="1" bb="2" bf="33" bk="0" er="1" fly="7" ground="6" gs="1" h="6" hbp="2" hr="0" ip="7.0" picked="0" pitches="118" r="3" so="2" win="1-0" wp="0" />
+      <psitsummary fly="7" ground="6" />
+    </player>
+    <player atpos="rf" gp="1" name="Shane Robinson" pos="rf" shortname="Robinson" spot="3">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="5" rbi-2out="0" rchci="0" rcherr="1" wrbiops="3" />
+    </player>
+    <player atpos="3b" gp="1" name="Phil Weingott" pos="3b" shortname="Weingott" spot="4">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="1" kl="0" pickoff="0" r="1" rbi="5" rchci="0" rcherr="0" sb="0" sf="1" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="1" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="c" gp="1" name="Ben Stewart" pos="c" shortname="Stewart" spot="5">
+      <hitting ab="4" bb="0" cs="0" double="1" gdp="0" ground="0" h="4" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="2" indp="0" intp="0" pb="1" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="2" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="ss" gp="1" name="Fletcher Pendlebury" pos="ss" shortname="Pendlebury" spot="6">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="7" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="cf" gp="1" name="Stephen Barro" pos="cf" shortname="Barro" spot="7">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="2b" gp="1" name="Leah Cate Tre..." pos="2b" shortname="Tre..." spot="8">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="2" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player gp="1" name="Blank" shortname="Blank" spot="9">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="3" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+  </team>
+  <team code="SNTS" id="SNTS" name="St.Kilda 2019 MWBL C Resv Grade" record="1-2-0" vh="H">
+    <linescore errs="5" hits="6" line="1,0,0,0,1,1,0" lob="9" runs="3">
+      <lineinn inn="1" score="1" />
+      <lineinn inn="2" score="0" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="0" />
+      <lineinn inn="5" score="1" />
+      <lineinn inn="6" score="1" />
+      <lineinn inn="7" score="0" />
+    </linescore>
+    <starters>
+      <starter name="Jim Findley" pos="LF" slot="1" uni="71" />
+      <starter name="Geoff Leonard" pos="P" slot="2" />
+      <starter name="Ash Ryan" pos="3B" slot="3" />
+      <starter name="David Batten" pos="1B" slot="4" uni="94" />
+      <starter name="Carlos Mena" pos="2B" slot="5" />
+      <starter name="Michael Kahn" pos="RF" slot="6" uni="21" />
+      <starter name="Annie Curnow" pos="CF" slot="7" />
+      <starter name="Josh Smart" pos="C" slot="8" uni="77" />
+      <starter name="Peter McCourt" pos="SS" slot="9" />
+    </starters>
+    <totals>
+      <hitting ab="29" bb="2" cs="0" double="1" gdp="0" ground="0" h="6" hbp="2" hr="0" kl="2" pickoff="0" r="3" rbi="3" rchci="0" rcherr="2" sb="1" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="5" indp="0" intp="0" pb="0" po="21" sba="0" />
+      <pitching ab="34" bb="0" bf="35" bk="0" er="2" fly="11" ground="4" h="10" hbp="0" hr="1" ip="7.0" picked="0" pitches="117" r="7" so="4" wp="0" />
+      <hsitsummary lob="9" rbi-2out="1" rchci="0" rcherr="2" wrbiops="10" />
+      <psitsummary fly="11" ground="4" />
+    </totals>
+    <player atpos="lf" gp="1" name="Jim Findley" pos="lf" shortname="Findley" spot="1" uni="71">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Geoff Leonard" pos="p" shortname="Leonard" spot="2">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="4" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="1" wrbiops="0" />
+      <pitching ab="34" appear="1" bb="0" bf="35" bk="0" er="2" fly="11" ground="4" gs="1" h="10" hbp="0" hr="1" ip="7.0" loss="0-1" picked="0" pitches="117" r="7" so="4" wp="0" />
+      <psitsummary fly="11" ground="4" />
+    </player>
+    <player atpos="3b" gp="1" name="Ash Ryan" pos="3b" shortname="Ryan" spot="3">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="3" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="1" wrbiops="1" />
+    </player>
+    <player atpos="1b" gp="1" name="David Batten" pos="1b" shortname="Batten" spot="4" uni="94">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="2b" gp="1" name="Carlos Mena" pos="2b" shortname="Mena" spot="5">
+      <hitting ab="3" bb="1" cs="0" double="1" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="4" sba="0" />
+      <hsitsummary lob="3" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="rf" gp="1" name="Michael Kahn" pos="rf" shortname="Kahn" spot="6" uni="21">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="5" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="cf" gp="1" name="Annie Curnow" pos="cf" shortname="Curnow" spot="7">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="c" gp="1" name="Josh Smart" pos="c" shortname="Smart" spot="8" uni="77">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="5" sba="0" />
+      <hsitsummary lob="1" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="ss" gp="1" name="Peter McCourt" pos="ss" shortname="McCourt" spot="9">
+      <hitting ab="3" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="RSRC" vh="V">
+        <play>
+          <batter name="Barnett" out="1" scored="0" tobase="1" />
+          <narrative text="Barnett grounds out to shortstop McCourt" />
+        </play>
+        <play>
+          <batter name="Ian" out="1" scored="0" tobase="0" />
+          <narrative text="Ian pops out to pitcher Leonard" />
+        </play>
+        <play>
+          <batter name="Robinson" out="0" scored="0" tobase="1" />
+          <narrative text="Robinson singles on a ground ball to left fielder Findley" />
+        </play>
+        <play>
+          <batter name="Weingott" out="0" scored="0" tobase="1" />
+          <runner name="Robinson" out="1" scored="0" tobase="2" />
+          <narrative text="Weingott grounds into fielder's choice to third baseman Ryan" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="0" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Findley" out="1" scored="0" tobase="1" />
+          <narrative text="Findley grounds out to first baseman Barnett" />
+        </play>
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <narrative text="Leonard singles on a ground ball to third baseman Weingott" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="0" scored="0" tobase="2" />
+          <narrative text="Ryan is hit by pitch, Ian pitching" />
+        </play>
+        <play>
+          <batter name="Batten" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="0" scored="0" tobase="3" />
+          <runner name="Ryan" out="1" scored="0" tobase="2" />
+          <narrative text="Batten grounds into fielder's choice to shortstop Pendlebury" />
+        </play>
+        <play>
+          <batter name="Mena" out="0" scored="0" tobase="2" />
+          <runner name="Leonard" out="0" scored="1" tobase="4" />
+          <runner name="Batten" out="0" scored="0" tobase="3" />
+          <narrative text="Mena doubles on a line drive to left fielder. Leonard scores" />
+        </play>
+        <play>
+          <batter name="Kahn" out="1" scored="0" tobase="0" />
+          <narrative text="Kahn pops out to first baseman Barnett" />
+        </play>
+        <innsummary e="0" h="2" lob="2" r="1" />
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="RSRC" vh="V">
+        <play>
+          <batter name="Stewart" out="0" scored="0" tobase="1" />
+          <narrative text="Stewart singles on a ground ball to right fielder Kahn" />
+        </play>
+        <play>
+          <batter name="Pendlebury" out="1" scored="0" tobase="0" />
+          <narrative text="Pendlebury pops out to pitcher Leonard" />
+        </play>
+        <play>
+          <batter name="Barro" out="1" scored="0" tobase="1" />
+          <runner name="Stewart" out="0" scored="0" tobase="2" />
+          <narrative text="Barro grounds out to first baseman Batten" />
+        </play>
+        <play>
+          <batter name="Tre..." out="1" scored="0" tobase="0" />
+          <narrative text="Tre... flies out to second baseman Mena" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="0" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Curnow" out="1" scored="0" tobase="1" />
+          <narrative text="Curnow grounds out to pitcher Ian" />
+        </play>
+        <play>
+          <batter name="Smart" out="1" scored="0" tobase="0" />
+          <narrative text="Smart flies out to third baseman Weingott" />
+        </play>
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="0" />
+          <narrative text="McCourt lines out to shortstop Pendlebury" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="RSRC" vh="V">
+        <play>
+          <batter name="Blank" out="1" scored="0" tobase="0" />
+          <narrative text="Blank strikes out swinging, Leonard pitching" />
+        </play>
+        <play>
+          <batter name="Barnett" out="0" scored="0" tobase="1" />
+          <narrative text="Barnett hits a fly ball and reaches on an error by left fielder Findley" />
+        </play>
+        <play>
+          <runner name="Barnett" out="0" scored="0" tobase="2" />
+          <narrative text="Barnett advances to 2nd on the same error" />
+        </play>
+        <play>
+          <batter name="Ian" out="0" scored="0" tobase="1" />
+          <runner name="Barnett" out="0" scored="0" tobase="3" />
+          <narrative text="Ian singles on a ground ball to left fielder Findley" />
+        </play>
+        <play>
+          <batter name="Robinson" out="1" scored="0" tobase="0" />
+          <narrative text="Robinson pops out in foul territory to catcher Smart" />
+        </play>
+        <play>
+          <batter name="Weingott" out="0" scored="0" tobase="1" />
+          <runner name="Barnett" out="0" scored="1" tobase="4" />
+          <runner name="Ian" out="0" scored="0" tobase="3" />
+          <narrative text="Weingott singles on a line drive to left fielder Findley. Barnett scores" />
+        </play>
+        <play>
+          <batter name="Stewart" out="0" scored="0" tobase="1" />
+          <runner name="Ian" out="0" scored="1" tobase="4" />
+          <runner name="Weingott" out="0" scored="0" tobase="2" />
+          <narrative text="Stewart singles on a pop fly to left fielder Findley. Ian scores" />
+        </play>
+        <play>
+          <batter name="Pendlebury" out="1" scored="0" tobase="0" />
+          <narrative text="Pendlebury flies out to second baseman Mena" />
+        </play>
+        <innsummary e="1" h="3" lob="2" r="2" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Findley" out="1" scored="0" tobase="1" />
+          <narrative text="Findley grounds out to first baseman Barnett" />
+        </play>
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <narrative text="Leonard hits a hard ground ball and reaches on an error by second baseman Tre..." />
+        </play>
+        <play>
+          <batter name="Ryan" out="1" scored="0" tobase="0" />
+          <narrative text="Ryan flies out to left fielder" />
+        </play>
+        <play>
+          <batter name="Batten" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="0" scored="0" tobase="2" />
+          <narrative text="Batten singles on a line drive to left fielder" />
+        </play>
+        <play>
+          <batter name="Mena" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="0" scored="0" tobase="3" />
+          <runner name="Batten" out="1" scored="0" tobase="2" />
+          <narrative text="Mena grounds into fielder's choice to shortstop Pendlebury" />
+        </play>
+        <innsummary e="1" h="1" lob="2" r="0" />
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="RSRC" vh="V">
+        <play>
+          <batter name="Barro" out="1" scored="0" tobase="0" />
+          <narrative text="Barro lines out to pitcher Leonard" />
+        </play>
+        <play>
+          <batter name="Tre..." out="1" scored="0" tobase="0" />
+          <narrative text="Tre... strikes out swinging, Leonard pitching" />
+        </play>
+        <play>
+          <batter name="Blank" out="1" scored="0" tobase="0" />
+          <narrative text="Blank strikes out swinging, Leonard pitching" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Kahn" out="0" scored="0" tobase="1" />
+          <narrative text="Kahn singles on a fly ball to right fielder Robinson" />
+        </play>
+        <play>
+          <batter name="Curnow" out="0" scored="0" tobase="1" />
+          <runner name="Kahn" out="1" scored="0" tobase="2" />
+          <narrative text="Curnow grounds into fielder's choice to shortstop Pendlebury" />
+        </play>
+        <play>
+          <runner name="Curnow" out="0" scored="0" tobase="2" />
+          <narrative text="Curnow advances to 2nd on error by catcher Stewart" />
+        </play>
+        <play>
+          <batter name="Smart" out="0" scored="0" tobase="1" />
+          <narrative text="Smart is hit by pitch, Ian pitching" />
+        </play>
+        <play>
+          <batter name="McCourt" out="0" scored="0" tobase="1" />
+          <runner name="Curnow" out="0" scored="0" tobase="3" />
+          <runner name="Smart" out="1" scored="0" tobase="2" />
+          <narrative text="McCourt grounds into fielder's choice to third baseman Weingott" />
+        </play>
+        <play>
+          <batter name="Findley" out="1" scored="0" tobase="1" />
+          <narrative text="Findley grounds out to pitcher Ian" />
+        </play>
+        <innsummary e="1" h="1" lob="2" r="0" />
+      </batting>
+    </inning>
+    <inning number="5">
+      <batting id="RSRC" vh="V">
+        <play>
+          <batter name="Barnett" out="0" scored="0" tobase="1" />
+          <narrative text="Barnett hits a ground ball and reaches on an error by third baseman Ryan" />
+        </play>
+        <play>
+          <batter name="Ian" out="0" scored="0" tobase="1" />
+          <runner name="Barnett" out="0" scored="0" tobase="2" />
+          <narrative text="Ian hits a ground ball and reaches on an error by third baseman Ryan" />
+        </play>
+        <play>
+          <batter name="Robinson" out="1" scored="0" tobase="1" />
+          <runner name="Barnett" out="0" scored="0" tobase="3" />
+          <runner name="Ian" out="0" scored="0" tobase="2" />
+          <narrative text="Robinson grounds out to pitcher Leonard" />
+        </play>
+        <play>
+          <batter name="Weingott" out="1" scored="0" tobase="1" />
+          <runner name="Barnett" out="0" scored="1" tobase="4" />
+          <runner name="Ian" out="0" scored="0" tobase="3" />
+          <narrative text="Weingott out on sacrifice fly to center fielder Curnow. Barnett scores" />
+        </play>
+        <play>
+          <batter name="Stewart" out="0" scored="0" tobase="2" />
+          <runner name="Ian" out="0" scored="1" tobase="4" />
+          <narrative text="Stewart doubles on a line drive to center fielder Curnow. Ian scores" />
+        </play>
+        <play>
+          <batter name="Pendlebury" out="1" scored="0" tobase="0" />
+          <narrative text="Pendlebury pops out to second baseman Mena" />
+        </play>
+        <innsummary e="2" h="1" lob="1" r="2" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <narrative text="Leonard singles on a line drive to center fielder Barro" />
+        </play>
+        <play>
+          <runner name="Leonard" out="0" scored="0" tobase="2" />
+          <narrative text="Leonard advances to 2nd on passed ball" />
+        </play>
+        <play>
+          <runner name="Leonard" out="0" scored="0" tobase="3" />
+          <narrative text="Leonard advances to 3rd on error by catcher Stewart" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="0" scored="1" tobase="4" />
+          <narrative text="Ryan hits a ground ball and reaches on an error by shortstop Pendlebury. Leonard scores" />
+        </play>
+        <play>
+          <batter name="Batten" out="1" scored="0" tobase="0" />
+          <narrative text="Batten pops out in foul territory to third baseman Weingott" />
+        </play>
+        <play>
+          <batter name="Mena" out="1" scored="0" tobase="0" />
+          <narrative text="Mena strikes out looking, Ian pitching" />
+        </play>
+        <play>
+          <batter name="Kahn" out="1" scored="0" tobase="0" />
+          <narrative text="Kahn strikes out looking, Ian pitching" />
+        </play>
+        <innsummary e="2" h="1" lob="1" r="1" />
+      </batting>
+    </inning>
+    <inning number="6">
+      <batting id="RSRC" vh="V">
+        <play>
+          <batter name="Barro" out="1" scored="0" tobase="0" />
+          <narrative text="Barro pops out to first baseman Batten" />
+        </play>
+        <play>
+          <batter name="Tre..." out="1" scored="0" tobase="0" />
+          <narrative text="Tre... pops out to shortstop McCourt" />
+        </play>
+        <play>
+          <batter name="Blank" out="1" scored="0" tobase="0" />
+          <narrative text="Blank strikes out swinging, Leonard pitching" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Curnow" out="0" scored="0" tobase="1" />
+          <narrative text="Curnow singles on a ground ball to second baseman Tre..." />
+        </play>
+        <play>
+          <runner name="Curnow" out="0" scored="0" tobase="2" />
+          <narrative text="Curnow steals 2nd" />
+        </play>
+        <play>
+          <runner name="Curnow" out="0" scored="0" tobase="3" />
+          <narrative text="Curnow advances to 3rd on error by second baseman Tre..." />
+        </play>
+        <play>
+          <batter name="Smart" out="1" scored="0" tobase="0" />
+          <narrative text="Smart lines out to second baseman Tre..." />
+        </play>
+        <play>
+          <batter name="McCourt" out="1" scored="0" tobase="1" />
+          <runner name="Curnow" out="0" scored="1" tobase="4" />
+          <narrative text="McCourt grounds out to second baseman Tre.... Curnow scores" />
+        </play>
+        <play>
+          <batter name="Findley" out="1" scored="0" tobase="1" />
+          <narrative text="Findley grounds out to shortstop Pendlebury" />
+        </play>
+        <innsummary e="1" h="1" lob="0" r="1" />
+      </batting>
+    </inning>
+    <inning number="7">
+      <batting id="RSRC" vh="V">
+        <play>
+          <batter name="Barnett" out="1" scored="0" tobase="1" />
+          <narrative text="Barnett grounds out to second baseman Mena" />
+        </play>
+        <play>
+          <batter name="Ian" out="0" scored="0" tobase="1" />
+          <narrative text="Ian singles on a ground ball to center fielder Curnow" />
+        </play>
+        <play>
+          <runner name="Ian" out="0" scored="0" tobase="2" />
+          <narrative text="Ian advances to 2nd on error by pitcher Leonard" />
+        </play>
+        <play>
+          <batter name="Robinson" out="0" scored="0" tobase="1" />
+          <runner name="Ian" out="0" scored="0" tobase="3" />
+          <narrative text="Robinson hits a ground ball and reaches on an error by third baseman Ryan" />
+        </play>
+        <play>
+          <runner name="Robinson" out="0" scored="0" tobase="2" />
+          <narrative text="Robinson advances to 2nd on the same error" />
+        </play>
+        <play>
+          <batter name="Weingott" out="0" scored="1" tobase="4" />
+          <runner name="Ian" out="0" scored="1" tobase="4" />
+          <runner name="Robinson" out="0" scored="1" tobase="4" />
+          <narrative text="Weingott homers on a fly ball to left field. Ian scores. Robinson scores" />
+        </play>
+        <play>
+          <batter name="Stewart" out="0" scored="0" tobase="1" />
+          <narrative text="Stewart singles on a ground ball to right fielder Kahn" />
+        </play>
+        <play>
+          <batter name="Pendlebury" out="0" scored="0" tobase="1" />
+          <runner name="Stewart" out="0" scored="0" tobase="2" />
+          <narrative text="Pendlebury singles on a ground ball to right fielder Kahn" />
+        </play>
+        <play>
+          <batter name="Barro" out="0" scored="0" tobase="1" />
+          <runner name="Stewart" out="1" scored="0" tobase="3" />
+          <runner name="Pendlebury" out="0" scored="0" tobase="2" />
+          <narrative text="Barro grounds into fielder's choice to shortstop McCourt" />
+        </play>
+        <play>
+          <batter name="Tre..." out="1" scored="0" tobase="0" />
+          <narrative text="Tre... flies out to left fielder Findley" />
+        </play>
+        <innsummary e="2" h="4" lob="2" r="3" />
+      </batting>
+      <batting id="SNTS" vh="H">
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <narrative text="Leonard walks, Ian pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="1" scored="0" tobase="2" />
+          <narrative text="Ryan grounds into fielder's choice to shortstop Pendlebury" />
+        </play>
+        <play>
+          <batter name="Batten" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="1" scored="0" tobase="2" />
+          <narrative text="Batten grounds into fielder's choice to shortstop Pendlebury" />
+        </play>
+        <play>
+          <batter name="Mena" out="0" scored="0" tobase="1" />
+          <runner name="Batten" out="0" scored="0" tobase="2" />
+          <narrative text="Mena walks, Ian pitching" />
+        </play>
+        <play>
+          <batter name="Kahn" out="1" scored="0" tobase="0" />
+          <narrative text="Kahn pops out to pitcher Ian" />
+        </play>
+        <innsummary e="0" h="0" lob="2" r="0" />
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>

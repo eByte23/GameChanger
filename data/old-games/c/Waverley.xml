@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bsgame generated="04/14/19" source="GameChanger" source_format="Sabertooth" version="9.17.1.1">
+  <venue date="04/13/19" gameid="5cb1bb850c93006697000276" homeid="WVRL" homename="Waverley" leaguegame="Y" location="" schedinn="9" start="14:45 PM" visid="SNTS" visname="Saints 2019 Winter C" />
+  <team code="SNTS" id="SNTS" name="St.Kilda 2019 MWBL C Grade" record="1-0-0" vh="V">
+    <linescore errs="3" hits="12" line="0,12,0,5" lob="9" runs="17">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="12" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="5" />
+    </linescore>
+    <starters>
+      <starter name="Steve Bowden" pos="C" slot="1" />
+      <starter name="Geoff Leonard" pos="P" slot="2" />
+      <starter name="Tony Torcasio" pos="SS" slot="3" />
+      <starter name="Carlo Spadazzi" pos="3B" slot="4" />
+      <starter name="Jonathon Momson" pos="CF" slot="5" />
+      <starter name="Dave Alcala" pos="LF" slot="6" />
+      <starter name="Matt Manning" pos="2B" slot="7" />
+      <starter name="Ash Ryan" pos="1B" slot="8" />
+      <starter name="Omar Gomez" pos="RF" slot="9" />
+    </starters>
+    <totals>
+      <hitting ab="25" bb="9" cs="0" double="1" gdp="0" ground="0" h="12" hbp="4" hr="0" kl="3" pickoff="0" r="17" rbi="12" rchci="0" rcherr="1" sb="2" sf="0" sh="0" so="5" triple="0" />
+      <fielding a="3" ci="0" csb="0" e="3" indp="1" intp="0" pb="0" po="12" sba="2" />
+      <pitching ab="19" bb="0" bf="19" bk="0" er="0" fly="3" ground="7" h="4" hbp="0" hr="0" ip="4.0" picked="0" pitches="43" r="4" so="1" wp="0" />
+      <hsitsummary lob="9" rbi-2out="3" rchci="0" rcherr="1" wrbiops="13" />
+      <psitsummary fly="3" ground="7" />
+    </totals>
+    <player atpos="c" gp="1" name="Steve Bowden" pos="c" shortname="Bowden" spot="1">
+      <hitting ab="3" bb="2" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="1" rbi="3" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="2" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="1" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Geoff Leonard" pos="p" shortname="Leonard" spot="2">
+      <hitting ab="4" bb="1" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="1" pickoff="0" r="2" rbi="1" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="0" indp="1" intp="0" pb="0" po="4" sba="2" />
+      <hsitsummary lob="4" rbi-2out="0" rchci="0" rcherr="1" wrbiops="2" />
+      <pitching ab="19" appear="1" bb="0" bf="19" bk="0" er="0" fly="3" ground="7" gs="1" h="4" hbp="0" hr="0" ip="4.0" picked="0" pitches="43" r="4" so="1" win="1-0" wp="0" />
+      <psitsummary fly="3" ground="7" />
+    </player>
+    <player atpos="ss" gp="1" name="Tony Torcasio" pos="ss" shortname="Torcasio" spot="3">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="3" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="3b" gp="1" name="Carlo Spadazzi" pos="3b" shortname="Spadazzi" spot="4">
+      <hitting ab="4" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="3" rbi-2out="0" rchci="0" rcherr="0" wrbiops="3" />
+    </player>
+    <player atpos="cf" gp="1" name="Jonathon Momson" pos="cf" shortname="Momson" spot="5">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="3" rbi="2" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="lf" gp="1" name="Dave Alcala" pos="lf" shortname="Alcala" spot="6">
+      <hitting ab="2" bb="1" cs="0" double="0" gdp="0" ground="0" h="0" hbp="1" hr="0" kl="0" pickoff="0" r="2" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+    </player>
+    <player atpos="2b" gp="1" name="Matt Manning" pos="2b" shortname="Manning" spot="7">
+      <hitting ab="1" bb="2" cs="0" double="1" gdp="0" ground="0" h="1" hbp="1" hr="0" kl="0" pickoff="0" r="3" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="0" indp="1" intp="0" pb="0" po="2" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="1b" gp="1" name="Ash Ryan" pos="1b" shortname="Ryan" spot="8">
+      <hitting ab="3" bb="1" cs="0" double="0" gdp="0" ground="0" h="3" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="2" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="1" ci="0" csb="0" e="2" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="rf" gp="1" name="Omar Gomez" pos="rf" shortname="Gomez" spot="9">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="2" hr="0" kl="1" pickoff="0" r="1" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="4" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+  </team>
+  <team code="WVRL" id="WVRL" name="Waverley" vh="H">
+    <linescore errs="2" hits="4" line="0,1,0,3" lob="3" runs="4">
+      <lineinn inn="1" score="0" />
+      <lineinn inn="2" score="1" />
+      <lineinn inn="3" score="0" />
+      <lineinn inn="4" score="3" />
+    </linescore>
+    <starters>
+      <starter name="Peter Yakimov" pos="SS" slot="1" />
+      <starter name="Jacob Coates" pos="CF" slot="2" />
+      <starter name="Ryan Baxter" pos="C" slot="3" />
+      <starter name="Nicolas Restrepo" pos="LF" slot="4" />
+      <starter name="Dean Ferris" pos="RF" slot="5" />
+      <starter name="Will Scottmacrchi" pos="3B" slot="6" />
+      <starter name="Jamie Della" pos="2B" slot="7" />
+      <starter name="Ewan Jones" pos="1B" slot="8" />
+      <starter name="Finn Mcgrath" pos="P" slot="9" />
+      <starter name="Dom Mcgrath" pos="P" slot="10" />
+    </starters>
+    <totals>
+      <hitting ab="19" bb="0" cs="0" double="0" gdp="1" ground="0" h="4" hbp="0" hr="0" kl="1" pickoff="0" r="4" rbi="4" rchci="0" rcherr="3" sb="2" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="2" indp="0" intp="0" pb="0" po="12" sba="2" />
+      <pitching ab="25" bb="9" bf="38" bk="0" er="17" fly="3" ground="2" h="12" hbp="4" hr="0" ip="4.0" picked="0" pitches="160" r="17" so="5" wp="4" />
+      <hsitsummary lob="3" rbi-2out="1" rchci="0" rcherr="3" wrbiops="7" />
+      <psitsummary fly="3" ground="2" />
+    </totals>
+    <player atpos="ss" gp="1" name="Peter Yakimov" pos="ss" shortname="Yakimov" spot="1">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="1" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="1" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <pitching ab="11" appear="3" bb="3" bf="15" bk="0" er="5" fly="3" ground="0" gs="0" h="6" hbp="1" hr="0" ip="1.2" loss="0-1" picked="0" pitches="55" r="5" so="1" wp="0" />
+      <psitsummary fly="3" ground="0" />
+    </player>
+    <player atpos="cf" gp="1" name="Jacob Coates" pos="cf" shortname="Coates" spot="2">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="1" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="1" wrbiops="0" />
+    </player>
+    <player atpos="c" gp="1" name="Ryan Baxter" pos="c" shortname="Baxter" spot="3">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="6" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="lf" gp="1" name="Nicolas Restrepo" pos="lf" shortname="Restrepo" spot="4">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="1" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+    </player>
+    <player atpos="rf" gp="1" name="Dean Ferris" pos="rf" shortname="Ferris" spot="5">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="1" hbp="0" hr="0" kl="0" pickoff="0" r="2" rbi="1" rchci="0" rcherr="1" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="1" wrbiops="1" />
+    </player>
+    <player atpos="3b" gp="1" name="Will Scottmacrchi" pos="3b" shortname="Scottmacrchi" spot="6">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="1" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="3" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="2b" gp="1" name="Jamie Della" pos="2b" shortname="Della" spot="7">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="2" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="2" rchci="0" rcherr="0" sb="1" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="1" rchci="0" rcherr="0" wrbiops="2" />
+    </player>
+    <player atpos="1b" gp="1" name="Ewan Jones" pos="1b" shortname="Jones" spot="8">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="1" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="1" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="1" sba="2" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="1" wrbiops="1" />
+      <pitching ab="7" appear="2" bb="1" bf="10" bk="0" er="4" fly="0" ground="1" gs="0" h="4" hbp="2" hr="0" ip="0.2" picked="0" pitches="42" r="5" so="0" wp="4" />
+      <psitsummary fly="0" ground="1" />
+    </player>
+    <player atpos="p" gp="1" gs="1" name="Finn Mcgrath" pos="p" shortname="Mcgrath" spot="9">
+      <hitting ab="2" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="2" rbi-2out="0" rchci="0" rcherr="0" wrbiops="1" />
+      <pitching ab="6" appear="1" bb="5" bf="12" bk="0" er="7" fly="0" ground="0" gs="1" h="2" hbp="1" hr="0" ip="1.1" picked="0" pitches="56" r="7" so="4" wp="0" />
+      <psitsummary fly="0" ground="0" />
+    </player>
+    <player atpos="p" gp="1" name="Dom Mcgrath" pos="p" shortname="Mcgrath" spot="10">
+      <hitting ab="1" bb="0" cs="0" double="0" gdp="0" ground="0" h="0" hbp="0" hr="0" kl="0" pickoff="0" r="0" rbi="0" rchci="0" rcherr="0" sb="0" sf="0" sh="0" so="0" triple="0" />
+      <fielding a="0" ci="0" csb="0" e="0" indp="0" intp="0" pb="0" po="0" sba="0" />
+      <hsitsummary lob="0" rbi-2out="0" rchci="0" rcherr="0" wrbiops="0" />
+      <pitching ab="1" appear="4" bb="0" bf="1" bk="0" er="0" fly="0" ground="1" gs="0" h="0" hbp="0" hr="0" ip="0.1" picked="0" pitches="7" r="0" so="0" wp="0" />
+      <psitsummary fly="0" ground="1" />
+    </player>
+  </team>
+  <plays format="summary">
+    <inning number="1">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden strikes out swinging, Mcgrath pitching" />
+        </play>
+        <play>
+          <batter name="Leonard" out="1" scored="0" tobase="0" />
+          <narrative text="Leonard strikes out looking, Mcgrath pitching" />
+        </play>
+        <play>
+          <batter name="Torcasio" out="0" scored="0" tobase="1" />
+          <narrative text="Torcasio singles on a ground ball to left fielder Restrepo" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="1" scored="0" tobase="0" />
+          <narrative text="Spadazzi strikes out swinging, Mcgrath pitching" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="0" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <batter name="Yakimov" out="1" scored="0" tobase="0" />
+          <narrative text="Yakimov strikes out looking, Leonard pitching" />
+        </play>
+        <play>
+          <batter name="Coates" out="0" scored="0" tobase="1" />
+          <narrative text="Coates singles on a line drive to left fielder Alcala" />
+        </play>
+        <play>
+          <batter name="Baxter" out="1" scored="0" tobase="0" />
+          <narrative text="Baxter flies out to center fielder Momson" />
+        </play>
+        <play>
+          <batter name="Restrepo" out="1" scored="0" tobase="1" />
+          <narrative text="Restrepo grounds out to third baseman Spadazzi" />
+        </play>
+        <innsummary e="0" h="1" lob="1" r="0" />
+      </batting>
+    </inning>
+    <inning number="2">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Momson" out="0" scored="0" tobase="1" />
+          <narrative text="Momson singles on a line drive to second baseman Della" />
+        </play>
+        <play>
+          <batter name="Alcala" out="0" scored="0" tobase="1" />
+          <runner name="Momson" out="0" scored="0" tobase="2" />
+          <narrative text="Alcala walks, Mcgrath pitching" />
+        </play>
+        <play>
+          <batter name="Manning" out="0" scored="0" tobase="1" />
+          <runner name="Momson" out="0" scored="0" tobase="3" />
+          <runner name="Alcala" out="0" scored="0" tobase="2" />
+          <narrative text="Manning is hit by pitch, Mcgrath pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Momson" out="0" scored="1" tobase="4" />
+          <runner name="Alcala" out="0" scored="0" tobase="3" />
+          <runner name="Manning" out="0" scored="0" tobase="2" />
+          <narrative text="Ryan walks, Mcgrath pitching. Momson scores" />
+        </play>
+        <play>
+          <batter name="Gomez" out="1" scored="0" tobase="0" />
+          <narrative text="Gomez strikes out looking, Mcgrath pitching" />
+        </play>
+        <play>
+          <batter name="Bowden" out="0" scored="0" tobase="1" />
+          <runner name="Alcala" out="0" scored="1" tobase="4" />
+          <runner name="Manning" out="0" scored="0" tobase="3" />
+          <runner name="Ryan" out="0" scored="0" tobase="2" />
+          <narrative text="Bowden walks, Mcgrath pitching. Alcala scores" />
+        </play>
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <runner name="Manning" out="0" scored="1" tobase="4" />
+          <runner name="Ryan" out="0" scored="0" tobase="3" />
+          <runner name="Bowden" out="0" scored="0" tobase="2" />
+          <narrative text="Leonard walks, Mcgrath pitching. Manning scores" />
+        </play>
+        <play>
+          <batter name="Torcasio" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="1" tobase="4" />
+          <runner name="Bowden" out="0" scored="0" tobase="3" />
+          <runner name="Leonard" out="0" scored="0" tobase="2" />
+          <narrative text="Torcasio walks, Mcgrath pitching. Ryan scores" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Jones in at pitcher" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Mcgrath in at first baseman" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="0" scored="0" tobase="1" />
+          <runner name="Bowden" out="0" scored="1" tobase="4" />
+          <runner name="Leonard" out="0" scored="0" tobase="3" />
+          <runner name="Torcasio" out="0" scored="0" tobase="2" />
+          <narrative text="Spadazzi singles on a ground ball to right fielder Ferris. Bowden scores" />
+        </play>
+        <play>
+          <runner name="Leonard" out="0" scored="1" tobase="4" />
+          <narrative text="Leonard scores on wild pitch" />
+        </play>
+        <play>
+          <runner name="Torcasio" out="0" scored="0" tobase="3" />
+          <narrative text="Torcasio advances to 3rd on the same pitch" />
+        </play>
+        <play>
+          <runner name="Spadazzi" out="0" scored="0" tobase="2" />
+          <narrative text="Spadazzi advances to 2nd on the same pitch" />
+        </play>
+        <play>
+          <runner name="Torcasio" out="0" scored="1" tobase="4" />
+          <narrative text="Torcasio scores on wild pitch" />
+        </play>
+        <play>
+          <runner name="Spadazzi" out="0" scored="0" tobase="3" />
+          <narrative text="Spadazzi advances to 3rd on the same pitch" />
+        </play>
+        <play>
+          <batter name="Momson" out="0" scored="0" tobase="1" />
+          <narrative text="Momson walks, Jones pitching" />
+        </play>
+        <play>
+          <runner name="Spadazzi" out="0" scored="1" tobase="4" />
+          <narrative text="Spadazzi scores on steal of home" />
+        </play>
+        <play>
+          <runner name="Momson" out="0" scored="0" tobase="2" />
+          <narrative text="Momson steals 2nd" />
+        </play>
+        <play>
+          <runner name="Momson" out="0" scored="0" tobase="3" />
+          <narrative text="Momson advances to 3rd on error by shortstop Yakimov" />
+        </play>
+        <play>
+          <runner name="Momson" out="0" scored="1" tobase="4" />
+          <narrative text="Momson scores on wild pitch" />
+        </play>
+        <play>
+          <batter name="Alcala" out="0" scored="0" tobase="1" />
+          <narrative text="Alcala is hit by pitch, Jones pitching" />
+        </play>
+        <play>
+          <batter name="Manning" out="0" scored="0" tobase="2" />
+          <runner name="Alcala" out="0" scored="1" tobase="4" />
+          <narrative text="Manning doubles on a line drive to left fielder Restrepo. Alcala scores" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Manning" out="0" scored="0" tobase="3" />
+          <narrative text="Ryan singles on a ground ball to shortstop Yakimov" />
+        </play>
+        <play>
+          <batter name="Gomez" out="0" scored="0" tobase="1" />
+          <runner name="Ryan" out="0" scored="0" tobase="2" />
+          <narrative text="Gomez is hit by pitch, Jones pitching" />
+        </play>
+        <play>
+          <batter name="Bowden" out="0" scored="0" tobase="1" />
+          <runner name="Manning" out="0" scored="1" tobase="4" />
+          <runner name="Ryan" out="1" scored="0" tobase="3" />
+          <runner name="Gomez" out="0" scored="0" tobase="2" />
+          <narrative text="Bowden grounds into fielder's choice to third baseman Scottmacrchi. Manning scores" />
+        </play>
+        <play>
+          <runner name="Gomez" out="0" scored="0" tobase="3" />
+          <narrative text="Gomez advances to 3rd on wild pitch" />
+        </play>
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <runner name="Gomez" out="0" scored="1" tobase="4" />
+          <runner name="Bowden" out="0" scored="0" tobase="2" />
+          <narrative text="Leonard hits a fly ball and reaches on an error by center fielder Coates. Gomez scores" />
+        </play>
+        <play>
+          <batter name="Torcasio" out="0" scored="0" tobase="1" />
+          <runner name="Bowden" out="0" scored="0" tobase="3" />
+          <runner name="Leonard" out="0" scored="0" tobase="2" />
+          <narrative text="Torcasio singles on a line drive to right fielder Ferris" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="1" scored="0" tobase="1" />
+          <narrative text="Spadazzi grounds out to pitcher Jones" />
+        </play>
+        <innsummary e="2" h="5" lob="3" r="12" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <batter name="Ferris" out="0" scored="0" tobase="1" />
+          <narrative text="Ferris hits a hard ground ball and reaches on an error by first baseman Ryan" />
+        </play>
+        <play>
+          <runner name="Ferris" out="0" scored="0" tobase="2" />
+          <narrative text="Ferris steals 2nd" />
+        </play>
+        <play>
+          <batter name="Scottmacrchi" out="1" scored="0" tobase="1" />
+          <runner name="Ferris" out="0" scored="0" tobase="3" />
+          <narrative text="Scottmacrchi grounds out to pitcher Leonard" />
+        </play>
+        <play>
+          <batter name="Della" out="0" scored="0" tobase="1" />
+          <runner name="Ferris" out="0" scored="1" tobase="4" />
+          <narrative text="Della singles on a fly ball to right fielder Gomez. Ferris scores" />
+        </play>
+        <play>
+          <batter name="Jones" out="1" scored="0" tobase="1" />
+          <runner name="Della" out="1" scored="0" tobase="2" />
+          <narrative text="Jones grounds into a double play, pitcher Leonard to second baseman Manning to pitcher Leonard" />
+        </play>
+        <innsummary e="1" h="1" lob="0" r="1" />
+      </batting>
+    </inning>
+    <inning number="3">
+      <batting id="SNTS" vh="V">
+        <play>
+          <narrative text="Lineup changed: Yakimov in at pitcher" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Jones in at first baseman" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Mcgrath in at shortstop" />
+        </play>
+        <play>
+          <batter name="Momson" out="1" scored="0" tobase="0" />
+          <narrative text="Momson flies out to left fielder Restrepo" />
+        </play>
+        <play>
+          <batter name="Alcala" out="1" scored="0" tobase="0" />
+          <narrative text="Alcala flies out to right fielder Ferris" />
+        </play>
+        <play>
+          <batter name="Manning" out="0" scored="0" tobase="1" />
+          <narrative text="Manning walks, Yakimov pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Manning" out="0" scored="0" tobase="2" />
+          <narrative text="Ryan singles on a hard ground ball to left fielder Restrepo" />
+        </play>
+        <play>
+          <batter name="Gomez" out="0" scored="0" tobase="1" />
+          <runner name="Manning" out="1" scored="0" tobase="3" />
+          <runner name="Ryan" out="0" scored="0" tobase="2" />
+          <narrative text="Gomez grounds into fielder's choice to third baseman Scottmacrchi" />
+        </play>
+        <innsummary e="0" h="1" lob="2" r="0" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <batter name="Mcgrath" out="1" scored="0" tobase="1" />
+          <narrative text="Mcgrath grounds out to pitcher Leonard" />
+        </play>
+        <play>
+          <batter name="Mcgrath" out="1" scored="0" tobase="0" />
+          <narrative text="Mcgrath pops out to second baseman Manning" />
+        </play>
+        <play>
+          <batter name="Yakimov" out="1" scored="0" tobase="1" />
+          <narrative text="Yakimov grounds out to third baseman Spadazzi" />
+        </play>
+        <innsummary e="0" h="0" lob="0" r="0" />
+      </batting>
+    </inning>
+    <inning number="4">
+      <batting id="SNTS" vh="V">
+        <play>
+          <batter name="Bowden" out="1" scored="0" tobase="0" />
+          <narrative text="Bowden strikes out looking, Yakimov pitching" />
+        </play>
+        <play>
+          <batter name="Leonard" out="0" scored="0" tobase="1" />
+          <narrative text="Leonard singles on a fly ball to center fielder Coates" />
+        </play>
+        <play>
+          <batter name="Torcasio" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="0" scored="0" tobase="2" />
+          <narrative text="Torcasio singles on a fly ball to center fielder Coates" />
+        </play>
+        <play>
+          <batter name="Spadazzi" out="0" scored="0" tobase="1" />
+          <runner name="Leonard" out="0" scored="0" tobase="3" />
+          <runner name="Torcasio" out="0" scored="0" tobase="2" />
+          <narrative text="Spadazzi singles on a ground ball to shortstop Mcgrath" />
+        </play>
+        <play>
+          <batter name="Momson" out="0" scored="0" tobase="2" />
+          <runner name="Leonard" out="0" scored="1" tobase="4" />
+          <runner name="Torcasio" out="0" scored="1" tobase="4" />
+          <runner name="Spadazzi" out="0" scored="0" tobase="3" />
+          <narrative text="Momson singles on a ground ball to left fielder Restrepo. Leonard scores. Torcasio scores" />
+        </play>
+        <play>
+          <batter name="Alcala" out="1" scored="0" tobase="0" />
+          <narrative text="Alcala pops out in foul territory to catcher Baxter" />
+        </play>
+        <play>
+          <batter name="Manning" out="0" scored="0" tobase="1" />
+          <narrative text="Manning walks, Yakimov pitching" />
+        </play>
+        <play>
+          <batter name="Ryan" out="0" scored="0" tobase="1" />
+          <runner name="Spadazzi" out="0" scored="1" tobase="4" />
+          <runner name="Momson" out="0" scored="0" tobase="3" />
+          <runner name="Manning" out="0" scored="0" tobase="2" />
+          <narrative text="Ryan singles on a hard ground ball to third baseman Scottmacrchi. Spadazzi scores" />
+        </play>
+        <play>
+          <batter name="Gomez" out="0" scored="0" tobase="1" />
+          <runner name="Momson" out="0" scored="1" tobase="4" />
+          <runner name="Manning" out="0" scored="0" tobase="3" />
+          <runner name="Ryan" out="0" scored="0" tobase="2" />
+          <narrative text="Gomez is hit by pitch, Yakimov pitching. Momson scores" />
+        </play>
+        <play>
+          <batter name="Bowden" out="0" scored="0" tobase="1" />
+          <runner name="Manning" out="0" scored="1" tobase="4" />
+          <runner name="Ryan" out="0" scored="0" tobase="3" />
+          <runner name="Gomez" out="0" scored="0" tobase="2" />
+          <narrative text="Bowden walks, Yakimov pitching. Manning scores" />
+        </play>
+        <play>
+          <narrative text="Lineup changed: Mcgrath in at pitcher" />
+        </play>
+        <play>
+          <batter name="Leonard" out="1" scored="0" tobase="1" />
+          <narrative text="Leonard grounds out to third baseman Scottmacrchi" />
+        </play>
+        <innsummary e="0" h="5" lob="3" r="5" />
+      </batting>
+      <batting id="WVRL" vh="H">
+        <play>
+          <batter name="Coates" out="0" scored="0" tobase="1" />
+          <narrative text="Coates hits a ground ball and reaches on an error by first baseman Ryan" />
+        </play>
+        <play>
+          <batter name="Baxter" out="1" scored="0" tobase="0" />
+          <narrative text="Baxter flies out to first baseman Ryan" />
+        </play>
+        <play>
+          <batter name="Restrepo" out="0" scored="0" tobase="1" />
+          <runner name="Coates" out="0" scored="0" tobase="2" />
+          <narrative text="Restrepo grounds into fielder's choice, third baseman Spadazzi to second baseman Manning" />
+        </play>
+        <play>
+          <batter name="Ferris" out="0" scored="0" tobase="2" />
+          <runner name="Coates" out="0" scored="1" tobase="4" />
+          <runner name="Restrepo" out="0" scored="0" tobase="3" />
+          <narrative text="Ferris singles on a fly ball to right fielder Gomez. Coates scores" />
+        </play>
+        <play>
+          <batter name="Scottmacrchi" out="1" scored="0" tobase="1" />
+          <runner name="Restrepo" out="0" scored="1" tobase="4" />
+          <runner name="Ferris" out="0" scored="0" tobase="3" />
+          <narrative text="Scottmacrchi grounds out to pitcher Leonard. Restrepo scores" />
+        </play>
+        <play>
+          <batter name="Della" out="0" scored="0" tobase="1" />
+          <runner name="Ferris" out="0" scored="1" tobase="4" />
+          <narrative text="Della singles on a hard ground ball to left fielder Alcala. Ferris scores" />
+        </play>
+        <play>
+          <runner name="Della" out="0" scored="0" tobase="2" />
+          <narrative text="Della steals 2nd" />
+        </play>
+        <play>
+          <batter name="Jones" out="0" scored="0" tobase="1" />
+          <runner name="Della" out="0" scored="0" tobase="3" />
+          <narrative text="Jones hits a ground ball and reaches on an error by shortstop Torcasio" />
+        </play>
+        <play>
+          <batter name="Mcgrath" out="1" scored="0" tobase="1" />
+          <narrative text="Mcgrath grounds out, first baseman Ryan to shortstop Torcasio" />
+        </play>
+        <innsummary e="2" h="2" lob="2" r="3" />
+      </batting>
+    </inning>
+  </plays>
+  <status complete="Y" />
+</bsgame>
